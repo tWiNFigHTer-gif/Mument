@@ -1,0 +1,6170 @@
+[
+  {
+    "review_id":"r_0269",
+    "text":"Low running cost compared to petrol cars makes this a great choice",
+    "rating":4,
+    "timestamp":1749859200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0116",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1759017600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0449",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":5,
+    "timestamp":1743120000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0678",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1742774400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0090",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":5,
+    "timestamp":1749340800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0597",
+    "text":"After-sales service experience has been disappointing",
+    "rating":2,
+    "timestamp":1753920000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0413",
+    "text":"The charging cable provided feels low quality",
+    "rating":1,
+    "timestamp":1762041600000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0021",
+    "text":"The cabin is quiet and comfortable even at highway speeds",
+    "rating":5,
+    "timestamp":1751241600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0105",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":5,
+    "timestamp":1750032000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0059",
+    "text":"Charging stations are often occupied or not working",
+    "rating":2,
+    "timestamp":1752364800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0937",
+    "text":"Suitable for eco-conscious buyers with moderate usage",
+    "rating":3,
+    "timestamp":1764892800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_2392",
+    "text":"Check out the tire wear on my rear tire? Only 12k miles and nearly down to the metal? Any ideas? Alignment? Would warranty cover anything? 1 year old and 12k miles",
+    "rating":1,
+    "timestamp":1715472000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1742",
+    "text":"Any suggestions on tires (21 inch rims)?  The rear tires wear out quickly (16k miles). I have replaced 1 rear with the Michelin tires that came with the car and I am in the process of replacing the other rear tire. Has anyone had luck with an alternate brand that is capable of handling the weight of the car?  Surprisingly, the front tires are still in good shape.",
+    "rating":1,
+    "timestamp":1701043200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0042",
+    "text":"Maintenance cost seems reasonable so far",
+    "rating":3,
+    "timestamp":1738627200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0355",
+    "text":"The EV delivers smooth acceleration and feels futuristic to drive",
+    "rating":4,
+    "timestamp":1765929600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0084",
+    "text":"Ride quality is acceptable but not outstanding",
+    "rating":3,
+    "timestamp":1764115200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0977",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":5,
+    "timestamp":1756512000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0303",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":5,
+    "timestamp":1746403200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0769",
+    "text":"The car feels practical rather than premium",
+    "rating":3,
+    "timestamp":1753056000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0386",
+    "text":"Range is sufficient for daily needs only",
+    "rating":3,
+    "timestamp":1737072000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0974",
+    "text":"The car feels eco-friendly without compromising on comfort",
+    "rating":5,
+    "timestamp":1741651200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0195",
+    "text":"Interior materials feel premium for this price range",
+    "rating":5,
+    "timestamp":1750291200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0233",
+    "text":"Charging infrastructure availability is still a major issue",
+    "rating":1,
+    "timestamp":1761091200000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_2288",
+    "text":" I bought two new Ring stick up cams to add to the seven I already had. Having multiple cameras for years now I have an idea roughly how long a battery might last.   One of the new cameras runs out of battery in a single day. I swapped batteries and same thing. The other camera doesn\u2019t do this. I am guessing it is defective? Anything to try to diagnose or should I just return it? ",
+    "rating":1,
+    "timestamp":1722297600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0913",
+    "text":"Technology features are adequate for the segment",
+    "rating":3,
+    "timestamp":1753142400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0056",
+    "text":"Service center staff lack proper EV-specific knowledge",
+    "rating":1,
+    "timestamp":1763251200000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0276",
+    "text":"Acceleration is fine but not very sporty",
+    "rating":3,
+    "timestamp":1750896000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0483",
+    "text":"The EV feels stable and confident at high speeds",
+    "rating":4,
+    "timestamp":1756944000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0855",
+    "text":"Software updates have improved performance over time",
+    "rating":4,
+    "timestamp":1756944000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0205",
+    "text":"The infotainment system is responsive and easy to navigate",
+    "rating":4,
+    "timestamp":1745280000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0226",
+    "text":"After-sales service experience has been disappointing",
+    "rating":1,
+    "timestamp":1748736000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0430",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1748995200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0829",
+    "text":"Steering is precise and gives good control in city traffic",
+    "rating":5,
+    "timestamp":1736812800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0306",
+    "text":"Climate control works efficiently without draining the battery much",
+    "rating":4,
+    "timestamp":1766016000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_1708",
+    "text":"Hello, my friend told me that there was a like a generator (or something to convert) that pulls electricity from the air and can convert it into energy to store in a battery. That there was a blueprint to buy online and it\u2019s from Tesla but I have no luck in finding something even remotely close to it. Is there such a device?  To be honest been on a DIY craze and wanting to work on a project and thought to give something like this a shot.",
+    "rating":1,
+    "timestamp":1698883200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0322",
+    "text":"Overall experience is balanced with pros and cons",
+    "rating":3,
+    "timestamp":1747872000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0183",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":5,
+    "timestamp":1764806400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_1270",
+    "text":"Has anyone else had this problem\u2026 if so what was the fix and was it covered under warranty? ",
+    "rating":1,
+    "timestamp":1712966400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0192",
+    "text":"Overall experience is balanced with pros and cons",
+    "rating":3,
+    "timestamp":1757289600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0685",
+    "text":"Charging stations are often occupied or not working",
+    "rating":2,
+    "timestamp":1745712000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0442",
+    "text":"The cabin is quiet and comfortable even at highway speeds",
+    "rating":5,
+    "timestamp":1746835200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0987",
+    "text":"Climate control works efficiently without draining the battery much",
+    "rating":5,
+    "timestamp":1738800000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_2046",
+    "text":"I have two 45-minute technical interviews including live coding with Tesla coming up. I don't know much about the interview process at Tesla. I was wondering if anyone has interviewed for a QA role with Tesla previously. If so, how was your experience? how can you prepare for this interview?      Thanks in advance!",
+    "rating":1,
+    "timestamp":1720742400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0741",
+    "text":"The driving experience is smooth but predictable",
+    "rating":3,
+    "timestamp":1760400000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0739",
+    "text":"Regenerative braking feels too aggressive at times",
+    "rating":1,
+    "timestamp":1760572800000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0691",
+    "text":"The charging cable provided feels low quality",
+    "rating":1,
+    "timestamp":1756339200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_2524",
+    "text":"I\u2019ve always had a lot of respect for this company. It\u2019s unfortunate what they had to go through due to the usa\/google ban.",
+    "rating":1,
+    "timestamp":1715472000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0227",
+    "text":"Real-world range is lower than what was advertised",
+    "rating":1,
+    "timestamp":1751500800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0676",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":4,
+    "timestamp":1741737600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0082",
+    "text":"Driving modes are practical and noticeably change performance",
+    "rating":4,
+    "timestamp":1756598400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0181",
+    "text":"The EV delivers smooth acceleration and feels futuristic to drive",
+    "rating":5,
+    "timestamp":1741737600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0593",
+    "text":"Suitable for eco-conscious buyers with moderate usage",
+    "rating":3,
+    "timestamp":1742774400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0468",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1744848000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0290",
+    "text":"Good ground clearance for Indian road conditions",
+    "rating":5,
+    "timestamp":1765411200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0999",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1756598400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_1022",
+    "text":"I've stumbled upon this bug a while ago, so it's been in the game for a long time. Basically, if a tesla trap and freeze gun dart(?) both hit a zombie just in the right moment, a tesla gun ammo will get spawned. I'm not sure how it could work as a bug, nor I don't think it's a feature that devs decided to add for fun. What y'all think?",
+    "rating":1,
+    "timestamp":1716336000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0422",
+    "text":"Acceleration is fine but not very sporty",
+    "rating":3,
+    "timestamp":1750723200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0670",
+    "text":"Range is sufficient for daily needs only",
+    "rating":3,
+    "timestamp":1735862400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0610",
+    "text":"Climate control works efficiently without draining the battery much",
+    "rating":4,
+    "timestamp":1752105600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0502",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":5,
+    "timestamp":1752537600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0487",
+    "text":"Fast charging support works reliably and saves a lot of time",
+    "rating":5,
+    "timestamp":1749340800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0793",
+    "text":"Good ground clearance for Indian road conditions",
+    "rating":4,
+    "timestamp":1754956800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0329",
+    "text":"Instant torque makes overtaking effortless",
+    "rating":5,
+    "timestamp":1741564800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0751",
+    "text":"Comfort level is okay for short journeys",
+    "rating":3,
+    "timestamp":1758585600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0875",
+    "text":"High upfront cost makes it hard to justify",
+    "rating":1,
+    "timestamp":1753920000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_1802",
+    "text":"I dunno how common this suspension issue is and if it's not really a big deal and the news is just locking onto Tesla news.   I keep getting shown control arm news and I can't ignore that it could happen even if it's not likely. Have y'all experienced the suspension issue and this is blown out of proportion or are there any mitigation to help here.",
+    "rating":1,
+    "timestamp":1703548800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0506",
+    "text":"High upfront cost makes it hard to justify",
+    "rating":2,
+    "timestamp":1746316800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1052",
+    "text":"I can simple take the right here  ",
+    "rating":1,
+    "timestamp":1726272000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0243",
+    "text":"Maintenance cost seems reasonable so far",
+    "rating":3,
+    "timestamp":1735689600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0722",
+    "text":"Technology features are adequate for the segment",
+    "rating":3,
+    "timestamp":1755302400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0740",
+    "text":"The charging cable provided feels low quality",
+    "rating":1,
+    "timestamp":1759708800000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0548",
+    "text":"The EV delivers smooth acceleration and feels futuristic to drive",
+    "rating":5,
+    "timestamp":1752105600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0966",
+    "text":"Instant torque makes overtaking effortless",
+    "rating":4,
+    "timestamp":1762732800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_2317",
+    "text":"Kind of want to build one now",
+    "rating":1,
+    "timestamp":1712016000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0479",
+    "text":"Software updates have improved performance over time",
+    "rating":4,
+    "timestamp":1742688000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0944",
+    "text":"Interior materials feel premium for this price range",
+    "rating":5,
+    "timestamp":1767139200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0453",
+    "text":"The EV feels stable and confident at high speeds",
+    "rating":4,
+    "timestamp":1748563200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0557",
+    "text":"Acceleration is fine but not very sporty",
+    "rating":3,
+    "timestamp":1745712000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0641",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1765065600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_2500",
+    "text":"2018 RWD LR, Tesla mobile changed 12v and service center changed citing bad batch. Still error persist and I see drop in battery .   Any recommendation ?",
+    "rating":1,
+    "timestamp":1717113600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1884",
+    "text":"Test drive an ocean today.  Really like it but the dealer said only has one fob.  Not having two is a deal breaker for me.  What are my options?  Can I order more or swap a used one from salvage \/ donor vehicle?",
+    "rating":1,
+    "timestamp":1721520000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0742",
+    "text":"Performance is average compared to other electric cars",
+    "rating":3,
+    "timestamp":1738713600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_1972",
+    "text":"My Galaxy A13 4G is on Android 14 OneUI 6.0 but today my phone are start lagging and often crash and rebooting (even crashed when opening app and recording and rename files). I don\u2019t why this happen as yesterday it\u2019s still working fine, please help.",
+    "rating":1,
+    "timestamp":1718064000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0545",
+    "text":"The car feels practical rather than premium",
+    "rating":3,
+    "timestamp":1763510400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_2368",
+    "text":"I am looking to have an additional key fob printed and programmed for my g70, I had a spare but unfortunately our dog destroyed it, but is it worth going to the dealership and paying for one or am I better off finding a third party service that could do it for much cheaper? ",
+    "rating":1,
+    "timestamp":1724630400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0665",
+    "text":"Comfort level is okay for short journeys",
+    "rating":3,
+    "timestamp":1743811200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0561",
+    "text":"Regenerative braking feels too aggressive at times",
+    "rating":1,
+    "timestamp":1766793600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0221",
+    "text":"The car feels practical rather than premium",
+    "rating":3,
+    "timestamp":1743984000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0486",
+    "text":"Rear seat comfort could have been better",
+    "rating":1,
+    "timestamp":1756080000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_2697",
+    "text":"I was wondering why there\u2019s no fsd support here in the UAE. We have one of the best roads with proper signage, the country is looking into driverless taxis and autonomous vehicles. Yet, Tesla isn\u2019t able to release enhanced or fsd autopilot here in the UAE.   Just wondering if it\u2019s an issue from Tesla or the local laws preventing them from doing it. ",
+    "rating":1,
+    "timestamp":1714521600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0345",
+    "text":"Rear seat comfort could have been better",
+    "rating":1,
+    "timestamp":1758585600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0139",
+    "text":"Charging stations are often occupied or not working",
+    "rating":2,
+    "timestamp":1739923200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0030",
+    "text":"Charging infrastructure availability is still a major issue",
+    "rating":1,
+    "timestamp":1737331200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0810",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1758585600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0189",
+    "text":"Performance is average compared to other electric cars",
+    "rating":3,
+    "timestamp":1766188800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0657",
+    "text":"Low running cost compared to petrol cars makes this a great choice",
+    "rating":5,
+    "timestamp":1761091200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0439",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":4,
+    "timestamp":1767225600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0036",
+    "text":"Acceleration is fine but not very sporty",
+    "rating":3,
+    "timestamp":1745280000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0228",
+    "text":"Charging speed is neither fast nor too slow",
+    "rating":3,
+    "timestamp":1751760000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0173",
+    "text":"Rear seat comfort could have been better",
+    "rating":1,
+    "timestamp":1767225600000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0645",
+    "text":"The car feels eco-friendly without compromising on comfort",
+    "rating":4,
+    "timestamp":1740009600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0150",
+    "text":"Interior design is simple and minimal",
+    "rating":3,
+    "timestamp":1753833600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_2549",
+    "text":"I have a 2019 TM3 with old ecu  Currently the car is salvage title   I purchased the cvs retrofit parts   After installing parts, should I go into service mode, do a software reinstall, as I saw on vid  Or do a software update?   Since it\u2019s currently salvage, I don\u2019t want it to loose the FSD and other features   Any advise ",
+    "rating":1,
+    "timestamp":1709424000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0447",
+    "text":"Overall experience is balanced with pros and cons",
+    "rating":3,
+    "timestamp":1758758400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0555",
+    "text":"Technology features are adequate for the segment",
+    "rating":3,
+    "timestamp":1745452800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0064",
+    "text":"Safety features like ABS and airbags inspire confidence",
+    "rating":5,
+    "timestamp":1741824000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0086",
+    "text":"Regenerative braking feels too aggressive at times",
+    "rating":2,
+    "timestamp":1756166400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_2556",
+    "text":"Before the last update my battery would easily last all day and night. I\u2019d even have enough to keep it going until the afternoon. Since updating last night to watchOS 10.1.1, the battery on my Series 8 has been awful. I\u2019ve not used GPS or cellular and had my phone with me all day. Anyone else had this issue? I know I only charged it to 88% this morning but I can\u2019t remember the last time I had to top it up in the evening before a workout.",
+    "rating":1,
+    "timestamp":1699660800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0844",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":4,
+    "timestamp":1749772800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0146",
+    "text":"Charging experience depends heavily on station availability",
+    "rating":3,
+    "timestamp":1738195200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0394",
+    "text":"Service center staff lack proper EV-specific knowledge",
+    "rating":2,
+    "timestamp":1750032000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0102",
+    "text":"Overall experience is balanced with pros and cons",
+    "rating":3,
+    "timestamp":1744156800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0828",
+    "text":"Suspension feels stiff on rough roads",
+    "rating":1,
+    "timestamp":1737936000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0477",
+    "text":"The EV is decent for city use but not ideal for long drives",
+    "rating":3,
+    "timestamp":1754784000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0736",
+    "text":"Interior materials feel premium for this price range",
+    "rating":4,
+    "timestamp":1742169600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0415",
+    "text":"The EV meets expectations but does not exceed them",
+    "rating":3,
+    "timestamp":1748995200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0718",
+    "text":"Low running cost compared to petrol cars makes this a great choice",
+    "rating":5,
+    "timestamp":1763337600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0130",
+    "text":"Charging stations are often occupied or not working",
+    "rating":1,
+    "timestamp":1757894400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0536",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1765324800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0525",
+    "text":"Battery performance drops noticeably in extreme heat",
+    "rating":1,
+    "timestamp":1745452800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1817",
+    "text":"Every single time I load into the Dark Matter Drill mission within 5 minutes divers start leaving the match because its hard. I know it's hard, but we've gotta turn this damn planet into a black hole and we can't do it if people give up. Once shit gets rough chill out, group up, and get ready for the next drill wave because that's the only way we're gonna squash these fucking bugs. OOH RAHH!",
+    "rating":1,
+    "timestamp":1717200000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1995",
+    "text":"I don\u2019t know. Seems to me that 125 degrees is a tad on the warm side for something that you are forced to touch with your fingers. But apparently that\u2019s within spec\u2026",
+    "rating":1,
+    "timestamp":1723075200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_2563",
+    "text":"The car gave me some direction to tell my phone to let tesla run in the background or something, yet I couldn\u2019t find anything in Bluetooth or tesla settings. I eventually thought to use the keycard.  How can it be connected through Bluetooth and still not let me drive? Does anyone know the buttons I need to press to prevent this from happening again? ",
+    "rating":1,
+    "timestamp":1722124800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0609",
+    "text":"Instant torque makes overtaking effortless",
+    "rating":5,
+    "timestamp":1758672000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_1156",
+    "text":"Is it just my car or does anyone else car have huge panel gaps on the doors and trunk. Everything lines up it's just that they're quite large for a Toyota. Just curious if it's just me, haven't had a chance to see any other Bz4x's in the wild to compare.     edit. pictures [https:\/\/imgur.com\/a\/Xks0pw4](https:\/\/imgur.com\/a\/Xks0pw4)",
+    "rating":1,
+    "timestamp":1713916800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0298",
+    "text":"Steering is precise and gives good control in city traffic",
+    "rating":5,
+    "timestamp":1764460800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0190",
+    "text":"The car feels practical rather than premium",
+    "rating":3,
+    "timestamp":1741132800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0023",
+    "text":"Performance is average compared to other electric cars",
+    "rating":3,
+    "timestamp":1751414400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0532",
+    "text":"Real-world range is lower than what was advertised",
+    "rating":1,
+    "timestamp":1739923200000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0969",
+    "text":"AC usage significantly reduces driving range",
+    "rating":2,
+    "timestamp":1738713600000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_2296",
+    "text":"Delivered on June 1. Saw the significant panel gap on the rear hatch opening. Pls see left and right. Where left have more gap than right side. Should I just live as is or request Tesla. Thanks in advance.",
+    "rating":1,
+    "timestamp":1717545600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0013",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":5,
+    "timestamp":1737936000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0331",
+    "text":"Interior materials feel premium for this price range",
+    "rating":4,
+    "timestamp":1742860800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_1369",
+    "text":"A recruiter reached out me to interview for an firmware engineer intern role at Tesla. They scheduled 2 interviews on the same day back to back. It's been 2 weeks since the interview and the recruiter isn't replying to my emails and I have no updates ",
+    "rating":1,
+    "timestamp":1723939200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0014",
+    "text":"The EV meets expectations but does not exceed them",
+    "rating":3,
+    "timestamp":1737849600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0519",
+    "text":"The cabin is quiet and comfortable even at highway speeds",
+    "rating":5,
+    "timestamp":1752192000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0854",
+    "text":"The driving experience is smooth but predictable",
+    "rating":3,
+    "timestamp":1759795200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0359",
+    "text":"Climate control works efficiently without draining the battery much",
+    "rating":5,
+    "timestamp":1766275200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0603",
+    "text":"Acceleration is fine but not very sporty",
+    "rating":3,
+    "timestamp":1753315200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0669",
+    "text":"Interior design is simple and minimal",
+    "rating":3,
+    "timestamp":1766275200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0815",
+    "text":"Software bugs appear after recent updates",
+    "rating":1,
+    "timestamp":1766534400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0261",
+    "text":"Interior design is simple and minimal",
+    "rating":3,
+    "timestamp":1746921600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0825",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":4,
+    "timestamp":1743206400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0902",
+    "text":"Comfort level is okay for short journeys",
+    "rating":3,
+    "timestamp":1744502400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0613",
+    "text":"The EV delivers smooth acceleration and feels futuristic to drive",
+    "rating":5,
+    "timestamp":1750464000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_1619",
+    "text":"Just dropping in to talk about the latest Tesla update (2023.44.30.4). Loving the new features, but I\u2019m kinda on the fence about this Autopilot Suspension thing. Basically, if we miss a few alerts, we could get a week-long Autopilot ban. I\u2019m thinking of holding off on updating to avoid the hassle. What\u2019s your take on this?",
+    "rating":1,
+    "timestamp":1703030400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0070",
+    "text":"The car feels eco-friendly without compromising on comfort",
+    "rating":4,
+    "timestamp":1752278400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_1719",
+    "text":"Got a New Model Y Long Range for $37580 including fees and taxes (No tax on EV in NJ).   Never thought I\u2019m going to buy a Tesla, but the price seemed too hard to let go. Thoughts?",
+    "rating":1,
+    "timestamp":1695686400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0166",
+    "text":"AC usage significantly reduces driving range",
+    "rating":2,
+    "timestamp":1762128000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0405",
+    "text":"Overall experience is balanced with pros and cons",
+    "rating":3,
+    "timestamp":1760313600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0979",
+    "text":"The EV delivers smooth acceleration and feels futuristic to drive",
+    "rating":5,
+    "timestamp":1740528000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0357",
+    "text":"Performance is average compared to other electric cars",
+    "rating":3,
+    "timestamp":1765497600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_1927",
+    "text":"https:\/\/preview.redd.it\/9fi66jye6ggd1.png?width=1920&format=png&auto=webp&s=c9f585c7d5155dec0d99f956711f7c01c57ea812  Went down in a Lab, slept, then came back with batteries reduced by 20%. No light left open. Freezer was off as well... Though turret was left in \"auto\", not \"manual\" aiming. Is that the one that's draining it?",
+    "rating":1,
+    "timestamp":1722643200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0384",
+    "text":"Comfort level is okay for short journeys",
+    "rating":3,
+    "timestamp":1761955200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0218",
+    "text":"Suspension feels stiff on rough roads",
+    "rating":1,
+    "timestamp":1749168000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0310",
+    "text":"The EV feels stable and confident at high speeds",
+    "rating":5,
+    "timestamp":1745366400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0792",
+    "text":"Handling is stable but not very engaging",
+    "rating":3,
+    "timestamp":1762646400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0159",
+    "text":"Comfort level is okay for short journeys",
+    "rating":3,
+    "timestamp":1755561600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0804",
+    "text":"The driving experience is smooth but predictable",
+    "rating":3,
+    "timestamp":1752364800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0330",
+    "text":"Ride quality is acceptable but not outstanding",
+    "rating":3,
+    "timestamp":1755820800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0919",
+    "text":"Safety features like ABS and airbags inspire confidence",
+    "rating":5,
+    "timestamp":1762732800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0147",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1736812800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0041",
+    "text":"Build quality feels solid and well-engineered for an electric car",
+    "rating":4,
+    "timestamp":1751587200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0494",
+    "text":"High upfront cost makes it hard to justify",
+    "rating":1,
+    "timestamp":1757030400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0808",
+    "text":"Works well as a second car for urban travel",
+    "rating":3,
+    "timestamp":1741132800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0316",
+    "text":"Overall experience is balanced with pros and cons",
+    "rating":3,
+    "timestamp":1755388800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0831",
+    "text":"Charging stations are often occupied or not working",
+    "rating":2,
+    "timestamp":1754438400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0112",
+    "text":"Service center staff lack proper EV-specific knowledge",
+    "rating":2,
+    "timestamp":1757289600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0464",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1753056000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0201",
+    "text":"Boot space is limited due to battery placement",
+    "rating":2,
+    "timestamp":1750723200000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_1733",
+    "text":"Last time we ended up replacing all the tires and having Tesla align them. Here I am again, a year later, in a similar situation. One rear tire had a razor blade and the other was already almost bald. Discount tire warrantied them, but the alignment is off. Discount Tire said they can\u2019t do an alignment on a Tesla. All the Tesla location near us say they are booking 34 days out. Any suggestions?",
+    "rating":1,
+    "timestamp":1718150400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1652",
+    "text":"I only get to evolve something one in a blue moon but both are currently S\\~ tier rn, trying to  hear some suggestions.",
+    "rating":1,
+    "timestamp":1721865600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0040",
+    "text":"Charging speed is neither fast nor too slow",
+    "rating":3,
+    "timestamp":1750032000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0334",
+    "text":"Battery performance drops noticeably in extreme heat",
+    "rating":1,
+    "timestamp":1745452800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0866",
+    "text":"The car feels practical rather than premium",
+    "rating":3,
+    "timestamp":1761177600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0837",
+    "text":"Good ground clearance for Indian road conditions",
+    "rating":4,
+    "timestamp":1736899200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0265",
+    "text":"Long charging time compared to refueling a petrol car",
+    "rating":2,
+    "timestamp":1757894400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0187",
+    "text":"The EV feels stable and confident at high speeds",
+    "rating":4,
+    "timestamp":1756252800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_1484",
+    "text":"When there is a fault (e.g. fast flashing) with my power walls, the app never reports them. It does report when they or the circuit breaker is switched off.   So, my only indication of a problem is if solar production is under performing, or I do a visual check, which I\u2019m now in the habit of doing every morning.   Is this the way the app is supposed to work? It seems really odd that it doesn\u2019t report faults. ",
+    "rating":1,
+    "timestamp":1723939200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1906",
+    "text":"Anyone receive the update with the Public Charging app yet? My understanding is that update will allow us to see the Tesla chargers in the Nav. ",
+    "rating":1,
+    "timestamp":1722297600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0846",
+    "text":"Real-world range is lower than what was advertised",
+    "rating":1,
+    "timestamp":1756944000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0343",
+    "text":"Excellent range on a single charge, perfect for daily commuting",
+    "rating":5,
+    "timestamp":1764115200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0882",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":5,
+    "timestamp":1764892800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0912",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1756771200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0155",
+    "text":"Charging experience depends heavily on station availability",
+    "rating":3,
+    "timestamp":1754006400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_2091",
+    "text":"Will be picking up my first Tesla soon. Those that have more experience with quality issues and what to look can you please share your thoughts and feedback on what a new buyer should watch for and what to check before taking ownership? Thanks!",
+    "rating":1,
+    "timestamp":1718755200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0619",
+    "text":"Steering is precise and gives good control in city traffic",
+    "rating":5,
+    "timestamp":1736467200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0164",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":4,
+    "timestamp":1763164800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0401",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1740096000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0714",
+    "text":"The EV meets expectations but does not exceed them",
+    "rating":3,
+    "timestamp":1736899200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0901",
+    "text":"Suspension feels stiff on rough roads",
+    "rating":2,
+    "timestamp":1765152000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0416",
+    "text":"Suitable for eco-conscious buyers with moderate usage",
+    "rating":3,
+    "timestamp":1759622400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0600",
+    "text":"Maintenance cost seems reasonable so far",
+    "rating":3,
+    "timestamp":1754956800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0245",
+    "text":"Boot space is limited due to battery placement",
+    "rating":1,
+    "timestamp":1762387200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0936",
+    "text":"Overall experience is balanced with pros and cons",
+    "rating":3,
+    "timestamp":1756771200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0940",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":4,
+    "timestamp":1751328000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_1293",
+    "text":"Can I do something about it?",
+    "rating":1,
+    "timestamp":1722643200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0388",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":4,
+    "timestamp":1760572800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0182",
+    "text":"Fast charging support works reliably and saves a lot of time",
+    "rating":5,
+    "timestamp":1760054400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0045",
+    "text":"Charging stations are often occupied or not working",
+    "rating":2,
+    "timestamp":1752969600000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0371",
+    "text":"Driving modes are practical and noticeably change performance",
+    "rating":5,
+    "timestamp":1750896000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0633",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1759449600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0856",
+    "text":"Instant torque makes overtaking effortless",
+    "rating":4,
+    "timestamp":1751587200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0441",
+    "text":"Instant torque makes overtaking effortless",
+    "rating":5,
+    "timestamp":1744416000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0615",
+    "text":"Charging infrastructure availability is still a major issue",
+    "rating":2,
+    "timestamp":1736035200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0782",
+    "text":"Charging experience depends heavily on station availability",
+    "rating":3,
+    "timestamp":1742256000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0601",
+    "text":"Battery performance drops noticeably in extreme heat",
+    "rating":1,
+    "timestamp":1759276800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0715",
+    "text":"Comfort level is okay for short journeys",
+    "rating":3,
+    "timestamp":1763337600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0295",
+    "text":"Long charging time compared to refueling a petrol car",
+    "rating":1,
+    "timestamp":1748390400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0071",
+    "text":"Battery performance drops noticeably in extreme heat",
+    "rating":2,
+    "timestamp":1740960000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0618",
+    "text":"Build quality feels solid and well-engineered for an electric car",
+    "rating":4,
+    "timestamp":1736208000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0481",
+    "text":"Suitable for eco-conscious buyers with moderate usage",
+    "rating":3,
+    "timestamp":1745712000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0165",
+    "text":"AC usage significantly reduces driving range",
+    "rating":1,
+    "timestamp":1743552000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0488",
+    "text":"Driving modes are practical and noticeably change performance",
+    "rating":5,
+    "timestamp":1762992000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0446",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1766880000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0581",
+    "text":"Real-world range is lower than what was advertised",
+    "rating":2,
+    "timestamp":1737331200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0985",
+    "text":"Low running cost compared to petrol cars makes this a great choice",
+    "rating":4,
+    "timestamp":1745625600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0783",
+    "text":"The infotainment system is responsive and easy to navigate",
+    "rating":5,
+    "timestamp":1756944000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0266",
+    "text":"Overall experience is balanced with pros and cons",
+    "rating":3,
+    "timestamp":1743811200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0576",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1755561600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0289",
+    "text":"Handling is stable but not very engaging",
+    "rating":3,
+    "timestamp":1742256000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_1054",
+    "text":"My battery is draining incredibly fast for some reason.  (after some digging i suspect its just 15.1 being 15.1)  Anyone experiencing the same?  If people could indicate to others who are seeing this post that they are not alone im sure many would appreciate that.  I currently went from a full charge lasting 1-2 days to 4 hours based on minor browsing, youtube, coding, music prod.   Note: 90% capacity and im scared it may go down due to this, apple intelligence is also disabled",
+    "rating":1,
+    "timestamp":1724025600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_2646",
+    "text":"Summer tires have been on the car for total of 11 months - flipped to winters in between seasons.  Original Tesla Michelin Pilot all seasons the car came with June 2022.  Car in Chill most of the time.  Both fronts are worn extremely on the inside of the tire.  Alignment?  Comments?",
+    "rating":1,
+    "timestamp":1699142400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_2523",
+    "text":"Just got my model Y and after driving about 70 miles and it drained about 42%. At this rate, with my battery set at 80%, I will get about 140 miles from it only. I have the long range too. I do keep my AC on though.   140 miles is pretty awful right? How long does it take to adjust? I should be getting around 200-230 miles @ 80% right?",
+    "rating":1,
+    "timestamp":1715990400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0743",
+    "text":"Suitable for eco-conscious buyers with moderate usage",
+    "rating":3,
+    "timestamp":1756080000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0204",
+    "text":"Technology features are adequate for the segment",
+    "rating":3,
+    "timestamp":1764288000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0089",
+    "text":"The car feels eco-friendly without compromising on comfort",
+    "rating":5,
+    "timestamp":1736467200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0679",
+    "text":"Low running cost compared to petrol cars makes this a great choice",
+    "rating":4,
+    "timestamp":1744243200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0709",
+    "text":"High upfront cost makes it hard to justify",
+    "rating":1,
+    "timestamp":1755043200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0579",
+    "text":"Build quality feels solid and well-engineered for an electric car",
+    "rating":4,
+    "timestamp":1748131200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0296",
+    "text":"Performance is average compared to other electric cars",
+    "rating":3,
+    "timestamp":1762041600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0786",
+    "text":"Excellent range on a single charge, perfect for daily commuting",
+    "rating":4,
+    "timestamp":1746576000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0309",
+    "text":"Performance is average compared to other electric cars",
+    "rating":3,
+    "timestamp":1766707200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_2199",
+    "text":"Are we ever getting that ?",
+    "rating":1,
+    "timestamp":1698883200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0214",
+    "text":"Acceleration is fine but not very sporty",
+    "rating":3,
+    "timestamp":1749340800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0584",
+    "text":"Excellent range on a single charge, perfect for daily commuting",
+    "rating":4,
+    "timestamp":1745712000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_2240",
+    "text":"Tesla model Y back bumper. Car is brand new  and these spots have appeared out of nowhere. They won't go away after washing and even tried vinegar in it thinking it was water spots. They aren't sticky as they appear in picture and real life and only really stand out when the light hits it right.  Any idea what it is or how to fix? ",
+    "rating":1,
+    "timestamp":1718150400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0140",
+    "text":"Good ground clearance for Indian road conditions",
+    "rating":5,
+    "timestamp":1746576000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0093",
+    "text":"Charging stations are often occupied or not working",
+    "rating":1,
+    "timestamp":1748649600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0278",
+    "text":"Interior design is simple and minimal",
+    "rating":3,
+    "timestamp":1764201600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0138",
+    "text":"The infotainment system is responsive and easy to navigate",
+    "rating":5,
+    "timestamp":1755388800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0185",
+    "text":"Steering is precise and gives good control in city traffic",
+    "rating":4,
+    "timestamp":1749168000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0248",
+    "text":"High upfront cost makes it hard to justify",
+    "rating":1,
+    "timestamp":1745020800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_2386",
+    "text":"As the title says. I was wearing and just now my watch is at 10% randomly my watch is only about 2 weeks old as well. Just seeing if anyone else is having this problem or if this is normal. This is only my second Apple Watch I\u2019ve owned so still really new in the world.   **Edit** So after what a few people told me what worked for me to fix it was just unpairing my phone and restarted both the phone and watch and repaired it and now it\u2019s back to having amazing battery life if not better!",
+    "rating":1,
+    "timestamp":1709856000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0626",
+    "text":"The driving experience is smooth but predictable",
+    "rating":3,
+    "timestamp":1751155200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0305",
+    "text":"The car feels eco-friendly without compromising on comfort",
+    "rating":4,
+    "timestamp":1763337600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0085",
+    "text":"Long charging time compared to refueling a petrol car",
+    "rating":1,
+    "timestamp":1750550400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0671",
+    "text":"Interior design is simple and minimal",
+    "rating":3,
+    "timestamp":1756771200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0975",
+    "text":"The EV delivers smooth acceleration and feels futuristic to drive",
+    "rating":5,
+    "timestamp":1758326400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0878",
+    "text":"Suitable for eco-conscious buyers with moderate usage",
+    "rating":3,
+    "timestamp":1742860800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0701",
+    "text":"Overall experience is balanced with pros and cons",
+    "rating":3,
+    "timestamp":1740268800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0894",
+    "text":"Software updates have improved performance over time",
+    "rating":5,
+    "timestamp":1765065600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0206",
+    "text":"High upfront cost makes it hard to justify",
+    "rating":2,
+    "timestamp":1755907200000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0037",
+    "text":"Safety features like ABS and airbags inspire confidence",
+    "rating":4,
+    "timestamp":1736121600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0249",
+    "text":"Climate control works efficiently without draining the battery much",
+    "rating":4,
+    "timestamp":1742169600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0507",
+    "text":"Excellent range on a single charge, perfect for daily commuting",
+    "rating":4,
+    "timestamp":1745452800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_2340",
+    "text":"Last day to FAFO for Kenny n co? Compliance is gonna be a glitch.  https:\/\/x.com\/741trey\/status\/1796174403736096774?s=46&t=pjhQaAPGjAVkr0C7r4RCMg",
+    "rating":1,
+    "timestamp":1717027200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0551",
+    "text":"Works well as a second car for urban travel",
+    "rating":3,
+    "timestamp":1763164800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0592",
+    "text":"Good ground clearance for Indian road conditions",
+    "rating":4,
+    "timestamp":1744070400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0573",
+    "text":"Safety features like ABS and airbags inspire confidence",
+    "rating":5,
+    "timestamp":1738368000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0865",
+    "text":"Interior design is simple and minimal",
+    "rating":3,
+    "timestamp":1742428800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0655",
+    "text":"Fast charging support works reliably and saves a lot of time",
+    "rating":4,
+    "timestamp":1743552000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0044",
+    "text":"Build quality feels solid and well-engineered for an electric car",
+    "rating":5,
+    "timestamp":1756339200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0926",
+    "text":"After-sales service experience has been disappointing",
+    "rating":2,
+    "timestamp":1763596800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0137",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":4,
+    "timestamp":1747008000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0307",
+    "text":"Suitable for eco-conscious buyers with moderate usage",
+    "rating":3,
+    "timestamp":1756771200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_2080",
+    "text":"I purchased a model 3 standard range a couple months ago and with my research I knew the software and technology can be updated at anytime but I did not know it was capable of increasing the range. It\u2019s only 4 miles though.  Can the 0-60 be updated too? \ud83d\ude02",
+    "rating":1,
+    "timestamp":1712707200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0063",
+    "text":"Boot space is limited due to battery placement",
+    "rating":1,
+    "timestamp":1754784000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0404",
+    "text":"The infotainment system is responsive and easy to navigate",
+    "rating":4,
+    "timestamp":1764806400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_1195",
+    "text":"Good afternoon all\u270c\ufe0fCan someone recommend me a good quality reliable controllers to use with Tesla games, please. I\u2019m based in UK",
+    "rating":1,
+    "timestamp":1721865600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0948",
+    "text":"The car feels eco-friendly without compromising on comfort",
+    "rating":5,
+    "timestamp":1743033600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0962",
+    "text":"Interior materials feel premium for this price range",
+    "rating":4,
+    "timestamp":1767139200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_2640",
+    "text":"I want to by a Tesla but I live in an apartment complex no charging station.  Note: At work, I have access to a slow charging station. Additionally, there's a fast charging option located just 2 miles from my home. ",
+    "rating":1,
+    "timestamp":1710979200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0321",
+    "text":"Charging stations are often occupied or not working",
+    "rating":2,
+    "timestamp":1766188800000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0299",
+    "text":"Charging speed is neither fast nor too slow",
+    "rating":3,
+    "timestamp":1754265600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_1582",
+    "text":" I read that octa valve is brilliant and efficient EV HVAC system by not wasting any kind of energy for heat and cooling.  I'm trying to understand the basics of it.",
+    "rating":1,
+    "timestamp":1704412800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0485",
+    "text":"Acceleration is fine but not very sporty",
+    "rating":3,
+    "timestamp":1762646400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0823",
+    "text":"Battery performance drops noticeably in extreme heat",
+    "rating":2,
+    "timestamp":1764374400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0167",
+    "text":"The infotainment system is responsive and easy to navigate",
+    "rating":4,
+    "timestamp":1749427200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0858",
+    "text":"Technology features are adequate for the segment",
+    "rating":3,
+    "timestamp":1755475200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0895",
+    "text":"Low running cost compared to petrol cars makes this a great choice",
+    "rating":4,
+    "timestamp":1766534400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0766",
+    "text":"Charging experience depends heavily on station availability",
+    "rating":3,
+    "timestamp":1744588800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0360",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":4,
+    "timestamp":1746403200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0209",
+    "text":"AC usage significantly reduces driving range",
+    "rating":1,
+    "timestamp":1748908800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0274",
+    "text":"Handling is stable but not very engaging",
+    "rating":3,
+    "timestamp":1749600000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0025",
+    "text":"Charging infrastructure availability is still a major issue",
+    "rating":1,
+    "timestamp":1749600000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0517",
+    "text":"Regenerative braking feels too aggressive at times",
+    "rating":2,
+    "timestamp":1754956800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_2372",
+    "text":"This is the bill with the exact part that\u2019s being replaced. Any engineers or ex\/current tesla employees that can either confirm or deny if this could\u2019ve potentially been damaged by a faulty supercharger? Thanks! ",
+    "rating":1,
+    "timestamp":1716249600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0365",
+    "text":"Regenerative braking is well tuned and improves driving efficiency",
+    "rating":4,
+    "timestamp":1765843200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0501",
+    "text":"The EV feels stable and confident at high speeds",
+    "rating":5,
+    "timestamp":1753574400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0493",
+    "text":"Handling is stable but not very engaging",
+    "rating":3,
+    "timestamp":1766361600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0899",
+    "text":"Cold weather impacts battery efficiency badly",
+    "rating":2,
+    "timestamp":1738281600000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0451",
+    "text":"The EV delivers smooth acceleration and feels futuristic to drive",
+    "rating":4,
+    "timestamp":1765497600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0381",
+    "text":"Instant torque makes overtaking effortless",
+    "rating":5,
+    "timestamp":1765756800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_1353",
+    "text":"Hello Everyone,  I have car insurance with Tesla Insurance. I was rear-ended and was filling out an insurance claim on the Tesla app.    The app displayed some information that I may want to file the claim with the at-fault driver\u2019s insurance (AAA) instead.   Which insurance would you make a claim with, if you\u2019ve had this experience?  Thank you \ud83d\ude4f\ud83c\udffc in advance.",
+    "rating":1,
+    "timestamp":1702598400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0202",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":4,
+    "timestamp":1756771200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0729",
+    "text":"Steering is precise and gives good control in city traffic",
+    "rating":5,
+    "timestamp":1745193600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0000",
+    "text":"Performance is average compared to other electric cars",
+    "rating":3,
+    "timestamp":1748131200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0297",
+    "text":"The EV meets expectations but does not exceed them",
+    "rating":3,
+    "timestamp":1741046400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0963",
+    "text":"Acceleration is fine but not very sporty",
+    "rating":3,
+    "timestamp":1741910400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0460",
+    "text":"Infotainment system occasionally lags or freezes",
+    "rating":2,
+    "timestamp":1746144000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0874",
+    "text":"Suitable for eco-conscious buyers with moderate usage",
+    "rating":3,
+    "timestamp":1736640000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_2577",
+    "text":"YouTube is drainingy battery, how is it possible that it consumes more battery than WuWa? And by quite a big margin.  My phone is a Poco F6 and I'm using the recommend YT version and default patches.",
+    "rating":1,
+    "timestamp":1719964800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0703",
+    "text":"The EV delivers smooth acceleration and feels futuristic to drive",
+    "rating":4,
+    "timestamp":1763683200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0419",
+    "text":"Works well as a second car for urban travel",
+    "rating":3,
+    "timestamp":1759536000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0008",
+    "text":"The EV feels stable and confident at high speeds",
+    "rating":5,
+    "timestamp":1754697600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0735",
+    "text":"Charging experience depends heavily on station availability",
+    "rating":3,
+    "timestamp":1737417600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0520",
+    "text":"Ride quality is acceptable but not outstanding",
+    "rating":3,
+    "timestamp":1748304000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0339",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1754006400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0389",
+    "text":"The EV meets expectations but does not exceed them",
+    "rating":3,
+    "timestamp":1736035200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0662",
+    "text":"The EV meets expectations but does not exceed them",
+    "rating":3,
+    "timestamp":1757116800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0407",
+    "text":"Charging infrastructure availability is still a major issue",
+    "rating":2,
+    "timestamp":1754611200000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0048",
+    "text":"Rear seat comfort could have been better",
+    "rating":2,
+    "timestamp":1766448000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0007",
+    "text":"Boot space is limited due to battery placement",
+    "rating":2,
+    "timestamp":1740268800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_2439",
+    "text":"Hi All. Our team is looking to implement a quality assurance vendor that connects easily with Zendesk. We've talked to MaestroQA and Klaus, which both get great reviews and can meet our needs.   I'm curious about what other people have used, what works well, and what is a struggle. What is the level of support if you need to reach out for assistance in configuration or navigating the tool?",
+    "rating":1,
+    "timestamp":1706054400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0349",
+    "text":"The car feels eco-friendly without compromising on comfort",
+    "rating":5,
+    "timestamp":1760140800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0757",
+    "text":"Excellent range on a single charge, perfect for daily commuting",
+    "rating":4,
+    "timestamp":1766361600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0372",
+    "text":"The EV feels stable and confident at high speeds",
+    "rating":5,
+    "timestamp":1764460800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0656",
+    "text":"Performance is average compared to other electric cars",
+    "rating":3,
+    "timestamp":1735948800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0012",
+    "text":"Fast charging support works reliably and saves a lot of time",
+    "rating":4,
+    "timestamp":1757462400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0336",
+    "text":"Charging infrastructure availability is still a major issue",
+    "rating":1,
+    "timestamp":1761350400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0997",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":5,
+    "timestamp":1760918400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0776",
+    "text":"Charging infrastructure availability is still a major issue",
+    "rating":2,
+    "timestamp":1760227200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0642",
+    "text":"Climate control works efficiently without draining the battery much",
+    "rating":4,
+    "timestamp":1751673600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0301",
+    "text":"Comfort level is okay for short journeys",
+    "rating":3,
+    "timestamp":1739059200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0595",
+    "text":"Instant torque makes overtaking effortless",
+    "rating":5,
+    "timestamp":1739750400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0113",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1754697600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_2397",
+    "text":"Oakland potholes claim another rim.  Do you think it can be repaired and if so, how much and any recommendations in Oakland \/ Berkeley area?  Tesla quote: wheel $1540, labor $85. 22x9 size.",
+    "rating":1,
+    "timestamp":1725321600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0068",
+    "text":"The cabin is quiet and comfortable even at highway speeds",
+    "rating":5,
+    "timestamp":1738972800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0440",
+    "text":"The EV meets expectations but does not exceed them",
+    "rating":3,
+    "timestamp":1743379200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_2383",
+    "text":" the cars a 2017 so the 4 year warranty is expired but do they fix this under good will or no because I had a airbag light come on my car and they charged me $4000 for a new seat but this is a manufacturing error so does it make a difference   ",
+    "rating":1,
+    "timestamp":1711756800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_2224",
+    "text":"I just got my new Mazda 3 (loving it) and one thing I wanted was to change the door handles to something more sleek and even flushed in if possible, sort of like Tesla's. Any clue if that's possible ? Or any ideas?",
+    "rating":1,
+    "timestamp":1710288000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0651",
+    "text":"Technology features are adequate for the segment",
+    "rating":3,
+    "timestamp":1757721600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0092",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1735948800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_2633",
+    "text":"I won't buy paytm for nothing more then 100rs fundamentals are weak and as per title how was the price decided,please englighten me guys thanks!!",
+    "rating":1,
+    "timestamp":1707955200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0857",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1740528000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0727",
+    "text":"After-sales service experience has been disappointing",
+    "rating":2,
+    "timestamp":1748390400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0075",
+    "text":"The EV meets expectations but does not exceed them",
+    "rating":3,
+    "timestamp":1740355200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_2012",
+    "text":"Are you having any problems with the Tesla doors after a recent software download?  I have to use my key card each time to unlock my doors and use my phone to lock them. It\u2019s no longer automatic.",
+    "rating":1,
+    "timestamp":1704499200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0323",
+    "text":"Charging infrastructure availability is still a major issue",
+    "rating":1,
+    "timestamp":1756598400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0293",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":5,
+    "timestamp":1761782400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_1020",
+    "text":"If losing  45% of a company\u2019s value is considered a success what is a failure?  It seems autonomous driving has been pushed back at least 3 year per JP Morgan after an invester meeting.   Tesla is drastically losing market share. No new products and the latest seem to have many issues   What am I missing, how is the share price holding on and people corp g yes for the pay package?",
+    "rating":1,
+    "timestamp":1718064000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0565",
+    "text":"Interior plastics feel cheap in some areas",
+    "rating":1,
+    "timestamp":1751673600000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0162",
+    "text":"The EV feels stable and confident at high speeds",
+    "rating":5,
+    "timestamp":1759449600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0134",
+    "text":"Overall experience is balanced with pros and cons",
+    "rating":3,
+    "timestamp":1766361600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0088",
+    "text":"Cold weather impacts battery efficiency badly",
+    "rating":1,
+    "timestamp":1748995200000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_2354",
+    "text":"Who wants to tell them?",
+    "rating":1,
+    "timestamp":1715990400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0285",
+    "text":"Excellent range on a single charge, perfect for daily commuting",
+    "rating":4,
+    "timestamp":1750377600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0402",
+    "text":"Works well as a second car for urban travel",
+    "rating":3,
+    "timestamp":1750636800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0745",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":5,
+    "timestamp":1751155200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0697",
+    "text":"Charging speed is neither fast nor too slow",
+    "rating":3,
+    "timestamp":1740528000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0095",
+    "text":"Works well as a second car for urban travel",
+    "rating":3,
+    "timestamp":1746662400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0690",
+    "text":"Climate control works efficiently without draining the battery much",
+    "rating":4,
+    "timestamp":1749859200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_1706",
+    "text":"I\u2019m concerned about keeping it until the battery warranty is up at year 8 and have been thinking about getting another EV. Maybe a Tesla maybe not. Is there going to be a problem when the warranty runs out? I love this car and there\u2019s no rattles or anything wrong with it. Thoughts?",
+    "rating":1,
+    "timestamp":1704758400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1775",
+    "text":"It\u2019s been over a year and I still haven\u2019t received my Auto Park and SS upgrade I paid $6k for in enhanced autopilot package for model 3  Tesla support can\u2019t help or even give me an ETA.   Has anyone else experienced this this lack of customer care also?",
+    "rating":1,
+    "timestamp":1708041600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0184",
+    "text":"The cabin is quiet and comfortable even at highway speeds",
+    "rating":5,
+    "timestamp":1756512000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0860",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":4,
+    "timestamp":1761868800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0577",
+    "text":"Technology features are adequate for the segment",
+    "rating":3,
+    "timestamp":1766361600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0079",
+    "text":"Range is sufficient for daily needs only",
+    "rating":3,
+    "timestamp":1740441600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0241",
+    "text":"Charging speed is neither fast nor too slow",
+    "rating":3,
+    "timestamp":1744070400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0397",
+    "text":"Fast charging support works reliably and saves a lot of time",
+    "rating":5,
+    "timestamp":1756080000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_1035",
+    "text":"Woke up this morning. Car wasn't charged.   Anyone having any issues with the charging schedule just disappearing from the app ?   I checked and no schedule existed, had to re-add a schedule but that also failed when doing so.   Anyone has a work around?  Didn't do any Tesla App Updates recently only the car firmware update to 26.3.1 last week, and I wasn't having this problem.  Weird.",
+    "rating":1,
+    "timestamp":1722988800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0862",
+    "text":"Charging experience depends heavily on station availability",
+    "rating":3,
+    "timestamp":1749772800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0834",
+    "text":"Maintenance cost seems reasonable so far",
+    "rating":3,
+    "timestamp":1764201600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0326",
+    "text":"Good ground clearance for Indian road conditions",
+    "rating":5,
+    "timestamp":1761177600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0717",
+    "text":"The cabin is quiet and comfortable even at highway speeds",
+    "rating":5,
+    "timestamp":1765584000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0052",
+    "text":"Range is sufficient for daily needs only",
+    "rating":3,
+    "timestamp":1741392000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0077",
+    "text":"Regenerative braking is well tuned and improves driving efficiency",
+    "rating":5,
+    "timestamp":1751673600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0208",
+    "text":"Charging experience depends heavily on station availability",
+    "rating":3,
+    "timestamp":1760918400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0220",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1756771200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0639",
+    "text":"Handling is stable but not very engaging",
+    "rating":3,
+    "timestamp":1742169600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0017",
+    "text":"Charging stations are often occupied or not working",
+    "rating":1,
+    "timestamp":1744934400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0378",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1758412800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0450",
+    "text":"Suitable for eco-conscious buyers with moderate usage",
+    "rating":3,
+    "timestamp":1743292800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0144",
+    "text":"The infotainment system is responsive and easy to navigate",
+    "rating":5,
+    "timestamp":1757548800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0032",
+    "text":"Comfort level is okay for short journeys",
+    "rating":3,
+    "timestamp":1738281600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_1656",
+    "text":"There is a weird noise coming from the rear axle of my 2021 Model Y every time I accelerate or break, im at 47k miles, I wanna get it checked before the warranty expires in case is something serious and it needs to get fixed.     Should I schedule an inspection appointment and pay for it? or how's it done?",
+    "rating":1,
+    "timestamp":1724371200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0946",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":4,
+    "timestamp":1742083200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0917",
+    "text":"The cabin is quiet and comfortable even at highway speeds",
+    "rating":4,
+    "timestamp":1758153600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0470",
+    "text":"High upfront cost makes it hard to justify",
+    "rating":1,
+    "timestamp":1745539200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0954",
+    "text":"High upfront cost makes it hard to justify",
+    "rating":1,
+    "timestamp":1746230400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0117",
+    "text":"Interior materials feel premium for this price range",
+    "rating":4,
+    "timestamp":1739059200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0824",
+    "text":"Build quality feels solid and well-engineered for an electric car",
+    "rating":4,
+    "timestamp":1748995200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0438",
+    "text":"Battery replacement cost seems very high",
+    "rating":2,
+    "timestamp":1749686400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0877",
+    "text":"Acceleration is fine but not very sporty",
+    "rating":3,
+    "timestamp":1736121600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0864",
+    "text":"Fast charging support works reliably and saves a lot of time",
+    "rating":4,
+    "timestamp":1760918400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0574",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":4,
+    "timestamp":1761436800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0654",
+    "text":"Suitable for eco-conscious buyers with moderate usage",
+    "rating":3,
+    "timestamp":1763337600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_1478",
+    "text":"I've had a fenix 7 for a few weeks now and I always used to be able to touch swipe to see the Glances.  Now if I try and swipe from the watch face it swipes an identical watch face onto the screen and the entire watch is unresponsive save for the back button (right lower)  This has to be a bug or a glitch, so what's up, and how do I change it back?  Used to love having a quick touchscreen to view notifications and calories.  ",
+    "rating":1,
+    "timestamp":1725235200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0197",
+    "text":"The EV meets expectations but does not exceed them",
+    "rating":3,
+    "timestamp":1762992000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0986",
+    "text":"The driving experience is smooth but predictable",
+    "rating":3,
+    "timestamp":1753315200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0730",
+    "text":"Performance is average compared to other electric cars",
+    "rating":3,
+    "timestamp":1736985600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0684",
+    "text":"Climate control works efficiently without draining the battery much",
+    "rating":5,
+    "timestamp":1766275200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_1722",
+    "text":"https:\/\/finance.yahoo.com\/news\/elon-musk-affordability-problem-tesla-122547805.html",
+    "rating":1,
+    "timestamp":1699488000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0531",
+    "text":"Service center staff lack proper EV-specific knowledge",
+    "rating":1,
+    "timestamp":1750204800000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0779",
+    "text":"Regenerative braking is well tuned and improves driving efficiency",
+    "rating":4,
+    "timestamp":1745280000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0434",
+    "text":"Regenerative braking is well tuned and improves driving efficiency",
+    "rating":4,
+    "timestamp":1736726400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0811",
+    "text":"Infotainment system occasionally lags or freezes",
+    "rating":2,
+    "timestamp":1747785600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0791",
+    "text":"The infotainment system is responsive and easy to navigate",
+    "rating":5,
+    "timestamp":1765756800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0929",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1766102400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0472",
+    "text":"Instant torque makes overtaking effortless",
+    "rating":5,
+    "timestamp":1747440000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0580",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":4,
+    "timestamp":1755302400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0704",
+    "text":"Maintenance cost seems reasonable so far",
+    "rating":3,
+    "timestamp":1743552000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0256",
+    "text":"Performance is average compared to other electric cars",
+    "rating":3,
+    "timestamp":1759017600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0390",
+    "text":"Charging experience depends heavily on station availability",
+    "rating":3,
+    "timestamp":1763424000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0763",
+    "text":"Software updates have improved performance over time",
+    "rating":4,
+    "timestamp":1757894400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_2660",
+    "text":"Hi -  Has anyone gone to the service module of Tesla? is it possible to check for how bad is the wheel alignment? I see in the suspension section there are target readings. is that related to alignment?",
+    "rating":1,
+    "timestamp":1714176000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0961",
+    "text":"The EV is decent for city use but not ideal for long drives",
+    "rating":3,
+    "timestamp":1757116800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0003",
+    "text":"Software bugs appear after recent updates",
+    "rating":1,
+    "timestamp":1759017600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0560",
+    "text":"Technology features are adequate for the segment",
+    "rating":3,
+    "timestamp":1754092800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0916",
+    "text":"The EV is decent for city use but not ideal for long drives",
+    "rating":3,
+    "timestamp":1746057600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0246",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1745107200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0529",
+    "text":"Software bugs appear after recent updates",
+    "rating":2,
+    "timestamp":1764892800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1024",
+    "text":"Hey guys,   Just wanted to share some info about this rare mount drop in Mythic Stonevault. If you have a full quest log, don\u2019t accept the quest until you make room.   I accepted the quest before making space in my quest log somehow and it bugged out. Turning in the quest did not reward me with the mount, which kinda sucks. Hoping support will be able to fix this. ",
+    "rating":1,
+    "timestamp":1726012800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0281",
+    "text":"Software updates have improved performance over time",
+    "rating":5,
+    "timestamp":1758153600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0222",
+    "text":"Interior design is simple and minimal",
+    "rating":3,
+    "timestamp":1764201600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0528",
+    "text":"Charging experience depends heavily on station availability",
+    "rating":3,
+    "timestamp":1738368000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0308",
+    "text":"Steering is precise and gives good control in city traffic",
+    "rating":5,
+    "timestamp":1762128000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_1541",
+    "text":"I have 16k miles on my Tesla and the factory tires are already wearing out and in need of replacement. One has a slow leak. What tires do you recommend I get to replace them? Do I need to find a specialist to replace the tires or can anyone do it? How do I find a decent price on tires?",
+    "rating":1,
+    "timestamp":1703808000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0585",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1754611200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0588",
+    "text":"Acceleration is fine but not very sporty",
+    "rating":3,
+    "timestamp":1763337600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0199",
+    "text":"Performance is average compared to other electric cars",
+    "rating":3,
+    "timestamp":1766275200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0392",
+    "text":"Technology features are adequate for the segment",
+    "rating":3,
+    "timestamp":1751155200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0178",
+    "text":"Range anxiety is still a concern on long trips",
+    "rating":2,
+    "timestamp":1749168000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0252",
+    "text":"Instant torque makes overtaking effortless",
+    "rating":5,
+    "timestamp":1757030400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0277",
+    "text":"AC usage significantly reduces driving range",
+    "rating":1,
+    "timestamp":1761436800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1894",
+    "text":"https:\/\/gizmodo.com\/tesla-investors-call-elon-musk-suspended-1851031830",
+    "rating":1,
+    "timestamp":1700352000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0168",
+    "text":"Regenerative braking is well tuned and improves driving efficiency",
+    "rating":4,
+    "timestamp":1738368000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0950",
+    "text":"Interior plastics feel cheap in some areas",
+    "rating":2,
+    "timestamp":1737763200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0188",
+    "text":"The EV is decent for city use but not ideal for long drives",
+    "rating":3,
+    "timestamp":1760140800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0762",
+    "text":"Safety features like ABS and airbags inspire confidence",
+    "rating":5,
+    "timestamp":1753401600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0622",
+    "text":"Charging experience depends heavily on station availability",
+    "rating":3,
+    "timestamp":1740873600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0425",
+    "text":"The infotainment system is responsive and easy to navigate",
+    "rating":4,
+    "timestamp":1756857600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0076",
+    "text":"The driving experience is smooth but predictable",
+    "rating":3,
+    "timestamp":1760400000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0526",
+    "text":"Driving modes are practical and noticeably change performance",
+    "rating":5,
+    "timestamp":1743033600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0053",
+    "text":"Infotainment system occasionally lags or freezes",
+    "rating":1,
+    "timestamp":1742428800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0395",
+    "text":"Range anxiety is still a concern on long trips",
+    "rating":2,
+    "timestamp":1765238400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0683",
+    "text":"The cabin is quiet and comfortable even at highway speeds",
+    "rating":4,
+    "timestamp":1744761600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0327",
+    "text":"Handling is stable but not very engaging",
+    "rating":3,
+    "timestamp":1744848000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0666",
+    "text":"Ride quality is acceptable but not outstanding",
+    "rating":3,
+    "timestamp":1762300800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0118",
+    "text":"Overall experience is balanced with pros and cons",
+    "rating":3,
+    "timestamp":1739836800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_2520",
+    "text":"2020 Tesla 3 driver headlight module failure during firmware update, apparently it\u2019s superseded to a new style at only $1,500! Customer said F you brought it to us for a new module but their book time only calls for 0.48, must be nice being an hourly tech\u2026",
+    "rating":1,
+    "timestamp":1726790400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0796",
+    "text":"Suitable for eco-conscious buyers with moderate usage",
+    "rating":3,
+    "timestamp":1748131200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_2699",
+    "text":"Hi all, I recently purchased a 2022 Tesla Model 3 Long range, and absolutely love this thing. However, I have been noticing a drop of 2-3% overnight, I have turned off sentry mode, cabin protection. I don't check the tesla app. What could be causing this? Any tips would be helpful.     Current mileage -- 28,000 ",
+    "rating":1,
+    "timestamp":1713398400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0408",
+    "text":"Performance is average compared to other electric cars",
+    "rating":3,
+    "timestamp":1751587200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0033",
+    "text":"The infotainment system is responsive and easy to navigate",
+    "rating":5,
+    "timestamp":1750550400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0262",
+    "text":"The charging cable provided feels low quality",
+    "rating":1,
+    "timestamp":1765411200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0806",
+    "text":"Regenerative braking is well tuned and improves driving efficiency",
+    "rating":5,
+    "timestamp":1747872000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0653",
+    "text":"Battery replacement cost seems very high",
+    "rating":2,
+    "timestamp":1744416000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0100",
+    "text":"Suitable for eco-conscious buyers with moderate usage",
+    "rating":3,
+    "timestamp":1755820800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_1379",
+    "text":"https:\/\/jalopnik.com\/tesla-cybertruck-purchased-by-edmunds-suffers-critical-1851602603",
+    "rating":1,
+    "timestamp":1721692800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0980",
+    "text":"Acceleration is fine but not very sporty",
+    "rating":3,
+    "timestamp":1752710400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0258",
+    "text":"The car feels practical rather than premium",
+    "rating":3,
+    "timestamp":1747180800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0620",
+    "text":"Suspension feels stiff on rough roads",
+    "rating":2,
+    "timestamp":1738713600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0993",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":5,
+    "timestamp":1752364800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0051",
+    "text":"Regenerative braking is well tuned and improves driving efficiency",
+    "rating":5,
+    "timestamp":1761004800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0437",
+    "text":"Regenerative braking is well tuned and improves driving efficiency",
+    "rating":4,
+    "timestamp":1755302400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0369",
+    "text":"AC usage significantly reduces driving range",
+    "rating":2,
+    "timestamp":1752364800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1269",
+    "text":"If anyone can assist out greatly appreciate it I\u2019ve been enjoying this phone very much since yesterday and the prior two weeks with the nine pro xl. For some reason, I can\u2019t get it to connect to my Tesla every other headphones or speakers connect to it with no problem. It\u2019s just the Tesla that it\u2019s been giving issues for both phones. Any ideas why the Tesla will not pair? I have my iPhone connected to it no problem.",
+    "rating":1,
+    "timestamp":1726099200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0964",
+    "text":"The EV delivers smooth acceleration and feels futuristic to drive",
+    "rating":4,
+    "timestamp":1745107200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0990",
+    "text":"The car feels eco-friendly without compromising on comfort",
+    "rating":4,
+    "timestamp":1752278400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0312",
+    "text":"Suspension feels stiff on rough roads",
+    "rating":1,
+    "timestamp":1738886400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0728",
+    "text":"Infotainment system occasionally lags or freezes",
+    "rating":2,
+    "timestamp":1745107200000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0191",
+    "text":"The driving experience is smooth but predictable",
+    "rating":3,
+    "timestamp":1761350400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0959",
+    "text":"The EV delivers smooth acceleration and feels futuristic to drive",
+    "rating":4,
+    "timestamp":1762387200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0967",
+    "text":"The car feels eco-friendly without compromising on comfort",
+    "rating":4,
+    "timestamp":1760832000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0232",
+    "text":"Driving modes are practical and noticeably change performance",
+    "rating":5,
+    "timestamp":1740441600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0981",
+    "text":"Build quality feels solid and well-engineered for an electric car",
+    "rating":4,
+    "timestamp":1739491200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0549",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":5,
+    "timestamp":1735948800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0482",
+    "text":"The car feels eco-friendly without compromising on comfort",
+    "rating":5,
+    "timestamp":1754784000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0270",
+    "text":"The charging cable provided feels low quality",
+    "rating":1,
+    "timestamp":1763337600000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0489",
+    "text":"The infotainment system is responsive and easy to navigate",
+    "rating":4,
+    "timestamp":1751760000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_2371",
+    "text":"so I had contacted official sony support on their site and they said they will have it repaired even tho my warranty is expired. Goona bring it tomorrow in their service center. wish me luck!",
+    "rating":1,
+    "timestamp":1715558400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0939",
+    "text":"Works well as a second car for urban travel",
+    "rating":3,
+    "timestamp":1752537600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0880",
+    "text":"Fast charging support works reliably and saves a lot of time",
+    "rating":5,
+    "timestamp":1745971200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0320",
+    "text":"Service center staff lack proper EV-specific knowledge",
+    "rating":2,
+    "timestamp":1737158400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0612",
+    "text":"Boot space is limited due to battery placement",
+    "rating":2,
+    "timestamp":1749859200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1125",
+    "text":"I\u2019ve never had this problem on tarkov on any map but for some reason the new factory map causes my game to freeze and I have to hard quit.  I can still hear sounds and i can hear myself shoot or move but it\u2019s frozen on screen.  Happens in first 30 seconds without fail every factory run.  Anyone else with same issue?",
+    "rating":1,
+    "timestamp":1725580800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0708",
+    "text":"Instant torque makes overtaking effortless",
+    "rating":4,
+    "timestamp":1766880000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0352",
+    "text":"Low running cost compared to petrol cars makes this a great choice",
+    "rating":5,
+    "timestamp":1757376000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_1009",
+    "text":"Planning to pick up a 2023 model Y this Saturday in freezing temperature in Chicago.   Can anyone that has picked up their Model Y in the last 30 days  share their experience with  build quality? What kind of defects if any did you find (panel gaps, paint quality issues, etc) that required Tesla to fix them?   Given extreme cold weather conditions, I\u2019m trying to figure out if I should just do a quick 10 minute inspection, or take my time.  Thank you very much!",
+    "rating":1,
+    "timestamp":1705536000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0672",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":4,
+    "timestamp":1749772800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0341",
+    "text":"The EV feels stable and confident at high speeds",
+    "rating":4,
+    "timestamp":1747699200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0231",
+    "text":"The EV is decent for city use but not ideal for long drives",
+    "rating":3,
+    "timestamp":1766793600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0286",
+    "text":"The car feels eco-friendly without compromising on comfort",
+    "rating":4,
+    "timestamp":1750118400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0861",
+    "text":"Ride quality is acceptable but not outstanding",
+    "rating":3,
+    "timestamp":1756771200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0731",
+    "text":"Maintenance cost seems reasonable so far",
+    "rating":3,
+    "timestamp":1745884800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0163",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":5,
+    "timestamp":1737676800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0108",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1761004800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0491",
+    "text":"Interior plastics feel cheap in some areas",
+    "rating":2,
+    "timestamp":1750291200000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0115",
+    "text":"Works well as a second car for urban travel",
+    "rating":3,
+    "timestamp":1754006400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0870",
+    "text":"The EV feels stable and confident at high speeds",
+    "rating":5,
+    "timestamp":1756771200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0120",
+    "text":"Battery replacement cost seems very high",
+    "rating":2,
+    "timestamp":1739059200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0161",
+    "text":"Interior plastics feel cheap in some areas",
+    "rating":2,
+    "timestamp":1759104000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0148",
+    "text":"The infotainment system is responsive and easy to navigate",
+    "rating":5,
+    "timestamp":1751587200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0035",
+    "text":"Charging experience depends heavily on station availability",
+    "rating":3,
+    "timestamp":1738800000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0699",
+    "text":"The driving experience is smooth but predictable",
+    "rating":3,
+    "timestamp":1745539200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0427",
+    "text":"The charging cable provided feels low quality",
+    "rating":2,
+    "timestamp":1738022400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0426",
+    "text":"Acceleration is fine but not very sporty",
+    "rating":3,
+    "timestamp":1755907200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0807",
+    "text":"Rear seat comfort could have been better",
+    "rating":2,
+    "timestamp":1766707200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0516",
+    "text":"Boot space is limited due to battery placement",
+    "rating":1,
+    "timestamp":1759276800000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0424",
+    "text":"Suspension feels stiff on rough roads",
+    "rating":2,
+    "timestamp":1766793600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0514",
+    "text":"Boot space is limited due to battery placement",
+    "rating":2,
+    "timestamp":1744416000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0798",
+    "text":"Low running cost compared to petrol cars makes this a great choice",
+    "rating":4,
+    "timestamp":1746403200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0462",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1762300800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0809",
+    "text":"Performance is average compared to other electric cars",
+    "rating":3,
+    "timestamp":1749427200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0448",
+    "text":"The EV meets expectations but does not exceed them",
+    "rating":3,
+    "timestamp":1736467200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0712",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1735689600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0838",
+    "text":"Build quality feels solid and well-engineered for an electric car",
+    "rating":5,
+    "timestamp":1759449600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_1710",
+    "text":"I'm considering one of these but I don't want it to be too loud. Watercooling modifications are just more expensive then I would justify for one of these cards.  How do blowers compare vs shrouds with either 120mm, 80mm, or 2x40mm fans compare for cooling and noise? Then there's people talking about removing the cover on this card and putting a radial fan over it instead.  ",
+    "rating":1,
+    "timestamp":1719446400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0512",
+    "text":"Excellent range on a single charge, perfect for daily commuting",
+    "rating":5,
+    "timestamp":1745884800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_1301",
+    "text":"Just got the car  2 months ago so everything should be brand new. I did notice the brake pedal wobbles a bit when it engages but I didn't think much of it. Now I'm getting this message and I'm a bit concerned .I've restarted the car every way possible and the message just keeps coming back.I scheduled a service center visit that's about a week out. Is anyone else having a similar issue? ",
+    "rating":1,
+    "timestamp":1723593600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0260",
+    "text":"Good ground clearance for Indian road conditions",
+    "rating":4,
+    "timestamp":1738368000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_1673",
+    "text":"Hello  Took delivery of a brand new Model Y RWD on 15 April and within a month WLTP range has dropped from 455KM\u2019s to 393, raised a service with Tesla and the ticket was closed just mentioning Battery is alright. My car is a Berlin made 2024 Model Y RWD.  Did anyone have this level of degradation in first 2 months?  Thanks",
+    "rating":1,
+    "timestamp":1717977600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0368",
+    "text":"The EV feels stable and confident at high speeds",
+    "rating":5,
+    "timestamp":1741305600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0524",
+    "text":"Fast charging support works reliably and saves a lot of time",
+    "rating":4,
+    "timestamp":1744156800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0943",
+    "text":"The car feels practical rather than premium",
+    "rating":3,
+    "timestamp":1749427200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0924",
+    "text":"Regenerative braking is well tuned and improves driving efficiency",
+    "rating":4,
+    "timestamp":1752451200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0476",
+    "text":"Interior materials feel premium for this price range",
+    "rating":5,
+    "timestamp":1735862400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0287",
+    "text":"Excellent range on a single charge, perfect for daily commuting",
+    "rating":4,
+    "timestamp":1745366400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_1148",
+    "text":"I'm considering selling my Lightning and getting an R1S. My biggest concern is Rivian's continued existence as a business. I was an early adopter with Tesla so the growing pains in fit\/finish, service, etc, don't bother me as much, but I don't want to be stuck with a $90K paperweight. Any other recent purchasers who are contemplating this how did you get comfort that the business is stable enough to actually make a purchase?",
+    "rating":1,
+    "timestamp":1714608000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0031",
+    "text":"Instant torque makes overtaking effortless",
+    "rating":4,
+    "timestamp":1750464000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0764",
+    "text":"Interior plastics feel cheap in some areas",
+    "rating":2,
+    "timestamp":1764633600000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0905",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":5,
+    "timestamp":1764115200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0432",
+    "text":"Driving modes are practical and noticeably change performance",
+    "rating":4,
+    "timestamp":1760918400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0802",
+    "text":"Build quality feels solid and well-engineered for an electric car",
+    "rating":4,
+    "timestamp":1762300800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_1720",
+    "text":"We were less than one month out of warranty on the RR Sport. Timing chain tensioner failed on the coldest night of the year, engine digested itself in less than 30 seconds.   Looking forward to life with fewer moving parts! Bonus: we took delivery of the Model Y less than 24hrs after reserving it \u2013 really impressed with Tesla pulling that off for us.",
+    "rating":1,
+    "timestamp":1708214400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1593",
+    "text":"March of last year I got an alert for a Front Passenger Safety Restraining System Fault. Mobile service replaced the sensor in 30min and told me it was a known issue in my 2019 M3 and if it happened again. They would just swap out the seat. Issue is caused by placing laptop or cellphone on seat. Well today alert returned and I\u2019m being quoted 1.8k to fix. Car no longer has basic warranty. Is there anytime of warranty for past service\/ parts? Any advice? Thank you! ",
+    "rating":1,
+    "timestamp":1725753600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0069",
+    "text":"Good ground clearance for Indian road conditions",
+    "rating":4,
+    "timestamp":1762905600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0868",
+    "text":"Real-world range is lower than what was advertised",
+    "rating":1,
+    "timestamp":1746748800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0636",
+    "text":"Handling is stable but not very engaging",
+    "rating":3,
+    "timestamp":1757808000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0630",
+    "text":"The EV meets expectations but does not exceed them",
+    "rating":3,
+    "timestamp":1751414400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0454",
+    "text":"After-sales service experience has been disappointing",
+    "rating":2,
+    "timestamp":1756771200000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_1887",
+    "text":"Lilia level one doesn't have qa. This bug happened after getting the common item that gives her a random keyword. But she didn't have qa the turn before. But as you can see (as she died while attacking) she didnt have qa.",
+    "rating":1,
+    "timestamp":1722211200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0268",
+    "text":"Regenerative braking feels too aggressive at times",
+    "rating":2,
+    "timestamp":1759363200000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0571",
+    "text":"Charging speed is neither fast nor too slow",
+    "rating":3,
+    "timestamp":1737590400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0660",
+    "text":"Good ground clearance for Indian road conditions",
+    "rating":5,
+    "timestamp":1751068800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0018",
+    "text":"Interior plastics feel cheap in some areas",
+    "rating":1,
+    "timestamp":1753142400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0873",
+    "text":"Fast charging support works reliably and saves a lot of time",
+    "rating":4,
+    "timestamp":1761782400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0111",
+    "text":"Build quality feels solid and well-engineered for an electric car",
+    "rating":5,
+    "timestamp":1760140800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_2499",
+    "text":"my laptop is a lenovo ideapad 3 and when i play minecraft on multiplayer is freezes but the game is still running in the background i can still hear me running and stuff and idk how to fix it please help also it mostly only freezes on one minecraft server i play",
+    "rating":1,
+    "timestamp":1717804800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0949",
+    "text":"Regenerative braking is well tuned and improves driving efficiency",
+    "rating":4,
+    "timestamp":1746921600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0839",
+    "text":"Battery performance drops noticeably in extreme heat",
+    "rating":2,
+    "timestamp":1747440000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0749",
+    "text":"Charging experience depends heavily on station availability",
+    "rating":3,
+    "timestamp":1762473600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_2655",
+    "text":"Hello,  I got a new phone recently and I\u2019m having trouble setting up the Bluetooth with my new phone. When I try and touch the bottom of the screen it\u2019s unresponsive- so I can\u2019t remove the existing phones. I tried resetting the screen and using a credit card to hit the bottom buttons and neither have worked. Is there anything else I can try or am I stuck having to pay the dealership?",
+    "rating":1,
+    "timestamp":1706227200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0193",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1746662400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0060",
+    "text":"Excellent range on a single charge, perfect for daily commuting",
+    "rating":5,
+    "timestamp":1746576000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0275",
+    "text":"Build quality feels solid and well-engineered for an electric car",
+    "rating":4,
+    "timestamp":1759449600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0234",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":4,
+    "timestamp":1756684800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0034",
+    "text":"Maintenance cost seems reasonable so far",
+    "rating":3,
+    "timestamp":1741219200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0179",
+    "text":"The EV meets expectations but does not exceed them",
+    "rating":3,
+    "timestamp":1761177600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0616",
+    "text":"Technology features are adequate for the segment",
+    "rating":3,
+    "timestamp":1740441600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0344",
+    "text":"Regenerative braking feels too aggressive at times",
+    "rating":2,
+    "timestamp":1735776000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0348",
+    "text":"Software updates have improved performance over time",
+    "rating":4,
+    "timestamp":1766016000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0553",
+    "text":"Steering is precise and gives good control in city traffic",
+    "rating":4,
+    "timestamp":1755993600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0705",
+    "text":"Climate control works efficiently without draining the battery much",
+    "rating":4,
+    "timestamp":1762473600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0879",
+    "text":"Handling is stable but not very engaging",
+    "rating":3,
+    "timestamp":1746057600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0737",
+    "text":"AC usage significantly reduces driving range",
+    "rating":1,
+    "timestamp":1763164800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0915",
+    "text":"Interior plastics feel cheap in some areas",
+    "rating":1,
+    "timestamp":1760054400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0171",
+    "text":"The EV feels stable and confident at high speeds",
+    "rating":5,
+    "timestamp":1740787200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0586",
+    "text":"Excellent range on a single charge, perfect for daily commuting",
+    "rating":5,
+    "timestamp":1756684800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0194",
+    "text":"Low running cost compared to petrol cars makes this a great choice",
+    "rating":5,
+    "timestamp":1746835200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0364",
+    "text":"Works well as a second car for urban travel",
+    "rating":3,
+    "timestamp":1740009600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0789",
+    "text":"Ride quality is acceptable but not outstanding",
+    "rating":3,
+    "timestamp":1738022400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0272",
+    "text":"The EV meets expectations but does not exceed them",
+    "rating":3,
+    "timestamp":1736985600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0567",
+    "text":"The charging cable provided feels low quality",
+    "rating":2,
+    "timestamp":1745107200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1685",
+    "text":"As Peter Thiel famously said, \"Never bet against Elon Musk.\"  The trend is pointing towards Birkshire completely dissolving their stake in the Chinese manufacturer. Who remembers NIO \ud83e\udd74",
+    "rating":1,
+    "timestamp":1719360000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0546",
+    "text":"Software updates have improved performance over time",
+    "rating":4,
+    "timestamp":1751328000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0881",
+    "text":"Real-world range is lower than what was advertised",
+    "rating":1,
+    "timestamp":1753315200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0816",
+    "text":"Safety features like ABS and airbags inspire confidence",
+    "rating":4,
+    "timestamp":1762300800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0760",
+    "text":"Rear seat comfort could have been better",
+    "rating":1,
+    "timestamp":1744848000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0098",
+    "text":"Comfort level is okay for short journeys",
+    "rating":3,
+    "timestamp":1753920000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0152",
+    "text":"The EV is decent for city use but not ideal for long drives",
+    "rating":3,
+    "timestamp":1764633600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0562",
+    "text":"Technology features are adequate for the segment",
+    "rating":3,
+    "timestamp":1750377600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0756",
+    "text":"After-sales service experience has been disappointing",
+    "rating":2,
+    "timestamp":1741564800000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_1834",
+    "text":"I have a model y and Tesla wall charger. I select these devices in the intelligent setup then login to my Tesla account to give OE authority to control charging. I can see that I\u2019ve allowed a OE access as a third party in my Tesla account but all I get in the OE app is this error. I have location access allowed in my model y settings. Anybody have any ideas what else might be needed so I can proceed to adding a virtual key. Many thanks ",
+    "rating":1,
+    "timestamp":1724371200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1811",
+    "text":"Apologies if this is a dumb question. For example, I\u2019m looking at buying a 2020\/2021 model 3 for around 15-16k. I won\u2019t be doing more than 5k miles in it a year. Would it be very difficult to sell it in 4\/5 years time without a battery warranty? Would value depreciate a lot more than an equivalent petrol\/hybrid car",
+    "rating":1,
+    "timestamp":1720310400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0700",
+    "text":"Range is sufficient for daily needs only",
+    "rating":3,
+    "timestamp":1767139200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0664",
+    "text":"Suspension feels stiff on rough roads",
+    "rating":2,
+    "timestamp":1747526400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0617",
+    "text":"The driving experience is smooth but predictable",
+    "rating":3,
+    "timestamp":1764806400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0559",
+    "text":"The cabin is quiet and comfortable even at highway speeds",
+    "rating":5,
+    "timestamp":1745366400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0273",
+    "text":"High upfront cost makes it hard to justify",
+    "rating":1,
+    "timestamp":1744761600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0569",
+    "text":"Overall experience is balanced with pros and cons",
+    "rating":3,
+    "timestamp":1765584000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0814",
+    "text":"The infotainment system is responsive and easy to navigate",
+    "rating":4,
+    "timestamp":1746316800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0928",
+    "text":"The EV delivers smooth acceleration and feels futuristic to drive",
+    "rating":4,
+    "timestamp":1753920000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0065",
+    "text":"Instant torque makes overtaking effortless",
+    "rating":5,
+    "timestamp":1759190400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_2242",
+    "text":"I don\u2019t know. Seems to me that 125 degrees is a tad on the warm side for something that you are forced to touch with your fingers. But apparently that\u2019s within spec\u2026",
+    "rating":1,
+    "timestamp":1723075200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0238",
+    "text":"Good ground clearance for Indian road conditions",
+    "rating":4,
+    "timestamp":1763164800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0623",
+    "text":"Steering is precise and gives good control in city traffic",
+    "rating":5,
+    "timestamp":1747267200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0054",
+    "text":"The infotainment system is responsive and easy to navigate",
+    "rating":4,
+    "timestamp":1751500800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0010",
+    "text":"Fast charging support works reliably and saves a lot of time",
+    "rating":5,
+    "timestamp":1747526400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0503",
+    "text":"Acceleration is fine but not very sporty",
+    "rating":3,
+    "timestamp":1765584000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0973",
+    "text":"Driving modes are practical and noticeably change performance",
+    "rating":4,
+    "timestamp":1750204800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0972",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1754265600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0046",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1756425600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0420",
+    "text":"Interior materials feel premium for this price range",
+    "rating":5,
+    "timestamp":1766707200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0710",
+    "text":"The EV is decent for city use but not ideal for long drives",
+    "rating":3,
+    "timestamp":1737158400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0925",
+    "text":"The EV is decent for city use but not ideal for long drives",
+    "rating":3,
+    "timestamp":1742083200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0346",
+    "text":"AC usage significantly reduces driving range",
+    "rating":2,
+    "timestamp":1741392000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0459",
+    "text":"The charging cable provided feels low quality",
+    "rating":1,
+    "timestamp":1751328000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0822",
+    "text":"Climate control works efficiently without draining the battery much",
+    "rating":4,
+    "timestamp":1747526400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0456",
+    "text":"Interior design is simple and minimal",
+    "rating":3,
+    "timestamp":1765756800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0373",
+    "text":"Service center staff lack proper EV-specific knowledge",
+    "rating":2,
+    "timestamp":1748390400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0379",
+    "text":"Safety features like ABS and airbags inspire confidence",
+    "rating":5,
+    "timestamp":1743033600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0237",
+    "text":"The car feels practical rather than premium",
+    "rating":3,
+    "timestamp":1756771200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0596",
+    "text":"The driving experience is smooth but predictable",
+    "rating":3,
+    "timestamp":1756598400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0219",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":4,
+    "timestamp":1751760000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0406",
+    "text":"Maintenance cost seems reasonable so far",
+    "rating":3,
+    "timestamp":1752019200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0004",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1761436800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0104",
+    "text":"Acceleration is fine but not very sporty",
+    "rating":3,
+    "timestamp":1740355200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0466",
+    "text":"The EV is decent for city use but not ideal for long drives",
+    "rating":3,
+    "timestamp":1741478400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0495",
+    "text":"Range is sufficient for daily needs only",
+    "rating":3,
+    "timestamp":1747094400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_1660",
+    "text":"W2C https:\/\/pandabuy.allapp.link\/co9l7v1rogtuqkqgmthg",
+    "rating":1,
+    "timestamp":1712448000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0750",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":5,
+    "timestamp":1755907200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0900",
+    "text":"Fast charging support works reliably and saves a lot of time",
+    "rating":4,
+    "timestamp":1735948800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0819",
+    "text":"Handling is stable but not very engaging",
+    "rating":3,
+    "timestamp":1752105600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0362",
+    "text":"Interior design is simple and minimal",
+    "rating":3,
+    "timestamp":1741132800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0958",
+    "text":"Charging speed is neither fast nor too slow",
+    "rating":3,
+    "timestamp":1743811200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0005",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":5,
+    "timestamp":1750204800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0907",
+    "text":"Good ground clearance for Indian road conditions",
+    "rating":5,
+    "timestamp":1748217600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0229",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":4,
+    "timestamp":1750982400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0813",
+    "text":"Instant torque makes overtaking effortless",
+    "rating":5,
+    "timestamp":1765411200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0393",
+    "text":"The EV delivers smooth acceleration and feels futuristic to drive",
+    "rating":5,
+    "timestamp":1754438400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0374",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":5,
+    "timestamp":1766707200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0001",
+    "text":"Climate control works efficiently without draining the battery much",
+    "rating":5,
+    "timestamp":1740096000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0784",
+    "text":"The cabin is quiet and comfortable even at highway speeds",
+    "rating":4,
+    "timestamp":1751760000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_1792",
+    "text":"it has law and chaos as opposites but the opposite of law is crime, and the opposite of chaos is order.  Edit: to demonstrate my point, do you think a crime boss is chaotic because they aren't lawful?",
+    "rating":1,
+    "timestamp":1709078400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1564",
+    "text":"GPD Win Mini 2024 is my favorite out of them all\ud83d\ude01",
+    "rating":1,
+    "timestamp":1721347200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0797",
+    "text":"Regenerative braking feels too aggressive at times",
+    "rating":2,
+    "timestamp":1742688000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0720",
+    "text":"Excellent range on a single charge, perfect for daily commuting",
+    "rating":4,
+    "timestamp":1739491200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0965",
+    "text":"Software bugs appear after recent updates",
+    "rating":2,
+    "timestamp":1739750400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0279",
+    "text":"Steering is precise and gives good control in city traffic",
+    "rating":5,
+    "timestamp":1754956800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_2448",
+    "text":"Recently I\u2019ve noticed that MY battery drains about 1% overnight from mobile app usage. I don\u2019t use the app at all while I\u2019m home and neither does my wife who is the only other person with mobile access so I\u2019m quite confused. Any ideas why this is happening?  I even made sure to remove any 3rd party app accesses and tokens. ",
+    "rating":1,
+    "timestamp":1719705600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0340",
+    "text":"Software updates have improved performance over time",
+    "rating":4,
+    "timestamp":1748822400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0177",
+    "text":"The EV delivers smooth acceleration and feels futuristic to drive",
+    "rating":4,
+    "timestamp":1736121600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0570",
+    "text":"Software updates have improved performance over time",
+    "rating":5,
+    "timestamp":1750809600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0767",
+    "text":"Infotainment system occasionally lags or freezes",
+    "rating":2,
+    "timestamp":1756771200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0871",
+    "text":"Excellent range on a single charge, perfect for daily commuting",
+    "rating":5,
+    "timestamp":1743120000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0061",
+    "text":"High upfront cost makes it hard to justify",
+    "rating":1,
+    "timestamp":1764547200000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0890",
+    "text":"Fast charging support works reliably and saves a lot of time",
+    "rating":4,
+    "timestamp":1744934400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0774",
+    "text":"The EV meets expectations but does not exceed them",
+    "rating":3,
+    "timestamp":1760400000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0885",
+    "text":"Overall ownership experience has been very satisfying",
+    "rating":4,
+    "timestamp":1744848000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0022",
+    "text":"Fast charging support works reliably and saves a lot of time",
+    "rating":4,
+    "timestamp":1757030400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0994",
+    "text":"Real-world range is lower than what was advertised",
+    "rating":2,
+    "timestamp":1766016000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0535",
+    "text":"Range is sufficient for daily needs only",
+    "rating":3,
+    "timestamp":1756684800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0556",
+    "text":"The car feels practical rather than premium",
+    "rating":3,
+    "timestamp":1755648000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0624",
+    "text":"Fast charging support works reliably and saves a lot of time",
+    "rating":5,
+    "timestamp":1759622400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0910",
+    "text":"Suspension feels stiff on rough roads",
+    "rating":1,
+    "timestamp":1737590400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0614",
+    "text":"Charging stations are often occupied or not working",
+    "rating":1,
+    "timestamp":1743379200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0897",
+    "text":"Driving modes are practical and noticeably change performance",
+    "rating":5,
+    "timestamp":1757721600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0702",
+    "text":"Climate control works efficiently without draining the battery much",
+    "rating":4,
+    "timestamp":1747872000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0156",
+    "text":"Interior materials feel premium for this price range",
+    "rating":5,
+    "timestamp":1745452800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0353",
+    "text":"Steering is precise and gives good control in city traffic",
+    "rating":5,
+    "timestamp":1765324800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_2045",
+    "text":"Is this a safety concern ? Does anyone have the same problem ?  ",
+    "rating":1,
+    "timestamp":1720656000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0096",
+    "text":"Charging at home is convenient and hassle-free",
+    "rating":4,
+    "timestamp":1736294400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0582",
+    "text":"Technology features are adequate for the segment",
+    "rating":3,
+    "timestamp":1767139200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0942",
+    "text":"Handling is stable but not very engaging",
+    "rating":3,
+    "timestamp":1743897600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_2154",
+    "text":"My Asus X543MA laptop with mint installed suddenly shut down and now stuck on the boot screen with two pixels. I don't know what to do i tried shutting it down with the power button didn't work tried unplugging it also didn't work any help? The laptop was dead for a few hours cause of electricity problems when i plugged it in again it charged for awhile while on the desktop it unexpectedly shut down and when i went to turn it back on it was stuck on the boot screen pls help.",
+    "rating":1,
+    "timestamp":1716768000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_2674",
+    "text":"I installed gow Ragnarok and started it but it shows black screen and my PC freezes. Updated my graphics card driver. Restarted the computer. Nothing works. It stays black forever.  Specs -  Ryzen 5 7600x ; 7900XT 20gb VRAM ; 32 GB RAM ; 2TB SSD  What else is needed for this game to work? ",
+    "rating":1,
+    "timestamp":1726876800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1165",
+    "text":"I goofed on the last post. ",
+    "rating":1,
+    "timestamp":1724716800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0698",
+    "text":"Service center staff lack proper EV-specific knowledge",
+    "rating":1,
+    "timestamp":1747094400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_2665",
+    "text":"I've been wanting to get a Tesla, so when I saw this drive by I wondered if a Tesla would think this is a semi or a if it would cause issues. ",
+    "rating":1,
+    "timestamp":1717718400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0026",
+    "text":"Fast charging support works reliably and saves a lot of time",
+    "rating":5,
+    "timestamp":1761436800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_2471",
+    "text":"https:\/\/preview.redd.it\/ro0ck2ivllod1.png?width=1464&format=png&auto=webp&s=2d04e9cc9b59d1d47e762d85ae0c642246b15501  ",
+    "rating":1,
+    "timestamp":1726185600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0886",
+    "text":"The car feels practical rather than premium",
+    "rating":3,
+    "timestamp":1759363200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0473",
+    "text":"Comfort level is okay for short journeys",
+    "rating":3,
+    "timestamp":1757635200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0133",
+    "text":"Handling is stable but not very engaging",
+    "rating":3,
+    "timestamp":1763424000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0629",
+    "text":"The driving experience is smooth but predictable",
+    "rating":3,
+    "timestamp":1741132800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0534",
+    "text":"Overall experience is balanced with pros and cons",
+    "rating":3,
+    "timestamp":1744588800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0711",
+    "text":"The car feels eco-friendly without compromising on comfort",
+    "rating":4,
+    "timestamp":1756598400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0932",
+    "text":"Ride quality is acceptable but not outstanding",
+    "rating":3,
+    "timestamp":1748304000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_1378",
+    "text":"[https:\/\/amzn.to\/46kOIwb](https:\/\/amzn.to\/46kOIwb)  https:\/\/preview.redd.it\/gagaumjnhosb1.png?width=1500&format=png&auto=webp&s=128aaf7a0a266fa6fcd2332c6875a3eb2ec9b0dc  https:\/\/preview.redd.it\/kxp97c2ohosb1.png?width=1500&format=png&auto=webp&s=7e25d79b4b8348d0ed8e78c05e0c51e8ff0d871c",
+    "rating":1,
+    "timestamp":1696550400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_2604",
+    "text":"Idk if they give this to everyone or the guys just left this when they were fixing my car ",
+    "rating":1,
+    "timestamp":1722297600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0817",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1763424000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0264",
+    "text":"Interior materials feel premium for this price range",
+    "rating":5,
+    "timestamp":1766102400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0217",
+    "text":"Battery replacement cost seems very high",
+    "rating":2,
+    "timestamp":1751673600000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0918",
+    "text":"Build quality feels solid and well-engineered for an electric car",
+    "rating":4,
+    "timestamp":1747872000000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0734",
+    "text":"The car feels eco-friendly without compromising on comfort",
+    "rating":4,
+    "timestamp":1766620800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0215",
+    "text":"AC usage significantly reduces driving range",
+    "rating":2,
+    "timestamp":1758499200000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_1713",
+    "text":"I know in the vehicle itself self you can customize your Tesla to be any color you want. Does the same apply to the app on your phone that shows the car while it\u2019s charging, etc.? Or will the app only show the original color that you bought and it is not changeable?",
+    "rating":1,
+    "timestamp":1717200000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0947",
+    "text":"After-sales service experience has been disappointing",
+    "rating":2,
+    "timestamp":1765584000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0738",
+    "text":"Boot space is limited due to battery placement",
+    "rating":2,
+    "timestamp":1741305600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0906",
+    "text":"Maintenance cost seems reasonable so far",
+    "rating":3,
+    "timestamp":1742601600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0475",
+    "text":"Maintenance cost seems reasonable so far",
+    "rating":3,
+    "timestamp":1754784000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0540",
+    "text":"Charging stations are often occupied or not working",
+    "rating":2,
+    "timestamp":1736985600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_2584",
+    "text":"Just Alerted, for all those who are interested in one.",
+    "rating":1,
+    "timestamp":1700611200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0212",
+    "text":"Boot space is limited due to battery placement",
+    "rating":2,
+    "timestamp":1744761600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0314",
+    "text":"The car feels practical rather than premium",
+    "rating":3,
+    "timestamp":1754697600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0157",
+    "text":"The car feels practical rather than premium",
+    "rating":3,
+    "timestamp":1751587200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0198",
+    "text":"Rear seat comfort could have been better",
+    "rating":2,
+    "timestamp":1741478400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0781",
+    "text":"The driving experience is smooth but predictable",
+    "rating":3,
+    "timestamp":1763856000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0753",
+    "text":"The EV meets expectations but does not exceed them",
+    "rating":3,
+    "timestamp":1746748800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0558",
+    "text":"Build quality feels solid and well-engineered for an electric car",
+    "rating":5,
+    "timestamp":1758067200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0055",
+    "text":"Suitable for eco-conscious buyers with moderate usage",
+    "rating":3,
+    "timestamp":1756512000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_2477",
+    "text":"Got the maxed out 16\" MacBook Pro M1 Max when it launched in 2021   3 years later and it\u2019s still so powerful with zero issues. Battery still fine even with High Power Mode on   The M1 Max and 64 GB RAM is worth it for my workflow   p.s. the body quality too. It\u2019s fallen down so many times and it\u2019s all good.   ",
+    "rating":1,
+    "timestamp":1724630400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_1124",
+    "text":"The tin foil truck. ",
+    "rating":1,
+    "timestamp":1716508800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0995",
+    "text":"Safety features like ABS and airbags inspire confidence",
+    "rating":5,
+    "timestamp":1742860800000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0568",
+    "text":"Handling is stable but not very engaging",
+    "rating":3,
+    "timestamp":1740873600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0847",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1743120000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_2642",
+    "text":"Need to add an interlock. The panel cover  is able to be flexed enough to defeat it. How should I secure the cover so it won't flex?",
+    "rating":1,
+    "timestamp":1724284800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0224",
+    "text":"Build quality feels solid and well-engineered for an electric car",
+    "rating":4,
+    "timestamp":1743379200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0522",
+    "text":"Charging speed is neither fast nor too slow",
+    "rating":3,
+    "timestamp":1762387200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0843",
+    "text":"Service center staff lack proper EV-specific knowledge",
+    "rating":1,
+    "timestamp":1755216000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0632",
+    "text":"Safety features like ABS and airbags inspire confidence",
+    "rating":4,
+    "timestamp":1746489600000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0934",
+    "text":"Good ground clearance for Indian road conditions",
+    "rating":5,
+    "timestamp":1738281600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0649",
+    "text":"Range anxiety is still a concern on long trips",
+    "rating":1,
+    "timestamp":1745712000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0414",
+    "text":"Interior plastics feel cheap in some areas",
+    "rating":2,
+    "timestamp":1739318400000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0247",
+    "text":"AC usage significantly reduces driving range",
+    "rating":2,
+    "timestamp":1761436800000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0970",
+    "text":"Handling is stable but not very engaging",
+    "rating":3,
+    "timestamp":1760140800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0659",
+    "text":"Ride quality is acceptable but not outstanding",
+    "rating":3,
+    "timestamp":1759708800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0752",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1737676800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0436",
+    "text":"Maintenance cost seems reasonable so far",
+    "rating":3,
+    "timestamp":1765756800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_2421",
+    "text":"Ordered 4 from Amazon, plan was one for display with Toyhax, one in Dino, one in both and one in box with the 4 others.   Open up one, has an arm that falls off when too easily, send back, they can only refund not replace, okay sure, open up second one, seems fine, go to open up third, start applying Toyhax, get to wings and paint isn\u2019t covered correctly on the wings (will take picture tomorrow maybe it can be salvaged??).  Anyone else experiencing such QC issues with swoop??  ",
+    "rating":1,
+    "timestamp":1724544000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0318",
+    "text":"Technology features are adequate for the segment",
+    "rating":3,
+    "timestamp":1761004800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0591",
+    "text":"The cabin is quiet and comfortable even at highway speeds",
+    "rating":4,
+    "timestamp":1744934400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0347",
+    "text":"Charging speed is neither fast nor too slow",
+    "rating":3,
+    "timestamp":1745193600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0513",
+    "text":"Service center staff lack proper EV-specific knowledge",
+    "rating":2,
+    "timestamp":1745625600000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0695",
+    "text":"Service center staff lack proper EV-specific knowledge",
+    "rating":1,
+    "timestamp":1743811200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0230",
+    "text":"The driving experience is smooth but predictable",
+    "rating":3,
+    "timestamp":1758240000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0267",
+    "text":"The EV feels stable and confident at high speeds",
+    "rating":5,
+    "timestamp":1740614400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0509",
+    "text":"Charging speed is neither fast nor too slow",
+    "rating":3,
+    "timestamp":1766793600000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0078",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1737244800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0154",
+    "text":"Software bugs appear after recent updates",
+    "rating":2,
+    "timestamp":1758153600000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0635",
+    "text":"The EV delivers smooth acceleration and feels futuristic to drive",
+    "rating":4,
+    "timestamp":1763337600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0410",
+    "text":"Interior materials feel premium for this price range",
+    "rating":5,
+    "timestamp":1741219200000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0872",
+    "text":"Suitable for eco-conscious buyers with moderate usage",
+    "rating":3,
+    "timestamp":1735862400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0646",
+    "text":"Excellent range on a single charge, perfect for daily commuting",
+    "rating":4,
+    "timestamp":1765584000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0956",
+    "text":"Comfort level is okay for short journeys",
+    "rating":3,
+    "timestamp":1756425600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_2094",
+    "text":"https:\/\/www.theverge.com\/2023\/10\/23\/23928563\/tesla-doj-ev-range-exaggerate-investigation",
+    "rating":1,
+    "timestamp":1698019200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0673",
+    "text":"Low running cost compared to petrol cars makes this a great choice",
+    "rating":4,
+    "timestamp":1757116800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0176",
+    "text":"Low running cost compared to petrol cars makes this a great choice",
+    "rating":5,
+    "timestamp":1738368000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0945",
+    "text":"Regenerative braking is well tuned and improves driving efficiency",
+    "rating":5,
+    "timestamp":1751846400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0443",
+    "text":"Charging stations are often occupied or not working",
+    "rating":1,
+    "timestamp":1747699200000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0236",
+    "text":"Regenerative braking is well tuned and improves driving efficiency",
+    "rating":4,
+    "timestamp":1757894400000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0836",
+    "text":"Overall experience is balanced with pros and cons",
+    "rating":3,
+    "timestamp":1761782400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0251",
+    "text":"Interior materials feel premium for this price range",
+    "rating":5,
+    "timestamp":1746489600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0978",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1755907200000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_1456",
+    "text":"Hi guys. This weekend I went first camping with my Tesla model Y. It is almost new tesla, I bought it on this March. After a great camping, I figured out weird water which is drained from under the driver side. I\u2019m guessing this water from air conditioner but did you see this phenomenon before? Do I have to go service center?",
+    "rating":1,
+    "timestamp":1723939200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0835",
+    "text":"The driving experience is smooth but predictable",
+    "rating":3,
+    "timestamp":1740182400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0830",
+    "text":"Build quality feels solid and well-engineered for an electric car",
+    "rating":5,
+    "timestamp":1752969600000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0893",
+    "text":"Charging stations are often occupied or not working",
+    "rating":2,
+    "timestamp":1757376000000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0682",
+    "text":"Long charging time compared to refueling a petrol car",
+    "rating":2,
+    "timestamp":1756425600000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0223",
+    "text":"The driving experience is smooth but predictable",
+    "rating":3,
+    "timestamp":1741651200000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0773",
+    "text":"The EV meets expectations but does not exceed them",
+    "rating":3,
+    "timestamp":1751328000000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_2395",
+    "text":"2024 Model Y fresh out of the dealership",
+    "rating":1,
+    "timestamp":1720742400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0087",
+    "text":"Range is sufficient for daily needs only",
+    "rating":3,
+    "timestamp":1737417600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_2605",
+    "text":"FSD12 is a huge step forward but Tesla should work on autopilot.  Its actually becoming worse in the latest updates.  Especially 2024.8.7 messed up AP in my experience.  - Terrible acceleration and braking in stop and go traffic.  - Increased phantom braking which i have never had in previous versions.   ",
+    "rating":1,
+    "timestamp":1712275200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0496",
+    "text":"The driving experience is smooth but predictable",
+    "rating":3,
+    "timestamp":1741305600000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0611",
+    "text":"Performance is average compared to other electric cars",
+    "rating":3,
+    "timestamp":1743638400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0903",
+    "text":"Acceleration is fine but not very sporty",
+    "rating":3,
+    "timestamp":1749340800000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0338",
+    "text":"The EV meets expectations but does not exceed them",
+    "rating":3,
+    "timestamp":1761264000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0213",
+    "text":"Technology features are adequate for the segment",
+    "rating":3,
+    "timestamp":1766102400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_0433",
+    "text":"Low running cost compared to petrol cars makes this a great choice",
+    "rating":5,
+    "timestamp":1760140800000,
+    "source":"product_page",
+    "label":2
+  },
+  {
+    "review_id":"r_0850",
+    "text":"Charging stations are often occupied or not working",
+    "rating":1,
+    "timestamp":1738627200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0794",
+    "text":"Build quality feels solid and well-engineered for an electric car",
+    "rating":5,
+    "timestamp":1748995200000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0024",
+    "text":"Software bugs appear after recent updates",
+    "rating":2,
+    "timestamp":1742515200000,
+    "source":"product_page",
+    "label":0
+  },
+  {
+    "review_id":"r_0455",
+    "text":"Overall experience is balanced with pros and cons",
+    "rating":3,
+    "timestamp":1755734400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_1849",
+    "text":"Where does the light go when the tailgate is down? I thought that the third brake light was something federally mandated.",
+    "rating":1,
+    "timestamp":1698192000000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0771",
+    "text":"Comfort level is okay for short journeys",
+    "rating":3,
+    "timestamp":1751846400000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0292",
+    "text":"Noise insulation is decent for an electric vehicle",
+    "rating":3,
+    "timestamp":1755734400000,
+    "source":"product_page",
+    "label":1
+  },
+  {
+    "review_id":"r_2528",
+    "text":"It used to be sooooo easy to change the filter now you gotta work in such a tight space. Reverse engineering huh??????",
+    "rating":1,
+    "timestamp":1723939200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0800",
+    "text":"Performance is average compared to other electric cars",
+    "rating":3,
+    "timestamp":1748908800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_1804",
+    "text":"The only way to get out of it is to restart my game but I can never click any team rocket things or else I will get bugged.",
+    "rating":1,
+    "timestamp":1726617600000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0554",
+    "text":"Steering is precise and gives good control in city traffic",
+    "rating":4,
+    "timestamp":1737504000000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0833",
+    "text":"Interior plastics feel cheap in some areas",
+    "rating":2,
+    "timestamp":1746316800000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0351",
+    "text":"Safety features like ABS and airbags inspire confidence",
+    "rating":4,
+    "timestamp":1751846400000,
+    "source":"support_log",
+    "label":2
+  },
+  {
+    "review_id":"r_0607",
+    "text":"Interior plastics feel cheap in some areas",
+    "rating":1,
+    "timestamp":1760054400000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0253",
+    "text":"After-sales service experience has been disappointing",
+    "rating":2,
+    "timestamp":1738627200000,
+    "source":"support_log",
+    "label":0
+  },
+  {
+    "review_id":"r_0062",
+    "text":"Suitable for eco-conscious buyers with moderate usage",
+    "rating":3,
+    "timestamp":1754524800000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_0686",
+    "text":"The car is functional but lacks excitement",
+    "rating":3,
+    "timestamp":1766880000000,
+    "source":"support_log",
+    "label":1
+  },
+  {
+    "review_id":"r_1810",
+    "text":"Just saw my first zombies so I set up a Tesla Coil in that neat office space\u2026 but my game insta crashes.  Any advice?",
+    "rating":1,
+    "timestamp":1716163200000,
+    "source":"support_log",
+    "label":0
+  }
+]
