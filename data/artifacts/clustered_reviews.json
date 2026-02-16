@@ -1,0 +1,7002 @@
+[
+  {
+    "review_id": "r_0000",
+    "clean_text": "comfort level is okay for short journeys",
+    "timestamp": "2025-05-01",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0001",
+    "clean_text": "range is sufficient for daily needs only",
+    "timestamp": "2025-10-23",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0002",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-07-04",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0003",
+    "clean_text": "high upfront cost makes it hard to justify",
+    "timestamp": "2025-08-22",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0004",
+    "clean_text": "software bugs appear after recent updates",
+    "timestamp": "2025-11-15",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0005",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-05-03",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0006",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-01-28",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0007",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-06-26",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0008",
+    "clean_text": "high upfront cost makes it hard to justify",
+    "timestamp": "2025-05-14",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0009",
+    "clean_text": "build quality feels solid and wellengineered for an electric car",
+    "timestamp": "2025-05-16",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0010",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-03-19",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0011",
+    "clean_text": "acceleration is fine but not very sporty",
+    "timestamp": "2025-09-29",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0012",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-02-05",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0013",
+    "clean_text": "software updates have improved performance over time",
+    "timestamp": "2025-07-01",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0014",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-07-26",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0015",
+    "clean_text": "charging infrastructure availability is still a major issue",
+    "timestamp": "2025-02-04",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0016",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-04-22",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0017",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-03-26",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0018",
+    "clean_text": "rear seat comfort could have been better",
+    "timestamp": "2025-05-14",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0019",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-06-21",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0020",
+    "clean_text": "the driving experience is smooth but predictable",
+    "timestamp": "2025-12-10",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0021",
+    "clean_text": "rear seat comfort could have been better",
+    "timestamp": "2025-04-03",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0022",
+    "clean_text": "ride quality is acceptable but not outstanding",
+    "timestamp": "2025-05-21",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0023",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-07-07",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0024",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-10-01",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0025",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-02-28",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0026",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-10-24",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0027",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-10-13",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0028",
+    "clean_text": "fast charging support works reliably and saves a lot of time",
+    "timestamp": "2025-07-30",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0029",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-12-27",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0030",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-11-21",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0031",
+    "clean_text": "the infotainment system is responsive and easy to navigate",
+    "timestamp": "2025-03-16",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0032",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-06-01",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0033",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-05-13",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0034",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-06-30",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0035",
+    "clean_text": "suitable for ecoconscious buyers with moderate usage",
+    "timestamp": "2025-05-02",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0036",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-06-09",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0037",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-04-14",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0038",
+    "clean_text": "noise insulation is decent for an electric vehicle",
+    "timestamp": "2025-04-28",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0039",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-01-22",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0040",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-11-25",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0041",
+    "clean_text": "the driving experience is smooth but predictable",
+    "timestamp": "2025-06-12",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0042",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-08-30",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0043",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-01-20",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0044",
+    "clean_text": "software updates have improved performance over time",
+    "timestamp": "2025-10-25",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0045",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-09-17",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0046",
+    "clean_text": "range is sufficient for daily needs only",
+    "timestamp": "2025-04-24",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0047",
+    "clean_text": "the ev delivers smooth acceleration and feels futuristic to drive",
+    "timestamp": "2025-12-26",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0048",
+    "clean_text": "build quality feels solid and wellengineered for an electric car",
+    "timestamp": "2025-09-17",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0049",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-12-12",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0050",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-05-12",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0051",
+    "clean_text": "comfort level is okay for short journeys",
+    "timestamp": "2025-10-11",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0052",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-07-07",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0053",
+    "clean_text": "interior design is simple and minimal",
+    "timestamp": "2025-08-19",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0054",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-09-25",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0055",
+    "clean_text": "regenerative braking feels too aggressive at times",
+    "timestamp": "2025-07-28",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0056",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-12-01",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0057",
+    "clean_text": "interior design is simple and minimal",
+    "timestamp": "2025-03-13",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0058",
+    "clean_text": "rear seat comfort could have been better",
+    "timestamp": "2025-06-04",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0059",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-10-28",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0060",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-07-24",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0061",
+    "clean_text": "battery performance drops noticeably in extreme heat",
+    "timestamp": "2025-08-24",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0062",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-04-09",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0063",
+    "clean_text": "maintenance cost seems reasonable so far",
+    "timestamp": "2025-11-14",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0064",
+    "clean_text": "charging infrastructure availability is still a major issue",
+    "timestamp": "2025-02-06",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0065",
+    "clean_text": "the ev is decent for city use but not ideal for long drives",
+    "timestamp": "2025-12-02",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0066",
+    "clean_text": "overall ownership experience has been very satisfying",
+    "timestamp": "2025-02-13",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0067",
+    "clean_text": "charging infrastructure availability is still a major issue",
+    "timestamp": "2025-07-23",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0068",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-10-21",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0069",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-01-01",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0070",
+    "clean_text": "interior design is simple and minimal",
+    "timestamp": "2025-08-21",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0071",
+    "clean_text": "performance is average compared to other electric cars",
+    "timestamp": "2025-02-23",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0072",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-06-14",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0073",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-11-21",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0074",
+    "clean_text": "works well as a second car for urban travel",
+    "timestamp": "2025-01-05",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0075",
+    "clean_text": "the driving experience is smooth but predictable",
+    "timestamp": "2025-07-08",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0076",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-08-07",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0077",
+    "clean_text": "maintenance cost seems reasonable so far",
+    "timestamp": "2025-06-12",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0078",
+    "clean_text": "interior design is simple and minimal",
+    "timestamp": "2025-04-27",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0079",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-08-15",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0080",
+    "clean_text": "fast charging support works reliably and saves a lot of time",
+    "timestamp": "2025-02-15",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0081",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-05-03",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0082",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-04-13",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0083",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-06-07",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0084",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-03-28",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0085",
+    "clean_text": "maintenance cost seems reasonable so far",
+    "timestamp": "2025-03-30",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0086",
+    "clean_text": "works well as a second car for urban travel",
+    "timestamp": "2025-06-21",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0087",
+    "clean_text": "the ev delivers smooth acceleration and feels futuristic to drive",
+    "timestamp": "2025-06-18",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0088",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-08-08",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0089",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-09-22",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0090",
+    "clean_text": "interior design is simple and minimal",
+    "timestamp": "2025-05-31",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0091",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-03-20",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0092",
+    "clean_text": "rear seat comfort could have been better",
+    "timestamp": "2025-02-27",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0093",
+    "clean_text": "charging infrastructure availability is still a major issue",
+    "timestamp": "2025-08-12",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0094",
+    "clean_text": "charging infrastructure availability is still a major issue",
+    "timestamp": "2025-12-19",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0095",
+    "clean_text": "overall ownership experience has been very satisfying",
+    "timestamp": "2025-09-20",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0096",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-02-16",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0097",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-12-11",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0098",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-12-05",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0099",
+    "clean_text": "software updates have improved performance over time",
+    "timestamp": "2025-08-19",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0100",
+    "clean_text": "software updates have improved performance over time",
+    "timestamp": "2025-06-08",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0101",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-05-25",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0102",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-06-24",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0103",
+    "clean_text": "suitable for ecoconscious buyers with moderate usage",
+    "timestamp": "2025-01-11",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0104",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-02-19",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0105",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-04-26",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0106",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-03-23",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0107",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-05-09",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0108",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-09-15",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0109",
+    "clean_text": "overall ownership experience has been very satisfying",
+    "timestamp": "2025-01-05",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0110",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-11-21",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0111",
+    "clean_text": "rear seat comfort could have been better",
+    "timestamp": "2025-08-28",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0112",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-12-14",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0113",
+    "clean_text": "the car feels practical rather than premium",
+    "timestamp": "2025-07-06",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0114",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-04-27",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0115",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-10-31",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0116",
+    "clean_text": "interior design is simple and minimal",
+    "timestamp": "2025-12-05",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0117",
+    "clean_text": "noise insulation is decent for an electric vehicle",
+    "timestamp": "2025-02-10",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0118",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-11-15",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0119",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-03-28",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0120",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-08-18",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0121",
+    "clean_text": "the infotainment system is responsive and easy to navigate",
+    "timestamp": "2025-10-16",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0122",
+    "clean_text": "the driving experience is smooth but predictable",
+    "timestamp": "2025-07-05",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0123",
+    "clean_text": "overall ownership experience has been very satisfying",
+    "timestamp": "2025-05-12",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0124",
+    "clean_text": "charging stations are often occupied or not working",
+    "timestamp": "2025-09-16",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0125",
+    "clean_text": "high upfront cost makes it hard to justify",
+    "timestamp": "2025-06-05",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0126",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-07-16",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0127",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-01-01",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0128",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-04-10",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0129",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-06-25",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0130",
+    "clean_text": "maintenance cost seems reasonable so far",
+    "timestamp": "2025-05-31",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0131",
+    "clean_text": "charging infrastructure availability is still a major issue",
+    "timestamp": "2025-06-24",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0132",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-04-07",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0133",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-03-08",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0134",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-05-21",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0135",
+    "clean_text": "regenerative braking feels too aggressive at times",
+    "timestamp": "2025-05-06",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0136",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-02-03",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0137",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-11-05",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0138",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-01-16",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0139",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-01-25",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0140",
+    "clean_text": "software bugs appear after recent updates",
+    "timestamp": "2025-04-06",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0141",
+    "clean_text": "performance is average compared to other electric cars",
+    "timestamp": "2025-08-23",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0142",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-10-28",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0143",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-07-29",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0144",
+    "clean_text": "the infotainment system is responsive and easy to navigate",
+    "timestamp": "2025-05-06",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0145",
+    "clean_text": "long charging time compared to refueling a petrol car",
+    "timestamp": "2025-05-28",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0146",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-07-18",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0147",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-09-10",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0148",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-10-15",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0149",
+    "clean_text": "regenerative braking feels too aggressive at times",
+    "timestamp": "2025-05-17",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0150",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-09-18",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0151",
+    "clean_text": "ride quality is acceptable but not outstanding",
+    "timestamp": "2025-08-21",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0152",
+    "clean_text": "battery performance drops noticeably in extreme heat",
+    "timestamp": "2025-05-25",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0153",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-05-24",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0154",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-10-24",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0155",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-04-06",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0156",
+    "clean_text": "range is sufficient for daily needs only",
+    "timestamp": "2025-11-04",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0157",
+    "clean_text": "the ev delivers smooth acceleration and feels futuristic to drive",
+    "timestamp": "2025-02-12",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0158",
+    "clean_text": "charging infrastructure availability is still a major issue",
+    "timestamp": "2025-02-05",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0159",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-08-29",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0160",
+    "clean_text": "rear seat comfort could have been better",
+    "timestamp": "2025-09-26",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0161",
+    "clean_text": "overall ownership experience has been very satisfying",
+    "timestamp": "2025-11-19",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0162",
+    "clean_text": "interior design is simple and minimal",
+    "timestamp": "2025-03-23",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0163",
+    "clean_text": "regenerative braking feels too aggressive at times",
+    "timestamp": "2025-05-05",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0164",
+    "clean_text": "battery performance drops noticeably in extreme heat",
+    "timestamp": "2025-10-09",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0165",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-04-01",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0166",
+    "clean_text": "charging speed is neither fast nor too slow",
+    "timestamp": "2025-06-16",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0167",
+    "clean_text": "ride quality is acceptable but not outstanding",
+    "timestamp": "2025-07-01",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0168",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-09-18",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0169",
+    "clean_text": "the infotainment system is responsive and easy to navigate",
+    "timestamp": "2025-12-06",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0170",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-11-02",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0171",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-12-22",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0172",
+    "clean_text": "rear seat comfort could have been better",
+    "timestamp": "2025-03-26",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0173",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-03-31",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0174",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-02-01",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0175",
+    "clean_text": "build quality feels solid and wellengineered for an electric car",
+    "timestamp": "2025-11-11",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0176",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-05-24",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0177",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-12-09",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0178",
+    "clean_text": "software updates have improved performance over time",
+    "timestamp": "2025-04-13",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0179",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-05-24",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0180",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-09-13",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0181",
+    "clean_text": "good ground clearance for indian road conditions",
+    "timestamp": "2025-09-24",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0182",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-10-10",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0183",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-04-15",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0184",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-06-25",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0185",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-02-24",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0186",
+    "clean_text": "high upfront cost makes it hard to justify",
+    "timestamp": "2025-09-27",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0187",
+    "clean_text": "the ev is decent for city use but not ideal for long drives",
+    "timestamp": "2025-07-24",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0188",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-09-16",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0189",
+    "clean_text": "the car feels practical rather than premium",
+    "timestamp": "2025-11-10",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0190",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-11-16",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0191",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-09-07",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0192",
+    "clean_text": "the ev is decent for city use but not ideal for long drives",
+    "timestamp": "2025-04-11",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0193",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-09-01",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0194",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-01-07",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0195",
+    "clean_text": "charging stations are often occupied or not working",
+    "timestamp": "2025-10-03",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0196",
+    "clean_text": "handling is stable but not very engaging",
+    "timestamp": "2025-09-02",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0197",
+    "clean_text": "maintenance cost seems reasonable so far",
+    "timestamp": "2025-06-27",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0198",
+    "clean_text": "infotainment system occasionally lags or freezes",
+    "timestamp": "2025-07-23",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0199",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-04-22",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0200",
+    "clean_text": "low running cost compared to petrol cars makes this a great choice",
+    "timestamp": "2025-09-08",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0201",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-03-17",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0202",
+    "clean_text": "fast charging support works reliably and saves a lot of time",
+    "timestamp": "2025-10-13",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0203",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-01-16",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0204",
+    "clean_text": "software bugs appear after recent updates",
+    "timestamp": "2025-09-25",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0205",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-04-02",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0206",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-07-18",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0207",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-11-08",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0208",
+    "clean_text": "the ev delivers smooth acceleration and feels futuristic to drive",
+    "timestamp": "2025-03-30",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0209",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-03-15",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0210",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-12-14",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0211",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-03-17",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0212",
+    "clean_text": "acceleration is fine but not very sporty",
+    "timestamp": "2025-02-28",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0213",
+    "clean_text": "the ev is decent for city use but not ideal for long drives",
+    "timestamp": "2025-02-02",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0214",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-07-31",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0215",
+    "clean_text": "the infotainment system is responsive and easy to navigate",
+    "timestamp": "2025-02-03",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0216",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-12-22",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0217",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-11-09",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0218",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-10-26",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0219",
+    "clean_text": "the driving experience is smooth but predictable",
+    "timestamp": "2025-10-03",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0220",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-03-12",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0221",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-04-11",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0222",
+    "clean_text": "ride quality is acceptable but not outstanding",
+    "timestamp": "2025-04-05",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0223",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-10-21",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0224",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-05-11",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0225",
+    "clean_text": "the car feels practical rather than premium",
+    "timestamp": "2025-09-02",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0226",
+    "clean_text": "the ev is decent for city use but not ideal for long drives",
+    "timestamp": "2025-04-13",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0227",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-03-27",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0228",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-02-17",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0229",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-08-20",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0230",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-06-05",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0231",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-04-11",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0232",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-05-01",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0233",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-01-17",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0234",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-04-02",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0235",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-12-08",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0236",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-10-30",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0237",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-03-21",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0238",
+    "clean_text": "high upfront cost makes it hard to justify",
+    "timestamp": "2025-12-16",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0239",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-07-03",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0240",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-09-26",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0241",
+    "clean_text": "overall ownership experience has been very satisfying",
+    "timestamp": "2025-08-19",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0242",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-07-11",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0243",
+    "clean_text": "suitable for ecoconscious buyers with moderate usage",
+    "timestamp": "2025-03-03",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0244",
+    "clean_text": "good ground clearance for indian road conditions",
+    "timestamp": "2025-02-02",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0245",
+    "clean_text": "noise insulation is decent for an electric vehicle",
+    "timestamp": "2025-04-10",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0246",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-12-30",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0247",
+    "clean_text": "the ev delivers smooth acceleration and feels futuristic to drive",
+    "timestamp": "2025-11-12",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0248",
+    "clean_text": "build quality feels solid and wellengineered for an electric car",
+    "timestamp": "2025-10-13",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0249",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-03-06",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0250",
+    "clean_text": "interior design is simple and minimal",
+    "timestamp": "2025-02-04",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0251",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-12-14",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0252",
+    "clean_text": "comfort level is okay for short journeys",
+    "timestamp": "2025-08-13",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0253",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-03-14",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0254",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-03-06",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0255",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-11-13",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0256",
+    "clean_text": "the infotainment system is responsive and easy to navigate",
+    "timestamp": "2025-05-09",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0257",
+    "clean_text": "software updates have improved performance over time",
+    "timestamp": "2025-02-03",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0258",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-02-07",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0259",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-01-18",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0260",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-04-30",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0261",
+    "clean_text": "maintenance cost seems reasonable so far",
+    "timestamp": "2025-05-27",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0262",
+    "clean_text": "charging speed is neither fast nor too slow",
+    "timestamp": "2025-11-13",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0263",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-05-26",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0264",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-01-14",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0265",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-05-10",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0266",
+    "clean_text": "interior design is simple and minimal",
+    "timestamp": "2025-01-23",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0267",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-04-29",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0268",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-01-05",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0269",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-09-30",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0270",
+    "clean_text": "software updates have improved performance over time",
+    "timestamp": "2025-10-23",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0271",
+    "clean_text": "high upfront cost makes it hard to justify",
+    "timestamp": "2025-05-28",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0272",
+    "clean_text": "regenerative braking feels too aggressive at times",
+    "timestamp": "2025-09-11",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0273",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-03-09",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0274",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-04-08",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0275",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-09-07",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0276",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-06-14",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0277",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-05-02",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0278",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-10-30",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0279",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-01-11",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0280",
+    "clean_text": "rear seat comfort could have been better",
+    "timestamp": "2025-07-03",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0281",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-07-10",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0282",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-10-16",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0283",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-01-26",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0284",
+    "clean_text": "suitable for ecoconscious buyers with moderate usage",
+    "timestamp": "2025-09-17",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0285",
+    "clean_text": "performance is average compared to other electric cars",
+    "timestamp": "2025-08-22",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0286",
+    "clean_text": "rear seat comfort could have been better",
+    "timestamp": "2025-07-24",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0287",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-07-26",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0288",
+    "clean_text": "infotainment system occasionally lags or freezes",
+    "timestamp": "2025-10-23",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0289",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-03-16",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0290",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-05-03",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0291",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-02-03",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0292",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-05-31",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0293",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-08-19",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0294",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-09-12",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0295",
+    "clean_text": "the infotainment system is responsive and easy to navigate",
+    "timestamp": "2025-08-19",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0296",
+    "clean_text": "good ground clearance for indian road conditions",
+    "timestamp": "2025-06-12",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0297",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-10-01",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0298",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-01-06",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0299",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-02-24",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0300",
+    "clean_text": "charging stations are often occupied or not working",
+    "timestamp": "2025-01-01",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0301",
+    "clean_text": "the ev delivers smooth acceleration and feels futuristic to drive",
+    "timestamp": "2025-06-03",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0302",
+    "clean_text": "aftersales service experience has been disappointing",
+    "timestamp": "2025-06-01",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0303",
+    "clean_text": "interior design is simple and minimal",
+    "timestamp": "2025-08-14",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0304",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-08-27",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0305",
+    "clean_text": "software bugs appear after recent updates",
+    "timestamp": "2025-01-07",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0306",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-01-03",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0307",
+    "clean_text": "works well as a second car for urban travel",
+    "timestamp": "2025-03-26",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0308",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-08-26",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0309",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-02-15",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0310",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-03-25",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0311",
+    "clean_text": "noise insulation is decent for an electric vehicle",
+    "timestamp": "2025-08-30",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0312",
+    "clean_text": "low running cost compared to petrol cars makes this a great choice",
+    "timestamp": "2025-12-24",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0313",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-08-24",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0314",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-06-11",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0315",
+    "clean_text": "long charging time compared to refueling a petrol car",
+    "timestamp": "2025-11-29",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0316",
+    "clean_text": "battery performance drops noticeably in extreme heat",
+    "timestamp": "2025-12-28",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0317",
+    "clean_text": "charging stations are often occupied or not working",
+    "timestamp": "2026-01-01",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0318",
+    "clean_text": "performance is average compared to other electric cars",
+    "timestamp": "2025-10-27",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0319",
+    "clean_text": "software bugs appear after recent updates",
+    "timestamp": "2025-01-30",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0320",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-07-11",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0321",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-11-26",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0322",
+    "clean_text": "aftersales service experience has been disappointing",
+    "timestamp": "2025-07-24",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0323",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-06-05",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0324",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-02-13",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0325",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-12-28",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0326",
+    "clean_text": "battery performance drops noticeably in extreme heat",
+    "timestamp": "2025-10-01",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0327",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-07-21",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0328",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-01-14",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0329",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-02-09",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0330",
+    "clean_text": "regenerative braking feels too aggressive at times",
+    "timestamp": "2025-10-12",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0331",
+    "clean_text": "high upfront cost makes it hard to justify",
+    "timestamp": "2025-12-13",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0332",
+    "clean_text": "battery performance drops noticeably in extreme heat",
+    "timestamp": "2025-08-06",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0333",
+    "clean_text": "range is sufficient for daily needs only",
+    "timestamp": "2025-11-03",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0334",
+    "clean_text": "ride quality is acceptable but not outstanding",
+    "timestamp": "2025-10-03",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0335",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-12-28",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0336",
+    "clean_text": "long charging time compared to refueling a petrol car",
+    "timestamp": "2025-08-26",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0337",
+    "clean_text": "software bugs appear after recent updates",
+    "timestamp": "2025-10-19",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0338",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-05-16",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0339",
+    "clean_text": "overall ownership experience has been very satisfying",
+    "timestamp": "2025-07-06",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0340",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-03-20",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0341",
+    "clean_text": "the ev delivers smooth acceleration and feels futuristic to drive",
+    "timestamp": "2025-01-14",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0342",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-09-29",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0343",
+    "clean_text": "rear seat comfort could have been better",
+    "timestamp": "2025-11-07",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0344",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-04-05",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0345",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-12-17",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0346",
+    "clean_text": "acceleration is fine but not very sporty",
+    "timestamp": "2025-06-12",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0347",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-06-07",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0348",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-07-07",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0349",
+    "clean_text": "aftersales service experience has been disappointing",
+    "timestamp": "2025-04-25",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0350",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-04-06",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0351",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-02-09",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0352",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-03-19",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0353",
+    "clean_text": "the ev delivers smooth acceleration and feels futuristic to drive",
+    "timestamp": "2025-08-22",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0354",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-01-11",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0355",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-03-22",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0356",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-02-11",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0357",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-08-03",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0358",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-08-03",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0359",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-11-02",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0360",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-08-28",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0361",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-12-31",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0362",
+    "clean_text": "fast charging support works reliably and saves a lot of time",
+    "timestamp": "2025-01-21",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0363",
+    "clean_text": "noise insulation is decent for an electric vehicle",
+    "timestamp": "2025-11-15",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0364",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-08-27",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0365",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-03-22",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0366",
+    "clean_text": "the ev is decent for city use but not ideal for long drives",
+    "timestamp": "2025-07-29",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0367",
+    "clean_text": "aftersales service experience has been disappointing",
+    "timestamp": "2025-11-29",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0368",
+    "clean_text": "the driving experience is smooth but predictable",
+    "timestamp": "2025-10-05",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0369",
+    "clean_text": "build quality feels solid and wellengineered for an electric car",
+    "timestamp": "2025-11-27",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0370",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-10-10",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0371",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-01-02",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0372",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-07-03",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0373",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-05-13",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0374",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-09-19",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0375",
+    "clean_text": "performance is average compared to other electric cars",
+    "timestamp": "2025-08-18",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0376",
+    "clean_text": "range is sufficient for daily needs only",
+    "timestamp": "2025-03-26",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0377",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-03-12",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0378",
+    "clean_text": "fast charging support works reliably and saves a lot of time",
+    "timestamp": "2025-08-07",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0379",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-12-27",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0380",
+    "clean_text": "the infotainment system is responsive and easy to navigate",
+    "timestamp": "2025-12-23",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0381",
+    "clean_text": "good ground clearance for indian road conditions",
+    "timestamp": "2025-03-29",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0382",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-02-05",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0383",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-04-12",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0384",
+    "clean_text": "noise insulation is decent for an electric vehicle",
+    "timestamp": "2025-06-25",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0385",
+    "clean_text": "overall ownership experience has been very satisfying",
+    "timestamp": "2025-03-16",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0386",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-08-16",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0387",
+    "clean_text": "charging stations are often occupied or not working",
+    "timestamp": "2025-09-25",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0388",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-03-31",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0389",
+    "clean_text": "the ev is decent for city use but not ideal for long drives",
+    "timestamp": "2025-05-10",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0390",
+    "clean_text": "works well as a second car for urban travel",
+    "timestamp": "2025-11-04",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0391",
+    "clean_text": "performance is average compared to other electric cars",
+    "timestamp": "2025-10-08",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0392",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-01-01",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0393",
+    "clean_text": "long charging time compared to refueling a petrol car",
+    "timestamp": "2025-07-09",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0394",
+    "clean_text": "low running cost compared to petrol cars makes this a great choice",
+    "timestamp": "2025-01-10",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0395",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-10-22",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0396",
+    "clean_text": "aftersales service experience has been disappointing",
+    "timestamp": "2025-01-26",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0397",
+    "clean_text": "regenerative braking feels too aggressive at times",
+    "timestamp": "2025-05-26",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0398",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-07-08",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0399",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-12-08",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0400",
+    "clean_text": "the ev meets expectations but does not exceed them",
+    "timestamp": "2025-09-13",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0401",
+    "clean_text": "software bugs appear after recent updates",
+    "timestamp": "2025-12-12",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0402",
+    "clean_text": "software bugs appear after recent updates",
+    "timestamp": "2025-10-01",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0403",
+    "clean_text": "charging infrastructure availability is still a major issue",
+    "timestamp": "2025-02-07",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0404",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-04-22",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0405",
+    "clean_text": "software updates have improved performance over time",
+    "timestamp": "2025-09-03",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0406",
+    "clean_text": "charging speed is neither fast nor too slow",
+    "timestamp": "2025-02-17",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0407",
+    "clean_text": "handling is stable but not very engaging",
+    "timestamp": "2025-05-12",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0408",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-10-10",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0409",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-01-01",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0410",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-03-17",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0411",
+    "clean_text": "battery performance drops noticeably in extreme heat",
+    "timestamp": "2025-07-08",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0412",
+    "clean_text": "high upfront cost makes it hard to justify",
+    "timestamp": "2025-09-02",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0413",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-12-18",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0414",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-07-23",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0415",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-09-22",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0416",
+    "clean_text": "good ground clearance for indian road conditions",
+    "timestamp": "2025-12-02",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0417",
+    "clean_text": "high upfront cost makes it hard to justify",
+    "timestamp": "2025-06-27",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0418",
+    "clean_text": "acceleration is fine but not very sporty",
+    "timestamp": "2025-07-30",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0419",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-10-15",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0420",
+    "clean_text": "noise insulation is decent for an electric vehicle",
+    "timestamp": "2025-11-24",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0421",
+    "clean_text": "software bugs appear after recent updates",
+    "timestamp": "2025-09-06",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0422",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-01-25",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0423",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-06-05",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0424",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-05-06",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0425",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-08-06",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0426",
+    "clean_text": "interior design is simple and minimal",
+    "timestamp": "2025-11-27",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0427",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-02-22",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0428",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-01-04",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0429",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-10-21",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0430",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-08-19",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0431",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-11-07",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0432",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-03-02",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0433",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-08-22",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0434",
+    "clean_text": "ride quality is acceptable but not outstanding",
+    "timestamp": "2025-05-21",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0435",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-04-12",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0436",
+    "clean_text": "the infotainment system is responsive and easy to navigate",
+    "timestamp": "2025-06-01",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0437",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-05-17",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0438",
+    "clean_text": "the car feels practical rather than premium",
+    "timestamp": "2025-06-03",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0439",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-07-18",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0440",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-11-30",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0441",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-03-10",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0442",
+    "clean_text": "the driving experience is smooth but predictable",
+    "timestamp": "2025-01-17",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0443",
+    "clean_text": "fast charging support works reliably and saves a lot of time",
+    "timestamp": "2025-04-01",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0444",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-04-17",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0445",
+    "clean_text": "charging infrastructure availability is still a major issue",
+    "timestamp": "2025-05-05",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0446",
+    "clean_text": "overall ownership experience has been very satisfying",
+    "timestamp": "2025-11-26",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0447",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-01-18",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0448",
+    "clean_text": "low running cost compared to petrol cars makes this a great choice",
+    "timestamp": "2025-05-07",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0449",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-09-26",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0450",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-10-23",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0451",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-09-21",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0452",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-09-26",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0453",
+    "clean_text": "interior design is simple and minimal",
+    "timestamp": "2025-10-23",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0454",
+    "clean_text": "regenerative braking feels too aggressive at times",
+    "timestamp": "2025-09-28",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0455",
+    "clean_text": "long charging time compared to refueling a petrol car",
+    "timestamp": "2025-06-16",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0456",
+    "clean_text": "the car feels practical rather than premium",
+    "timestamp": "2025-03-12",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0457",
+    "clean_text": "charging stations are often occupied or not working",
+    "timestamp": "2025-10-12",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0458",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-08-18",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0459",
+    "clean_text": "the ev delivers smooth acceleration and feels futuristic to drive",
+    "timestamp": "2025-09-15",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0460",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-08-09",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0461",
+    "clean_text": "acceleration is fine but not very sporty",
+    "timestamp": "2025-06-11",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0462",
+    "clean_text": "ride quality is acceptable but not outstanding",
+    "timestamp": "2025-05-12",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0463",
+    "clean_text": "performance is average compared to other electric cars",
+    "timestamp": "2025-09-19",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0464",
+    "clean_text": "low running cost compared to petrol cars makes this a great choice",
+    "timestamp": "2025-04-25",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0465",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-05-13",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0466",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-09-01",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0467",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-09-08",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0468",
+    "clean_text": "the ev delivers smooth acceleration and feels futuristic to drive",
+    "timestamp": "2025-12-03",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0469",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-09-18",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0470",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-12-16",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0471",
+    "clean_text": "the ev is decent for city use but not ideal for long drives",
+    "timestamp": "2025-05-16",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0472",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-04-12",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0473",
+    "clean_text": "handling is stable but not very engaging",
+    "timestamp": "2025-08-20",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0474",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-10-30",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0475",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-05-25",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0476",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-07-12",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0477",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-09-29",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0478",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-06-20",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0479",
+    "clean_text": "suitable for ecoconscious buyers with moderate usage",
+    "timestamp": "2025-04-20",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0480",
+    "clean_text": "comfort level is okay for short journeys",
+    "timestamp": "2025-01-11",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0481",
+    "clean_text": "comfort level is okay for short journeys",
+    "timestamp": "2025-05-17",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0482",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-08-23",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0483",
+    "clean_text": "software updates have improved performance over time",
+    "timestamp": "2025-06-05",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0484",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-09-27",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0485",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-12-12",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0486",
+    "clean_text": "long charging time compared to refueling a petrol car",
+    "timestamp": "2025-11-07",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0487",
+    "clean_text": "high upfront cost makes it hard to justify",
+    "timestamp": "2025-11-14",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0488",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-11-24",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0489",
+    "clean_text": "build quality feels solid and wellengineered for an electric car",
+    "timestamp": "2025-06-17",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0490",
+    "clean_text": "long charging time compared to refueling a petrol car",
+    "timestamp": "2025-09-18",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0491",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-11-07",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0492",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-03-20",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0493",
+    "clean_text": "fast charging support works reliably and saves a lot of time",
+    "timestamp": "2025-08-26",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0494",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-12-08",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0495",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-02-14",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0496",
+    "clean_text": "suitable for ecoconscious buyers with moderate usage",
+    "timestamp": "2025-04-15",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0497",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-10-17",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0498",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-01-23",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0499",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-11-05",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0500",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-07-09",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0501",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-05-27",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0502",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-03-17",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0503",
+    "clean_text": "build quality feels solid and wellengineered for an electric car",
+    "timestamp": "2025-11-01",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0504",
+    "clean_text": "comfort level is okay for short journeys",
+    "timestamp": "2025-11-19",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0505",
+    "clean_text": "infotainment system occasionally lags or freezes",
+    "timestamp": "2025-06-24",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0506",
+    "clean_text": "handling is stable but not very engaging",
+    "timestamp": "2025-09-06",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0507",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-11-09",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0508",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-08-04",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0509",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-05-24",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0510",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-09-18",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0511",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-08-01",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0512",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-05-14",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0513",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-06-09",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0514",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-05-30",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0515",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-05-14",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0516",
+    "clean_text": "handling is stable but not very engaging",
+    "timestamp": "2025-10-27",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0517",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-03-16",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0518",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-12-18",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0519",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-08-25",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0520",
+    "clean_text": "charging speed is neither fast nor too slow",
+    "timestamp": "2025-11-18",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0521",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-07-07",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0522",
+    "clean_text": "interior design is simple and minimal",
+    "timestamp": "2025-09-29",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0523",
+    "clean_text": "charging speed is neither fast nor too slow",
+    "timestamp": "2025-07-16",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0524",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-01-06",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0525",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-06-03",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0526",
+    "clean_text": "infotainment system occasionally lags or freezes",
+    "timestamp": "2025-11-20",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0527",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-01-24",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0528",
+    "clean_text": "regenerative braking feels too aggressive at times",
+    "timestamp": "2025-10-22",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0529",
+    "clean_text": "ride quality is acceptable but not outstanding",
+    "timestamp": "2025-02-11",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0530",
+    "clean_text": "interior design is simple and minimal",
+    "timestamp": "2025-12-26",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0531",
+    "clean_text": "the ev meets expectations but does not exceed them",
+    "timestamp": "2025-01-21",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0532",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-01-21",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0533",
+    "clean_text": "fast charging support works reliably and saves a lot of time",
+    "timestamp": "2025-01-08",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0534",
+    "clean_text": "suitable for ecoconscious buyers with moderate usage",
+    "timestamp": "2025-09-13",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0535",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-08-25",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0536",
+    "clean_text": "charging speed is neither fast nor too slow",
+    "timestamp": "2025-10-04",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0537",
+    "clean_text": "suitable for ecoconscious buyers with moderate usage",
+    "timestamp": "2025-03-30",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0538",
+    "clean_text": "acceleration is fine but not very sporty",
+    "timestamp": "2025-07-31",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0539",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-01-02",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0540",
+    "clean_text": "battery performance drops noticeably in extreme heat",
+    "timestamp": "2025-02-24",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0541",
+    "clean_text": "charging speed is neither fast nor too slow",
+    "timestamp": "2025-10-05",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0542",
+    "clean_text": "high upfront cost makes it hard to justify",
+    "timestamp": "2025-06-22",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0543",
+    "clean_text": "the car feels practical rather than premium",
+    "timestamp": "2025-06-24",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0544",
+    "clean_text": "the ev is decent for city use but not ideal for long drives",
+    "timestamp": "2025-04-15",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0545",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-09-06",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0546",
+    "clean_text": "comfort level is okay for short journeys",
+    "timestamp": "2025-06-24",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0547",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-11-25",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0548",
+    "clean_text": "overall ownership experience has been very satisfying",
+    "timestamp": "2025-07-31",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0549",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-01-13",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0550",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-11-05",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0551",
+    "clean_text": "noise insulation is decent for an electric vehicle",
+    "timestamp": "2025-04-02",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0552",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-12-22",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0553",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-02-05",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0554",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-09-15",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0555",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-08-21",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0556",
+    "clean_text": "long charging time compared to refueling a petrol car",
+    "timestamp": "2025-01-17",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0557",
+    "clean_text": "charging stations are often occupied or not working",
+    "timestamp": "2025-05-21",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0558",
+    "clean_text": "the driving experience is smooth but predictable",
+    "timestamp": "2025-06-06",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0559",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-06-26",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0560",
+    "clean_text": "the ev meets expectations but does not exceed them",
+    "timestamp": "2025-11-12",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0561",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-04-21",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0562",
+    "clean_text": "suitable for ecoconscious buyers with moderate usage",
+    "timestamp": "2025-05-21",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0563",
+    "clean_text": "low running cost compared to petrol cars makes this a great choice",
+    "timestamp": "2025-03-31",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0564",
+    "clean_text": "low running cost compared to petrol cars makes this a great choice",
+    "timestamp": "2025-04-13",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0565",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-07-09",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0566",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-07-21",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0567",
+    "clean_text": "acceleration is fine but not very sporty",
+    "timestamp": "2025-11-12",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0568",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-06-26",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0569",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-05-20",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0570",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-04-26",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0571",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-04-29",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0572",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-11-15",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0573",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-10-21",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0574",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-05-12",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0575",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-05-24",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0576",
+    "clean_text": "aftersales service experience has been disappointing",
+    "timestamp": "2025-03-05",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0577",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-07-07",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0578",
+    "clean_text": "good ground clearance for indian road conditions",
+    "timestamp": "2025-05-05",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0579",
+    "clean_text": "build quality feels solid and wellengineered for an electric car",
+    "timestamp": "2025-06-22",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0580",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-06-09",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0581",
+    "clean_text": "charging speed is neither fast nor too slow",
+    "timestamp": "2025-11-11",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0582",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-09-14",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0583",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-01-10",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0584",
+    "clean_text": "the ev meets expectations but does not exceed them",
+    "timestamp": "2025-11-08",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0585",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-09-03",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0586",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-05-31",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0587",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-03-09",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0588",
+    "clean_text": "long charging time compared to refueling a petrol car",
+    "timestamp": "2025-11-07",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0589",
+    "clean_text": "software updates have improved performance over time",
+    "timestamp": "2025-04-10",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0590",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-03-14",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0591",
+    "clean_text": "aftersales service experience has been disappointing",
+    "timestamp": "2025-04-13",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0592",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-07-27",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0593",
+    "clean_text": "interior design is simple and minimal",
+    "timestamp": "2025-07-22",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0594",
+    "clean_text": "charging infrastructure availability is still a major issue",
+    "timestamp": "2025-03-24",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0595",
+    "clean_text": "software bugs appear after recent updates",
+    "timestamp": "2025-10-22",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0596",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-06-08",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0597",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-02-20",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0598",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-01-15",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0599",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-07-18",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0600",
+    "clean_text": "charging stations are often occupied or not working",
+    "timestamp": "2025-05-12",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0601",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-08-24",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0602",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-12-15",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0603",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-05-28",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0604",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-12-14",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0605",
+    "clean_text": "the ev is decent for city use but not ideal for long drives",
+    "timestamp": "2025-08-23",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0606",
+    "clean_text": "handling is stable but not very engaging",
+    "timestamp": "2025-10-08",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0607",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-01-22",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0608",
+    "clean_text": "noise insulation is decent for an electric vehicle",
+    "timestamp": "2025-07-14",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0609",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-07-18",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0610",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-04-12",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0611",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-06-25",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0612",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-12-06",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0613",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-04-03",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0614",
+    "clean_text": "range is sufficient for daily needs only",
+    "timestamp": "2025-02-04",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0615",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-12-10",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0616",
+    "clean_text": "noise insulation is decent for an electric vehicle",
+    "timestamp": "2025-10-31",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0617",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-03-19",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0618",
+    "clean_text": "battery performance drops noticeably in extreme heat",
+    "timestamp": "2025-07-19",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0619",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-11-27",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0620",
+    "clean_text": "build quality feels solid and wellengineered for an electric car",
+    "timestamp": "2025-06-17",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0621",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-11-24",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0622",
+    "clean_text": "interior design is simple and minimal",
+    "timestamp": "2025-12-28",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0623",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-05-25",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0624",
+    "clean_text": "build quality feels solid and wellengineered for an electric car",
+    "timestamp": "2025-01-27",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0625",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-08-15",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0626",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-09-27",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0627",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-04-13",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0628",
+    "clean_text": "range is sufficient for daily needs only",
+    "timestamp": "2025-03-02",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0629",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-08-01",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0630",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-03-29",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0631",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-09-22",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0632",
+    "clean_text": "the infotainment system is responsive and easy to navigate",
+    "timestamp": "2025-07-25",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0633",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-02-26",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0634",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-01-22",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0635",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-11-20",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0636",
+    "clean_text": "infotainment system occasionally lags or freezes",
+    "timestamp": "2025-08-12",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0637",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-06-21",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0638",
+    "clean_text": "the ev delivers smooth acceleration and feels futuristic to drive",
+    "timestamp": "2025-06-06",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0639",
+    "clean_text": "low running cost compared to petrol cars makes this a great choice",
+    "timestamp": "2025-09-28",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0640",
+    "clean_text": "infotainment system occasionally lags or freezes",
+    "timestamp": "2025-03-09",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0641",
+    "clean_text": "build quality feels solid and wellengineered for an electric car",
+    "timestamp": "2025-07-30",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0642",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-10-30",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0643",
+    "clean_text": "charging stations are often occupied or not working",
+    "timestamp": "2025-09-07",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0644",
+    "clean_text": "charging speed is neither fast nor too slow",
+    "timestamp": "2025-01-30",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0645",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-11-28",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0646",
+    "clean_text": "battery performance drops noticeably in extreme heat",
+    "timestamp": "2025-10-11",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0647",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-07-30",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0648",
+    "clean_text": "works well as a second car for urban travel",
+    "timestamp": "2025-09-22",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0649",
+    "clean_text": "good ground clearance for indian road conditions",
+    "timestamp": "2025-11-22",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0650",
+    "clean_text": "regenerative braking feels too aggressive at times",
+    "timestamp": "2025-05-20",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0651",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-06-28",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0652",
+    "clean_text": "aftersales service experience has been disappointing",
+    "timestamp": "2025-12-04",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0653",
+    "clean_text": "range is sufficient for daily needs only",
+    "timestamp": "2025-06-10",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0654",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-01-20",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0655",
+    "clean_text": "the ev meets expectations but does not exceed them",
+    "timestamp": "2025-03-30",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0656",
+    "clean_text": "software bugs appear after recent updates",
+    "timestamp": "2025-11-21",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0657",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-07-29",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0658",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-01-07",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0659",
+    "clean_text": "software bugs appear after recent updates",
+    "timestamp": "2025-05-19",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0660",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-12-31",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0661",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-05-30",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0662",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-11-25",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0663",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-12-30",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0664",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-03-29",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0665",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-05-11",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0666",
+    "clean_text": "regenerative braking feels too aggressive at times",
+    "timestamp": "2025-09-30",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0667",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-07-26",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0668",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-12-10",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0669",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-03-31",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0670",
+    "clean_text": "comfort level is okay for short journeys",
+    "timestamp": "2025-06-22",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0671",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-03-09",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0672",
+    "clean_text": "interior design is simple and minimal",
+    "timestamp": "2025-07-29",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0673",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-07-07",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0674",
+    "clean_text": "suitable for ecoconscious buyers with moderate usage",
+    "timestamp": "2025-11-04",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0675",
+    "clean_text": "fast charging support works reliably and saves a lot of time",
+    "timestamp": "2025-04-17",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0676",
+    "clean_text": "maintenance cost seems reasonable so far",
+    "timestamp": "2025-05-27",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0677",
+    "clean_text": "the ev delivers smooth acceleration and feels futuristic to drive",
+    "timestamp": "2025-10-27",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0678",
+    "clean_text": "rear seat comfort could have been better",
+    "timestamp": "2025-08-01",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0679",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-07-27",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0680",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-02-09",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0681",
+    "clean_text": "the ev meets expectations but does not exceed them",
+    "timestamp": "2025-09-25",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0682",
+    "clean_text": "charging speed is neither fast nor too slow",
+    "timestamp": "2025-01-24",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0683",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-07-06",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0684",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-10-14",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0685",
+    "clean_text": "infotainment system occasionally lags or freezes",
+    "timestamp": "2025-12-07",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0686",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-05-27",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0687",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-07-14",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0688",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-05-19",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0689",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-01-23",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0690",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-07-31",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0691",
+    "clean_text": "good ground clearance for indian road conditions",
+    "timestamp": "2025-03-26",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0692",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-05-04",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0693",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-03-01",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0694",
+    "clean_text": "handling is stable but not very engaging",
+    "timestamp": "2025-07-24",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0695",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-08-17",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0696",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-11-30",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0697",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-10-22",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0698",
+    "clean_text": "performance is average compared to other electric cars",
+    "timestamp": "2025-04-08",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0699",
+    "clean_text": "build quality feels solid and wellengineered for an electric car",
+    "timestamp": "2025-05-25",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0700",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-07-01",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0701",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-12-01",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0702",
+    "clean_text": "fast charging support works reliably and saves a lot of time",
+    "timestamp": "2025-04-30",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0703",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-08-28",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0704",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-05-15",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0705",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-02-14",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0706",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-04-24",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0707",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-11-15",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0708",
+    "clean_text": "maintenance cost seems reasonable so far",
+    "timestamp": "2025-06-15",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0709",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-04-03",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0710",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-03-20",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0711",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-03-17",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0712",
+    "clean_text": "long charging time compared to refueling a petrol car",
+    "timestamp": "2025-06-17",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0713",
+    "clean_text": "the ev meets expectations but does not exceed them",
+    "timestamp": "2025-12-15",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0714",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-12-12",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0715",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-04-05",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0716",
+    "clean_text": "battery performance drops noticeably in extreme heat",
+    "timestamp": "2025-02-27",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0717",
+    "clean_text": "maintenance cost seems reasonable so far",
+    "timestamp": "2025-03-27",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0718",
+    "clean_text": "range is sufficient for daily needs only",
+    "timestamp": "2025-03-17",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0719",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-11-20",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0720",
+    "clean_text": "battery performance drops noticeably in extreme heat",
+    "timestamp": "2025-04-27",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0721",
+    "clean_text": "works well as a second car for urban travel",
+    "timestamp": "2025-08-19",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0722",
+    "clean_text": "overall experience is balanced with pros and cons",
+    "timestamp": "2025-10-14",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0723",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-01-14",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0724",
+    "clean_text": "ride quality is acceptable but not outstanding",
+    "timestamp": "2025-05-19",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0725",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-10-26",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0726",
+    "clean_text": "software updates have improved performance over time",
+    "timestamp": "2025-10-05",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0727",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-12-19",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0728",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-01-20",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0729",
+    "clean_text": "the ev meets expectations but does not exceed them",
+    "timestamp": "2025-01-19",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0730",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-02-11",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0731",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-01-13",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0732",
+    "clean_text": "the infotainment system is responsive and easy to navigate",
+    "timestamp": "2025-01-06",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0733",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-12-18",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0734",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-08-21",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0735",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-11-05",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0736",
+    "clean_text": "the car feels practical rather than premium",
+    "timestamp": "2025-10-13",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0737",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-12-11",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0738",
+    "clean_text": "battery performance drops noticeably in extreme heat",
+    "timestamp": "2025-02-07",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0739",
+    "clean_text": "ride quality is acceptable but not outstanding",
+    "timestamp": "2025-05-19",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0740",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-10-26",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0741",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-02-20",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0742",
+    "clean_text": "build quality feels solid and wellengineered for an electric car",
+    "timestamp": "2025-06-13",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0743",
+    "clean_text": "the ev delivers smooth acceleration and feels futuristic to drive",
+    "timestamp": "2025-01-27",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0744",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-10-17",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0745",
+    "clean_text": "software updates have improved performance over time",
+    "timestamp": "2025-08-11",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0746",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-10-11",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0747",
+    "clean_text": "low running cost compared to petrol cars makes this a great choice",
+    "timestamp": "2025-01-28",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0748",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-10-06",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0749",
+    "clean_text": "long charging time compared to refueling a petrol car",
+    "timestamp": "2025-09-13",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0750",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-06-21",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0751",
+    "clean_text": "overall ownership experience has been very satisfying",
+    "timestamp": "2025-05-31",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0752",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-04-23",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0753",
+    "clean_text": "charging stations are often occupied or not working",
+    "timestamp": "2025-08-12",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0754",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-02-03",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0755",
+    "clean_text": "handling is stable but not very engaging",
+    "timestamp": "2025-11-04",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0756",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-03-14",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0757",
+    "clean_text": "fast charging support works reliably and saves a lot of time",
+    "timestamp": "2025-12-09",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0758",
+    "clean_text": "performance is average compared to other electric cars",
+    "timestamp": "2025-10-28",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0759",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-08-10",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0760",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-04-02",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0761",
+    "clean_text": "charging infrastructure availability is still a major issue",
+    "timestamp": "2025-11-17",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0762",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-02-16",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0763",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-03-18",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0764",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-02-18",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0765",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-03-22",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0766",
+    "clean_text": "maintenance cost seems reasonable so far",
+    "timestamp": "2025-10-04",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0767",
+    "clean_text": "low running cost compared to petrol cars makes this a great choice",
+    "timestamp": "2025-01-10",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0768",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-04-11",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0769",
+    "clean_text": "the car feels practical rather than premium",
+    "timestamp": "2025-07-18",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0770",
+    "clean_text": "the ev delivers smooth acceleration and feels futuristic to drive",
+    "timestamp": "2025-01-16",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0771",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-12-01",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0772",
+    "clean_text": "the infotainment system is responsive and easy to navigate",
+    "timestamp": "2025-06-21",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0773",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-01-02",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0774",
+    "clean_text": "charging infrastructure availability is still a major issue",
+    "timestamp": "2025-01-16",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0775",
+    "clean_text": "regenerative braking feels too aggressive at times",
+    "timestamp": "2025-10-15",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0776",
+    "clean_text": "overall ownership experience has been very satisfying",
+    "timestamp": "2025-12-27",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0777",
+    "clean_text": "infotainment system occasionally lags or freezes",
+    "timestamp": "2025-07-12",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0778",
+    "clean_text": "the ev meets expectations but does not exceed them",
+    "timestamp": "2025-10-23",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0779",
+    "clean_text": "the ev delivers smooth acceleration and feels futuristic to drive",
+    "timestamp": "2025-05-21",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0780",
+    "clean_text": "aftersales service experience has been disappointing",
+    "timestamp": "2025-12-21",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0781",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-03-11",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0782",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-02-07",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0783",
+    "clean_text": "maintenance cost seems reasonable so far",
+    "timestamp": "2025-11-29",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0784",
+    "clean_text": "good ground clearance for indian road conditions",
+    "timestamp": "2025-07-13",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0785",
+    "clean_text": "the infotainment system is responsive and easy to navigate",
+    "timestamp": "2025-10-26",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0786",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-10-01",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0787",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-08-08",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0788",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-03-02",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0789",
+    "clean_text": "software bugs appear after recent updates",
+    "timestamp": "2025-06-01",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0790",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-05-03",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0791",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-03-27",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0792",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-11-11",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0793",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-06-12",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0794",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-05-21",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0795",
+    "clean_text": "the infotainment system is responsive and easy to navigate",
+    "timestamp": "2025-11-13",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0796",
+    "clean_text": "range is sufficient for daily needs only",
+    "timestamp": "2025-05-28",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0797",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-10-09",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0798",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-02-01",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0799",
+    "clean_text": "the ev is decent for city use but not ideal for long drives",
+    "timestamp": "2025-09-23",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0800",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-11-19",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0801",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-05-06",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0802",
+    "clean_text": "high upfront cost makes it hard to justify",
+    "timestamp": "2025-07-11",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0803",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-12-24",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0804",
+    "clean_text": "high upfront cost makes it hard to justify",
+    "timestamp": "2025-06-17",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0805",
+    "clean_text": "software updates have improved performance over time",
+    "timestamp": "2025-08-22",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0806",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-10-06",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0807",
+    "clean_text": "charging speed is neither fast nor too slow",
+    "timestamp": "2025-10-02",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0808",
+    "clean_text": "performance is average compared to other electric cars",
+    "timestamp": "2025-02-27",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0809",
+    "clean_text": "range is sufficient for daily needs only",
+    "timestamp": "2025-01-20",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0810",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-04-03",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0811",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-05-09",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0812",
+    "clean_text": "long charging time compared to refueling a petrol car",
+    "timestamp": "2025-08-27",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0813",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-03-18",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0814",
+    "clean_text": "aftersales service experience has been disappointing",
+    "timestamp": "2025-11-09",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0815",
+    "clean_text": "comfort level is okay for short journeys",
+    "timestamp": "2025-12-05",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0816",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-01-29",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0817",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-08-29",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0818",
+    "clean_text": "build quality feels solid and wellengineered for an electric car",
+    "timestamp": "2025-08-04",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0819",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-07-24",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0820",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-02-10",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0821",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-03-05",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0822",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-08-28",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0823",
+    "clean_text": "works well as a second car for urban travel",
+    "timestamp": "2025-12-08",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0824",
+    "clean_text": "range is sufficient for daily needs only",
+    "timestamp": "2025-06-15",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0825",
+    "clean_text": "fast charging support works reliably and saves a lot of time",
+    "timestamp": "2025-06-26",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0826",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-08-12",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0827",
+    "clean_text": "maintenance cost seems reasonable so far",
+    "timestamp": "2025-07-10",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0828",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-06-13",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0829",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-07-25",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0830",
+    "clean_text": "overall ownership experience has been very satisfying",
+    "timestamp": "2025-11-17",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0831",
+    "clean_text": "the ev delivers smooth acceleration and feels futuristic to drive",
+    "timestamp": "2025-09-14",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0832",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-04-17",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0833",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-02-22",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0834",
+    "clean_text": "good ground clearance for indian road conditions",
+    "timestamp": "2025-12-01",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0835",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-01-05",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0836",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-06-06",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0837",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-10-04",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0838",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-11-16",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0839",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-09-08",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0840",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-08-29",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0841",
+    "clean_text": "rear seat comfort could have been better",
+    "timestamp": "2025-12-31",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0842",
+    "clean_text": "acceleration is fine but not very sporty",
+    "timestamp": "2025-05-03",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0843",
+    "clean_text": "the ev is decent for city use but not ideal for long drives",
+    "timestamp": "2025-11-30",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0844",
+    "clean_text": "the infotainment system is responsive and easy to navigate",
+    "timestamp": "2025-09-01",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0845",
+    "clean_text": "rear seat comfort could have been better",
+    "timestamp": "2025-03-06",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0846",
+    "clean_text": "range is sufficient for daily needs only",
+    "timestamp": "2025-01-08",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0847",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-01-25",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0848",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-06-15",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0849",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-03-04",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0850",
+    "clean_text": "overall ownership experience has been very satisfying",
+    "timestamp": "2025-03-19",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0851",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-11-16",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0852",
+    "clean_text": "charging stations are often occupied or not working",
+    "timestamp": "2025-05-06",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0853",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-04-12",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0854",
+    "clean_text": "software bugs appear after recent updates",
+    "timestamp": "2025-11-02",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0855",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-10-17",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0856",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-02-13",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0857",
+    "clean_text": "build quality feels solid and wellengineered for an electric car",
+    "timestamp": "2025-02-14",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0858",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-11-09",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0859",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-06-24",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0860",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-03-01",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0861",
+    "clean_text": "software updates have improved performance over time",
+    "timestamp": "2025-03-11",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0862",
+    "clean_text": "infotainment system occasionally lags or freezes",
+    "timestamp": "2025-01-25",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0863",
+    "clean_text": "good ground clearance for indian road conditions",
+    "timestamp": "2025-10-18",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0864",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-12-20",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0865",
+    "clean_text": "good ground clearance for indian road conditions",
+    "timestamp": "2025-07-15",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0866",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-04-12",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0867",
+    "clean_text": "the car feels practical rather than premium",
+    "timestamp": "2025-06-25",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0868",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-09-01",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0869",
+    "clean_text": "charging infrastructure availability is still a major issue",
+    "timestamp": "2025-11-30",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0870",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-11-25",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0871",
+    "clean_text": "charging stations are often occupied or not working",
+    "timestamp": "2025-03-09",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0872",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-02-16",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0873",
+    "clean_text": "the car is functional but lacks excitement",
+    "timestamp": "2025-06-10",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0874",
+    "clean_text": "infotainment system occasionally lags or freezes",
+    "timestamp": "2025-07-23",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0875",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-09-03",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0876",
+    "clean_text": "the driving experience is smooth but predictable",
+    "timestamp": "2025-02-11",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0877",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-09-14",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0878",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-03-24",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0879",
+    "clean_text": "software updates have improved performance over time",
+    "timestamp": "2025-06-03",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0880",
+    "clean_text": "good ground clearance for indian road conditions",
+    "timestamp": "2025-09-26",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0881",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-07-19",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0882",
+    "clean_text": "good ground clearance for indian road conditions",
+    "timestamp": "2025-03-22",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0883",
+    "clean_text": "long charging time compared to refueling a petrol car",
+    "timestamp": "2025-03-31",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0884",
+    "clean_text": "infotainment system occasionally lags or freezes",
+    "timestamp": "2025-10-11",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0885",
+    "clean_text": "aftersales service experience has been disappointing",
+    "timestamp": "2025-12-08",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0886",
+    "clean_text": "aftersales service experience has been disappointing",
+    "timestamp": "2025-07-19",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0887",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-02-19",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0888",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-06-26",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0889",
+    "clean_text": "the ev is decent for city use but not ideal for long drives",
+    "timestamp": "2025-01-20",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0890",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-03-08",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0891",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-05-21",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0892",
+    "clean_text": "the ev is decent for city use but not ideal for long drives",
+    "timestamp": "2025-12-06",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0893",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-07-23",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0894",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-01-23",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0895",
+    "clean_text": "works well as a second car for urban travel",
+    "timestamp": "2025-02-02",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0896",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-12-28",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0897",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-11-09",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0898",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-02-10",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0899",
+    "clean_text": "excellent range on a single charge perfect for daily commuting",
+    "timestamp": "2025-01-11",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0900",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-12-03",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0901",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-07-11",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0902",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-11-26",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0903",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-09-24",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0904",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-11-06",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0905",
+    "clean_text": "suitable for ecoconscious buyers with moderate usage",
+    "timestamp": "2025-06-15",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0906",
+    "clean_text": "low running cost compared to petrol cars makes this a great choice",
+    "timestamp": "2025-10-07",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0907",
+    "clean_text": "the car feels ecofriendly without compromising on comfort",
+    "timestamp": "2025-03-27",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0908",
+    "clean_text": "the car feels practical rather than premium",
+    "timestamp": "2025-05-07",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0909",
+    "clean_text": "build quality feels solid and wellengineered for an electric car",
+    "timestamp": "2025-05-23",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0910",
+    "clean_text": "long charging time compared to refueling a petrol car",
+    "timestamp": "2025-05-28",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0911",
+    "clean_text": "infotainment system occasionally lags or freezes",
+    "timestamp": "2025-03-26",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0912",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-08-22",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0913",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-03-04",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0914",
+    "clean_text": "software updates have improved performance over time",
+    "timestamp": "2025-10-10",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0915",
+    "clean_text": "high upfront cost makes it hard to justify",
+    "timestamp": "2025-01-26",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0916",
+    "clean_text": "fast charging support works reliably and saves a lot of time",
+    "timestamp": "2025-06-15",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0917",
+    "clean_text": "the driving experience is smooth but predictable",
+    "timestamp": "2025-02-18",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0918",
+    "clean_text": "fast charging support works reliably and saves a lot of time",
+    "timestamp": "2025-10-26",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0919",
+    "clean_text": "acceleration is fine but not very sporty",
+    "timestamp": "2025-01-30",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0920",
+    "clean_text": "range anxiety is still a concern on long trips",
+    "timestamp": "2025-08-15",
+    "source": "product_page",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0921",
+    "clean_text": "realworld range is lower than what was advertised",
+    "timestamp": "2025-04-24",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0922",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-06-17",
+    "source": "support_log",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0923",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-02-14",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0924",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-04-21",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0925",
+    "clean_text": "noise insulation is decent for an electric vehicle",
+    "timestamp": "2025-08-31",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0926",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-01-02",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0927",
+    "clean_text": "the car feels practical rather than premium",
+    "timestamp": "2025-11-26",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0928",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-03-18",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0929",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-04-27",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0930",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-01-20",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0931",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-10-24",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0932",
+    "clean_text": "range is sufficient for daily needs only",
+    "timestamp": "2025-12-11",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0933",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-05-24",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0934",
+    "clean_text": "interior plastics feel cheap in some areas",
+    "timestamp": "2025-01-25",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0935",
+    "clean_text": "charging infrastructure availability is still a major issue",
+    "timestamp": "2025-04-30",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0936",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-04-14",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0937",
+    "clean_text": "software updates have improved performance over time",
+    "timestamp": "2025-09-06",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0938",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-01-16",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0939",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-09-24",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0940",
+    "clean_text": "fast charging support works reliably and saves a lot of time",
+    "timestamp": "2025-10-20",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0941",
+    "clean_text": "software bugs appear after recent updates",
+    "timestamp": "2025-02-16",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0942",
+    "clean_text": "high upfront cost makes it hard to justify",
+    "timestamp": "2025-07-20",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0943",
+    "clean_text": "low running cost compared to petrol cars makes this a great choice",
+    "timestamp": "2025-07-30",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0944",
+    "clean_text": "the car feels practical rather than premium",
+    "timestamp": "2025-10-11",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0945",
+    "clean_text": "the ev meets expectations but does not exceed them",
+    "timestamp": "2025-01-09",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0946",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-10-14",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0947",
+    "clean_text": "charging at home is convenient and hasslefree",
+    "timestamp": "2025-08-25",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0948",
+    "clean_text": "regenerative braking is well tuned and improves driving efficiency",
+    "timestamp": "2025-06-28",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0949",
+    "clean_text": "the driving experience is smooth but predictable",
+    "timestamp": "2025-12-27",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0950",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-06-20",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0951",
+    "clean_text": "maintenance cost seems reasonable so far",
+    "timestamp": "2025-11-09",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0952",
+    "clean_text": "fast charging support works reliably and saves a lot of time",
+    "timestamp": "2025-07-29",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0953",
+    "clean_text": "regenerative braking feels too aggressive at times",
+    "timestamp": "2025-01-12",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0954",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-06-16",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0955",
+    "clean_text": "rear seat comfort could have been better",
+    "timestamp": "2025-07-08",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0956",
+    "clean_text": "battery performance drops noticeably in extreme heat",
+    "timestamp": "2025-01-03",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0957",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-11-15",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0958",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-09-16",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0959",
+    "clean_text": "good ground clearance for indian road conditions",
+    "timestamp": "2025-09-21",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0960",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-09-19",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0961",
+    "clean_text": "charging stations are often occupied or not working",
+    "timestamp": "2025-12-06",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0962",
+    "clean_text": "boot space is limited due to battery placement",
+    "timestamp": "2025-10-11",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0963",
+    "clean_text": "overall ownership experience has been very satisfying",
+    "timestamp": "2025-12-06",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0964",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-05-28",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0965",
+    "clean_text": "charging experience depends heavily on station availability",
+    "timestamp": "2025-03-08",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0966",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-12-19",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0967",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-01-14",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0968",
+    "clean_text": "suitable for ecoconscious buyers with moderate usage",
+    "timestamp": "2025-11-02",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0969",
+    "clean_text": "aftersales service experience has been disappointing",
+    "timestamp": "2025-10-11",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0970",
+    "clean_text": "steering is precise and gives good control in city traffic",
+    "timestamp": "2025-07-24",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0971",
+    "clean_text": "charging stations are often occupied or not working",
+    "timestamp": "2025-06-28",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0972",
+    "clean_text": "cold weather impacts battery efficiency badly",
+    "timestamp": "2025-08-17",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0973",
+    "clean_text": "technology features are adequate for the segment",
+    "timestamp": "2025-04-22",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0974",
+    "clean_text": "instant torque makes overtaking effortless",
+    "timestamp": "2025-10-11",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0975",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-01-29",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0976",
+    "clean_text": "handling is stable but not very engaging",
+    "timestamp": "2025-07-30",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0977",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-04-20",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0978",
+    "clean_text": "high upfront cost makes it hard to justify",
+    "timestamp": "2025-07-14",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0979",
+    "clean_text": "suspension feels stiff on rough roads",
+    "timestamp": "2025-04-17",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0980",
+    "clean_text": "charging stations are often occupied or not working",
+    "timestamp": "2025-04-25",
+    "source": "support_log",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0981",
+    "clean_text": "interior materials feel premium for this price range",
+    "timestamp": "2025-09-30",
+    "source": "product_page",
+    "cluster_id": 0
+  },
+  {
+    "review_id": "r_0982",
+    "clean_text": "regenerative braking feels too aggressive at times",
+    "timestamp": "2025-04-27",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0983",
+    "clean_text": "driving modes are practical and noticeably change performance",
+    "timestamp": "2025-10-24",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0984",
+    "clean_text": "climate control works efficiently without draining the battery much",
+    "timestamp": "2025-04-12",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0985",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-06-26",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0986",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-07-31",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0987",
+    "clean_text": "the cabin is quiet and comfortable even at highway speeds",
+    "timestamp": "2025-04-09",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0988",
+    "clean_text": "ac usage significantly reduces driving range",
+    "timestamp": "2025-07-11",
+    "source": "support_log",
+    "cluster_id": 1
+  },
+  {
+    "review_id": "r_0989",
+    "clean_text": "battery replacement cost seems very high",
+    "timestamp": "2025-12-03",
+    "source": "support_log",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0990",
+    "clean_text": "the ev feels stable and confident at high speeds",
+    "timestamp": "2025-06-19",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0991",
+    "clean_text": "service center staff lack proper evspecific knowledge",
+    "timestamp": "2025-04-11",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0992",
+    "clean_text": "software bugs appear after recent updates",
+    "timestamp": "2025-10-29",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0993",
+    "clean_text": "regenerative braking feels too aggressive at times",
+    "timestamp": "2025-09-17",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0994",
+    "clean_text": "the charging cable provided feels low quality",
+    "timestamp": "2025-12-12",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0995",
+    "clean_text": "build quality feels solid and wellengineered for an electric car",
+    "timestamp": "2025-08-07",
+    "source": "support_log",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0996",
+    "clean_text": "low running cost compared to petrol cars makes this a great choice",
+    "timestamp": "2025-05-02",
+    "source": "product_page",
+    "cluster_id": 3
+  },
+  {
+    "review_id": "r_0997",
+    "clean_text": "the car feels practical rather than premium",
+    "timestamp": "2025-05-08",
+    "source": "product_page",
+    "cluster_id": 2
+  },
+  {
+    "review_id": "r_0998",
+    "clean_text": "charging infrastructure availability is still a major issue",
+    "timestamp": "2025-10-28",
+    "source": "product_page",
+    "cluster_id": 4
+  },
+  {
+    "review_id": "r_0999",
+    "clean_text": "safety features like abs and airbags inspire confidence",
+    "timestamp": "2025-04-08",
+    "source": "support_log",
+    "cluster_id": 3
+  }
+]
