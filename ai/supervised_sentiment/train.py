@@ -13,7 +13,7 @@ def train():
     # 1. Load your local data
     # Get the script's directory and construct absolute path
     script_dir = Path(__file__).parent
-    data_path = script_dir / "../../data/processed/swt/reviews_balanced.json"
+    data_path = script_dir / "../../data/processed/swt/reviews_balanced_clean.json"
     df = pd.read_json(data_path)
     
     # Remove rows with missing text (412 reviews have null text)
