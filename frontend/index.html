@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-Content-Type-Options" content="nosniff">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://cdnjs.cloudflare.com; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; font-src https://fonts.gstatic.com; img-src 'self' https://api.dicebear.com data:; connect-src 'none';">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AutoReview - Real Reviews from Real Owners</title>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+  <a href="#" class="nav-logo" onclick="showHome()">
+    <div class="nav-logo-icon"><img src="images/Logo.png" alt="AutoReview logo" style="width:100%;height:100%;object-fit:contain;"></div>
+    AutoReview
+  </a>
+  <div class="nav-search">
+    <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+    <input type="text" placeholder="Search luxury cars...">
+  </div>
+  <div class="nav-links">
+    <a href="#" class="active" id="nav-home" onclick="showHome()">Home</a>
+    <a href="#" id="nav-cars">Cars</a>
+    <a href="#">Reviews</a>
+    <a href="#">About</a>
+  </div>
+  <div class="nav-divider"></div>
+  <div class="nav-actions">
+    <button title="Wishlist"><img src="images/favourite.png" alt="Wishlist" class="nav-icon"></button>
+    <button title="Notifications"><img src="images/notification.png" alt="Notifications" class="nav-icon"></button>
+  </div>
+  <div class="nav-avatar">
+    <img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Felix" alt="User">
+  </div>
+</nav>
+
+<div class="main-layout">
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <div class="sidebar-header">
+      <span>☰ Filters</span>
+      <a href="#">Clear All</a>
+    </div>
+
+    <!-- Categories -->
+    <div class="filter-section">
+      <div class="filter-title">Categories <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m18 15-6-6-6 6"/></svg></div>
+      <div class="filter-option active"><input type="radio" name="cat" checked> All Cars</div>
+      <div class="filter-option"><input type="radio" name="cat"> SUV</div>
+      <div class="filter-option"><input type="radio" name="cat"> Sedan</div>
+      <div class="filter-option"><input type="radio" name="cat"> Sports</div>
+      <div class="filter-option"><input type="radio" name="cat"> Electric</div>
+    </div>
+
+    <!-- Price Range -->
+    <div class="filter-section">
+      <div class="filter-title">Price Range <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m18 15-6-6-6 6"/></svg></div>
+      <div class="price-range">
+        <div class="price-inputs">
+          <input class="price-input" value="$50,000" type="text">
+          <input class="price-input" value="$500,000" type="text">
+        </div>
+        <input type="range" class="range-slider" min="0" max="100" value="40">
+      </div>
+    </div>
+
+    <!-- Brand -->
+    <div class="filter-section">
+      <div class="filter-title">Brand <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m18 15-6-6-6 6"/></svg></div>
+      <div class="filter-option"><input type="checkbox" checked> Audi</div>
+      <div class="filter-option"><input type="checkbox" checked> BMW</div>
+      <div class="filter-option"><input type="checkbox"> Mercedes</div>
+      <div class="filter-option"><input type="checkbox"> Porsche</div>
+      <div class="filter-option" style="color:var(--accent);font-size:0.85rem;cursor:pointer;">∨ More</div>
+    </div>
+
+    <!-- Review Sentiment -->
+    <div class="filter-section">
+      <div class="filter-title">Review Sentiment <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m18 15-6-6-6 6"/></svg></div>
+      <div class="sentiment-box green"><div class="sentiment-dot" style="background:var(--green)"></div> Positive 68%+</div>
+      <div class="sentiment-box yellow"><div class="sentiment-dot" style="background:var(--yellow)"></div> Neutral 40% - 67%</div>
+      <div class="sentiment-box red"><div class="sentiment-dot" style="background:var(--red)"></div> Negative &lt; 40%</div>
+    </div>
+
+    <!-- Rating -->
+    <div class="filter-section">
+      <div class="filter-title">Rating</div>
+      <div class="rating-row">
+        <input type="range" class="range-slider" min="0" max="100" value="60" style="flex:1">
+        <span style="margin-left:10px">⭐ 4.0+</span>
+      </div>
+    </div>
+
+    <button class="apply-btn">Apply Filters</button>
+  </aside>
+
+  <!-- HOME PAGE -->
+  <main class="main-content" id="home-page">
+
+    <!-- Hero -->
+    <div class="hero">
+      <div class="hero-text">
+        <h1>DROP YOUR REVIEWS !</h1>
+        <p>Real Reviews from Real Owners</p>
+        <div class="hero-stats">
+          <div class="hero-stat accent">
+            <span class="stat-icon">⚡</span>
+            <strong>10,456+</strong> Cars
+          </div>
+          <div class="hero-stat yellow">
+            <span class="stat-icon">⭐</span>
+            <strong>24,870+</strong> Reviews
+          </div>
+        </div>
+      </div>
+      <img class="hero-car" src="images/ferrari.png" alt="Featured Car" onerror="this.style.display='none'">
+    </div>
+
+    <!-- Top Cars -->
+    <div class="section-header">
+      <h2 class="section-title">Top Cars</h2>
+      <button class="view-all">View All</button>
+    </div>
+
+    <div class="car-grid">
+      <!-- Audi R8 -->
+      <div class="car-card" onclick="showDetail('audi')">
+        <div class="car-card-img">
+          <img src="images/audi_r8.png" alt="Audi R8">
+        </div>
+        <div class="car-card-body">
+          <div class="car-card-top">
+            <div>
+              <div class="car-card-name">Audi R8</div>
+              <div class="car-card-brand">Audi</div>
+            </div>
+            <div class="car-rating">4.3 <span class="star">⭐</span> <span class="rating-count">(248)</span></div>
+          </div>
+          <div class="sentiment-bar">
+            <div class="bar-green" style="flex:68"></div>
+            <div class="bar-yellow" style="flex:20"></div>
+            <div class="bar-red" style="flex:12"></div>
+          </div>
+          <div class="sentiment-labels">
+            <span class="sl-green"><span class="sl-dot" style="background:var(--green)"></span>68% Positive</span>
+            <span class="sl-yellow"><span class="sl-dot" style="background:var(--yellow)"></span>20% Neutral</span>
+            <span class="sl-red"><span class="sl-dot" style="background:var(--red)"></span>12% Negative</span>
+          </div>
+          <div class="car-card-footer">
+            <span class="car-price">$275,000</span>
+            <button class="wishlist-btn" onclick="event.stopPropagation();this.classList.toggle('active')">♥</button>
+          </div>
+          <button class="view-details-btn" onclick="event.stopPropagation();showDetail('audi')">View Details →</button>
+        </div>
+      </div>
+
+      <!-- Punch -->
+      <div class="car-card" onclick="showDetail('punch')">
+        <div class="car-card-img">
+          <img src="images/punch.png" alt="Tata Punch">
+        </div>
+        <div class="car-card-body">
+          <div class="car-card-top">
+            <div>
+              <div class="car-card-name">Punch</div>
+              <div class="car-card-brand">TATA</div>
+            </div>
+            <div class="car-rating">4.3 <span class="star">⭐</span> <span class="rating-count">(248)</span></div>
+          </div>
+          <div class="sentiment-bar">
+            <div class="bar-green" style="flex:75"></div>
+            <div class="bar-yellow" style="flex:8"></div>
+            <div class="bar-red" style="flex:17"></div>
+          </div>
+          <div class="sentiment-labels">
+            <span class="sl-green"><span class="sl-dot" style="background:var(--green)"></span>75% Positive</span>
+            <span class="sl-yellow"><span class="sl-dot" style="background:var(--yellow)"></span>8% Neutral</span>
+            <span class="sl-red"><span class="sl-dot" style="background:var(--red)"></span>17% Negative</span>
+          </div>
+          <div class="car-card-footer">
+            <span class="car-price">$115,000</span>
+            <button class="wishlist-btn" onclick="event.stopPropagation();this.classList.toggle('active')">♥</button>
+          </div>
+          <button class="view-details-btn" onclick="event.stopPropagation();showDetail('punch')">View Details →</button>
+        </div>
+      </div>
+
+      <!-- Swift -->
+      <div class="car-card" onclick="showDetail('swift')">
+        <div class="car-card-img">
+          <img src="images/swift.png" alt="Suzuki Swift">
+        </div>
+        <div class="car-card-body">
+          <div class="car-card-top">
+            <div>
+              <div class="car-card-name">Swift</div>
+              <div class="car-card-brand">Suzuki</div>
+            </div>
+            <div class="car-rating">4.6 <span class="star">⭐</span> <span class="rating-count">(627)</span></div>
+          </div>
+          <div class="sentiment-bar">
+            <div class="bar-green" style="flex:81"></div>
+            <div class="bar-yellow" style="flex:10"></div>
+            <div class="bar-red" style="flex:9"></div>
+          </div>
+          <div class="sentiment-labels">
+            <span class="sl-green"><span class="sl-dot" style="background:var(--green)"></span>81% Positive</span>
+            <span class="sl-yellow"><span class="sl-dot" style="background:var(--yellow)"></span>10% Neutral</span>
+            <span class="sl-red"><span class="sl-dot" style="background:var(--red)"></span>9% Negative</span>
+          </div>
+          <div class="car-card-footer">
+            <span class="car-price">$90,000</span>
+            <button class="wishlist-btn" onclick="event.stopPropagation();this.classList.toggle('active')">♥</button>
+          </div>
+          <button class="view-details-btn" onclick="event.stopPropagation();showDetail('swift')">View Details →</button>
+        </div>
+      </div>
+
+      <!-- Baleno -->
+      <div class="car-card" onclick="showDetail('baleno')">
+        <div class="car-card-img">
+          <img src="images/baleno.png" alt="Suzuki Baleno">
+        </div>
+        <div class="car-card-body">
+          <div class="car-card-top">
+            <div>
+              <div class="car-card-name">Baleno</div>
+              <div class="car-card-brand">Suzuki</div>
+            </div>
+            <div class="car-rating">4.2 <span class="star">⭐</span> <span class="rating-count">(312)</span></div>
+          </div>
+          <div class="sentiment-bar">
+            <div class="bar-green" style="flex:72"></div>
+            <div class="bar-yellow" style="flex:15"></div>
+            <div class="bar-red" style="flex:13"></div>
+          </div>
+          <div class="sentiment-labels">
+            <span class="sl-green"><span class="sl-dot" style="background:var(--green)"></span>72% Positive</span>
+            <span class="sl-yellow"><span class="sl-dot" style="background:var(--yellow)"></span>15% Neutral</span>
+            <span class="sl-red"><span class="sl-dot" style="background:var(--red)"></span>13% Negative</span>
+          </div>
+          <div class="car-card-footer">
+            <span class="car-price">$75,000</span>
+            <button class="wishlist-btn" onclick="event.stopPropagation();this.classList.toggle('active')">♥</button>
+          </div>
+          <button class="view-details-btn" onclick="event.stopPropagation();showDetail('baleno')">View Details →</button>
+        </div>
+      </div>
+
+      <!-- Mercedes -->
+      <div class="car-card" onclick="showDetail('benz')">
+        <div class="car-card-img">
+          <img src="images/benz.png" alt="Mercedes C-Class">
+        </div>
+        <div class="car-card-body">
+          <div class="car-card-top">
+            <div>
+              <div class="car-card-name">C-Class</div>
+              <div class="car-card-brand">Mercedes</div>
+            </div>
+            <div class="car-rating">4.5 <span class="star">⭐</span> <span class="rating-count">(519)</span></div>
+          </div>
+          <div class="sentiment-bar">
+            <div class="bar-green" style="flex:78"></div>
+            <div class="bar-yellow" style="flex:14"></div>
+            <div class="bar-red" style="flex:8"></div>
+          </div>
+          <div class="sentiment-labels">
+            <span class="sl-green"><span class="sl-dot" style="background:var(--green)"></span>78% Positive</span>
+            <span class="sl-yellow"><span class="sl-dot" style="background:var(--yellow)"></span>14% Neutral</span>
+            <span class="sl-red"><span class="sl-dot" style="background:var(--red)"></span>8% Negative</span>
+          </div>
+          <div class="car-card-footer">
+            <span class="car-price">$185,000</span>
+            <button class="wishlist-btn" onclick="event.stopPropagation();this.classList.toggle('active')">♥</button>
+          </div>
+          <button class="view-details-btn" onclick="event.stopPropagation();showDetail('benz')">View Details →</button>
+        </div>
+      </div>
+
+      <!-- BMW -->
+      <div class="car-card" onclick="showDetail('bmw')">
+        <div class="car-card-img">
+          <img src="images/bmw.png" alt="BMW 6 Series">
+        </div>
+        <div class="car-card-body">
+          <div class="car-card-top">
+            <div>
+              <div class="car-card-name">6 Series</div>
+              <div class="car-card-brand">BMW</div>
+            </div>
+            <div class="car-rating">4.4 <span class="star">⭐</span> <span class="rating-count">(388)</span></div>
+          </div>
+          <div class="sentiment-bar">
+            <div class="bar-green" style="flex:74"></div>
+            <div class="bar-yellow" style="flex:16"></div>
+            <div class="bar-red" style="flex:10"></div>
+          </div>
+          <div class="sentiment-labels">
+            <span class="sl-green"><span class="sl-dot" style="background:var(--green)"></span>74% Positive</span>
+            <span class="sl-yellow"><span class="sl-dot" style="background:var(--yellow)"></span>16% Neutral</span>
+            <span class="sl-red"><span class="sl-dot" style="background:var(--red)"></span>10% Negative</span>
+          </div>
+          <div class="car-card-footer">
+            <span class="car-price">$220,000</span>
+            <button class="wishlist-btn" onclick="event.stopPropagation();this.classList.toggle('active')">♥</button>
+          </div>
+          <button class="view-details-btn" onclick="event.stopPropagation();showDetail('bmw')">View Details →</button>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- DETAIL PAGE -->
+  <main class="main-content detail-page" id="detail-page">
+
+    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:16px;">
+      <div class="breadcrumb">
+        <a href="#" onclick="showHome()">Home</a>
+        <span class="breadcrumb-sep">›</span>
+        <a href="#" onclick="showHome()">Cars</a>
+        <span class="breadcrumb-sep">›</span>
+        <a href="#">Audi</a>
+        <span class="breadcrumb-sep">›</span>
+        <span id="detail-breadcrumb-name">Audi R8</span>
+      </div>
+      <div class="detail-top-actions">
+        <button class="detail-btn">🔀 Compare</button>
+        <button class="detail-btn wishlist">❤️ Add to WishList</button>
+      </div>
+    </div>
+
+    <div class="detail-grid">
+      <!-- Gallery -->
+      <div>
+        <div class="gallery">
+          <div class="gallery-main">
+            <img id="gallery-main-img" src="images/audi_r8.png" alt="Car Main">
+          </div>
+          <div class="gallery-thumbs" id="gallery-thumbs">
+            <div class="thumb active" onclick="setThumb(this, 'images/audi_r8.png')">
+              <img src="images/audi_r8.png" alt="">
+            </div>
+            <div class="thumb" onclick="setThumb(this, 'images/audi_r8_sideview.png')">
+              <img src="images/audi_r8_sideview.png" alt="">
+            </div>
+            <div class="thumb" onclick="setThumb(this, 'images/audi_r8_frontview.png')">
+              <img src="images/audi_r8_frontview.png" alt="">
+            </div>
+            <div class="thumb" onclick="setThumb(this, 'images/audi_r8_topview.png')">
+              <img src="images/audi_r8_topview.png" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Info Panel -->
+      <div class="info-panel">
+        <div style="display:flex;align-items:center;">
+          <span class="info-tag" id="detail-tag">Luxury Cars</span>
+          <button class="info-more-btn" style="margin-left:auto">···</button>
+        </div>
+        <div class="info-name-row">
+          <span class="info-name" id="detail-name">Audi R8</span>
+          <div class="info-rating">4.3 <span class="star">⭐</span> <span style="color:var(--text-light);font-weight:500;font-size:0.88rem">(248)</span></div>
+        </div>
+        <div class="info-price" id="detail-price">$275,000</div>
+        <div class="info-sentiment-bar">
+          <div class="bar-green" id="d-bar-green" style="flex:68"></div>
+          <div class="bar-yellow" id="d-bar-yellow" style="flex:20"></div>
+          <div class="bar-red" id="d-bar-red" style="flex:12"></div>
+        </div>
+        <div class="info-sentiment-labels">
+          <span class="sl-green"><span class="sl-dot" style="background:var(--green)"></span> <span id="d-pos">68%</span> Positive</span>
+          <span class="sl-yellow"><span class="sl-dot" style="background:var(--yellow)"></span> <span id="d-neu">20%</span> Neutral</span>
+          <span class="sl-red"><span class="sl-dot" style="background:var(--red)"></span> <span id="d-neg">12%</span> Negative</span>
+        </div>
+        <div class="info-tags">
+          <div class="info-tag-item">🔧 Premium Interior</div>
+          <div class="info-tag-item">🏎 Carbon Fiber</div>
+          <div class="info-tag-item">💡 LED Matrix Light</div>
+          <div class="info-tag-item">🔊 Sports Exhaust</div>
+        </div>
+        <button class="write-review-btn" onclick="openReviewModal()"><img src="images/basil_telegram-solid.png" alt="Review" class="review-icon">Write a Review</button>
+      </div>
+    </div>
+
+    <!-- Reviews -->
+    <div class="reviews-section">
+      <div class="reviews-title">Customer Reviews</div>
+      <div class="reviews-layout">
+        <!-- Overall -->
+        <div class="overall-sentiment">
+          <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;">
+            <h4>Overall Sentiment</h4>
+            <span class="overall-rating-badge">Overall Rating &nbsp;<strong>4.3/5</strong></span>
+          </div>
+          <div class="pie-chart-area">
+            <div class="pie-placeholder"></div>
+            <div class="sentiment-list">
+              <div class="sentiment-item" style="color:var(--green)">75% <span>Positive</span></div>
+              <div class="sentiment-item" style="color:var(--yellow)">20% <span>Neutral</span></div>
+              <div class="sentiment-item" style="color:var(--red)">12% <span>Negative</span></div>
+            </div>
+          </div>
+          <div class="overall-bar">
+            <div class="bar-green" style="flex:75"></div>
+            <div class="bar-yellow" style="flex:20"></div>
+            <div class="bar-red" style="flex:12"></div>
+          </div>
+        </div>
+
+        <!-- Review list -->
+        <div>
+          <div class="review-tabs">
+            <button class="review-tab active">All</button>
+            <button class="review-tab"><span class="tab-dot" style="background:var(--green)"></span>Positive</button>
+            <button class="review-tab"><span class="tab-dot" style="background:var(--yellow)"></span>Neutral</button>
+            <button class="review-tab"><span class="tab-dot" style="background:var(--red)"></span>Negative</button>
+          </div>
+          <div id="reviews-list">
+            <div class="review-card">
+              <div class="review-card-top">
+                <div class="reviewer-avatar"><img src="https://api.dicebear.com/7.x/adventurer/svg?seed=John" alt=""></div>
+                <div>
+                  <div class="reviewer-name">John D <span class="verified-badge">♥ Verified</span></div>
+                  <div class="review-stars">★★★★★</div>
+                </div>
+                <span class="review-date">Feb 2026</span>
+              </div>
+              <div class="review-text">Amazing performance and design</div>
+            </div>
+            <div class="review-card">
+              <div class="review-card-top">
+                <div class="reviewer-avatar"><img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Jaguar" alt=""></div>
+                <div>
+                  <div class="reviewer-name">Jaguar G <span class="verified-badge">♥ Verified</span></div>
+                  <div class="review-stars">★★★★<span class="empty-star">★</span></div>
+                </div>
+                <span class="review-date">Jan 2026</span>
+              </div>
+              <div class="review-text">Good but Maintenance is very high</div>
+            </div>
+            <div class="review-card">
+              <div class="review-card-top">
+                <div class="reviewer-avatar"><img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Sarah" alt=""></div>
+                <div>
+                  <div class="reviewer-name">Sarah M <span class="verified-badge">♥ Verified</span></div>
+                  <div class="review-stars">★★★★★</div>
+                </div>
+                <span class="review-date">Jan 2026</span>
+              </div>
+              <div class="review-text">Absolutely love the handling and the quattro system. Best car I've owned.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </main>
+</div>
+
+<!-- REVIEW MODAL -->
+<div id="review-modal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.45);z-index:999;align-items:center;justify-content:center;">
+  <div style="background:white;border-radius:20px;padding:32px;width:480px;max-width:95vw;box-shadow:0 20px 60px rgba(0,0,0,0.2);">
+    <h3 style="font-size:1.2rem;font-weight:800;margin-bottom:18px;">Write a Review</h3>
+    <div style="margin-bottom:14px;">
+      <label style="font-size:0.88rem;font-weight:600;display:block;margin-bottom:6px;">Your Rating</label>
+      <div id="star-rating" style="display:flex;gap:6px;font-size:1.8rem;cursor:pointer;">
+        <span data-v="1">☆</span><span data-v="2">☆</span><span data-v="3">☆</span><span data-v="4">☆</span><span data-v="5">☆</span>
+      </div>
+    </div>
+    <div style="margin-bottom:14px;">
+      <label style="font-size:0.88rem;font-weight:600;display:block;margin-bottom:6px;">Review Title</label>
+      <input type="text" placeholder="Summarize your experience" style="width:100%;padding:10px 14px;border:1.5px solid var(--border);border-radius:10px;font-family:inherit;font-size:0.93rem;outline:none;">
+    </div>
+    <div style="margin-bottom:20px;">
+      <label style="font-size:0.88rem;font-weight:600;display:block;margin-bottom:6px;">Your Review</label>
+      <textarea placeholder="Share your experience in detail..." rows="4" style="width:100%;padding:10px 14px;border:1.5px solid var(--border);border-radius:10px;font-family:inherit;font-size:0.93rem;outline:none;resize:none;"></textarea>
+    </div>
+    <div style="display:flex;gap:10px;">
+      <button onclick="closeReviewModal()" style="flex:1;padding:12px;border:1.5px solid var(--border);background:white;border-radius:10px;font-family:inherit;font-weight:600;cursor:pointer;">Cancel</button>
+      <button onclick="submitReview()" style="flex:2;padding:12px;border:none;background:var(--text-dark);color:white;border-radius:10px;font-family:inherit;font-weight:700;cursor:pointer;">Submit Review</button>
+    </div>
+  </div>
+</div>
+
+<script src="js/script.js"></script>
+</body>
+</html>
