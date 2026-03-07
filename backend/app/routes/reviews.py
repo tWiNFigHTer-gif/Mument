@@ -6,7 +6,6 @@ from datetime import datetime
 
 router = APIRouter()
 
-
 # -----------------------------
 # POST - Submit Review
 # -----------------------------
@@ -26,37 +25,38 @@ def submit_review(review: Review):
     reviews.append(new_review)
     write_reviews(reviews)
 
-    return {"message": "Review submitted successfully"}
+    return {
+        "message": "Review submitted successfully",
+        "review": new_review
+    }
 
 
 # -----------------------------
 # GET - List Reviews (Paginated)
 # -----------------------------
 @router.get("/")
-def get_all_reviews(
+def get_reviews(
     page: int = Query(1, ge=1),
     limit: int = Query(5, ge=1)
 ):
     reviews = read_reviews()
 
-    # Sort newest first
     sorted_reviews = sorted(
         reviews,
-        key=lambda r: r["timestamp"],
+        key=lambda r: r.get("timestamp", "1970-01-01"),
         reverse=True
     )
 
-    # Pagination logic
     start = (page - 1) * limit
     end = start + limit
 
-    paginated_data = sorted_reviews[start:end]
+    paginated_reviews = sorted_reviews[start:end]
 
     return {
-        "total": len(reviews),
+        "total_reviews": len(sorted_reviews),
         "page": page,
         "limit": limit,
-        "data": paginated_data
+        "data": paginated_reviews
     }
 
 
@@ -67,7 +67,7 @@ def get_all_reviews(
 def delete_review(review_id: str):
     reviews = read_reviews()
 
-    updated_reviews = [r for r in reviews if r["id"] != review_id]
+    updated_reviews = [r for r in reviews if r.get("id") != review_id]
 
     if len(updated_reviews) == len(reviews):
         return {"message": "Review not found"}

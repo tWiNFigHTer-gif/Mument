@@ -1,20 +1,21 @@
 import json
 import os
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-FILE_PATH = os.path.join(BASE_DIR, "../data/reviews.json")
+# Get path to reviews.json
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+FILE_PATH = os.path.join(BASE_DIR, "data", "reviews.json")
+
 
 def read_reviews():
+    """Read all reviews from JSON file"""
     if not os.path.exists(FILE_PATH):
-        with open(FILE_PATH, "w") as file:
-            json.dump([], file)
+        return []
 
     with open(FILE_PATH, "r") as file:
         return json.load(file)
 
-def save_review(review):
-    reviews = read_reviews()
-    reviews.append(review)
 
+def write_reviews(data):
+    """Write updated reviews list to JSON file"""
     with open(FILE_PATH, "w") as file:
-        json.dump(reviews, file, indent=4)
+        json.dump(data, file, indent=4)
