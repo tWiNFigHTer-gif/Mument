@@ -1,2 +1,4 @@
 
 data/artifacts/checkpoints/
+
+data/artifacts/sentiment_model/model.safetensors
