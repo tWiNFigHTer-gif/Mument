@@ -149,18 +149,213 @@ function openReviewModal() {
 function closeReviewModal() {
   document.getElementById('review-modal').style.display = 'none';
 }
-function submitReview() {
-  alert('Review submitted successfully! Thank you.');
-  closeReviewModal();
+const API_BASE = 'http://localhost:8000';
+
+async function submitReview() {
+  const stars = [...document.querySelectorAll('#star-rating span')]
+    .filter(span => span.textContent === '★').length;
+  const reviewText = document.querySelector('#review-modal textarea')?.value.trim();
+  const titleInput = document.querySelector('#review-modal input[type="text"]');
+  const reviewTitle = titleInput?.value.trim();
+  const username = 'Guest';
+
+  if (!stars || !reviewText) {
+    alert('Please add a rating and review before submitting.');
+    return;
+  }
+
+  try {
+    const analysisResponse = await fetch(`${API_BASE}/reviews/analyse`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        review_text: reviewText
+      })
+    });
+
+    const analysis = await analysisResponse.json();
+
+    if (!analysisResponse.ok) {
+      alert('Failed to analyze review.');
+      return;
+    }
+
+    const submitResponse = await fetch(`${API_BASE}/reviews/submit`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        username,
+        rating: stars,
+        comment: reviewTitle ? `${reviewTitle}: ${reviewText}` : reviewText,
+        sentiment: analysis.sentiment
+      })
+    });
+
+    const submitData = await submitResponse.json();
+
+    if (!submitResponse.ok) {
+      alert('Failed to submit review.');
+      return;
+    }
+
+    alert(submitData.message || 'Review submitted successfully.');
+
+    if (titleInput) {
+      titleInput.value = '';
+    }
+    const reviewTextarea = document.querySelector('#review-modal textarea');
+    if (reviewTextarea) {
+      reviewTextarea.value = '';
+    }
+    document.querySelectorAll('#star-rating span').forEach((span) => {
+      span.textContent = '☆';
+      span.style.color = '#ccc';
+    });
+
+    closeReviewModal();
+  } catch (error) {
+    console.error('Error submitting review:', error);
+    alert('An error occurred while submitting your review.');
+  }
 }
 
+function renderDashboardCharts(positive, negative, neutral) {
+  if (typeof Chart === 'undefined') {
+    return;
+  }
+
+  const trendsCanvas = document.getElementById('trendsChart');
+  const pieCanvas = document.getElementById('pieChart');
+
+  if (!trendsCanvas || !pieCanvas) {
+    return;
+  }
+
+  const existingTrendsChart = Chart.getChart(trendsCanvas);
+  if (existingTrendsChart) {
+    existingTrendsChart.destroy();
+  }
+
+  const existingPieChart = Chart.getChart(pieCanvas);
+  if (existingPieChart) {
+    existingPieChart.destroy();
+  }
+
+  const ctx = trendsCanvas.getContext('2d');
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: ['Positive', 'Negative', 'Neutral'],
+      datasets: [{
+        data: [positive, negative, neutral],
+        backgroundColor: ['#22c55e', '#ef4444', '#6b7280']
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } }
+    }
+  });
+
+  const pieCtx = pieCanvas.getContext('2d');
+  new Chart(pieCtx, {
+    type: 'doughnut',
+    data: {
+      labels: ['Positive', 'Negative', 'Neutral'],
+      datasets: [{
+        data: [positive, negative, neutral],
+        backgroundColor: ['#22c55e', '#ef4444', '#6b7280'],
+        borderWidth: 3,
+        borderColor: '#ffffff'
+      }]
+    },
+    options: {
+      cutout: '38%',
+      plugins: { legend: { display: false } },
+      responsive: false
+    }
+  });
+}
+
+async function loadDashboard() {
+  const statValues = document.querySelectorAll('.stat-card .stat-value');
+  const reviewsTableBody = document.getElementById('reviews-tbody');
+
+  if (!statValues.length || !reviewsTableBody) {
+    return;
+  }
+
+  try {
+    const [summaryRes, reviewsRes] = await Promise.all([
+      fetch(`${API_BASE}/analytics/summary`),
+      fetch(`${API_BASE}/reviews/?page=1&limit=5`)
+    ]);
+
+    const summary = await summaryRes.json();
+    const reviewsPayload = await reviewsRes.json();
+
+    const total = summary.total_reviews || 0;
+    const positive = summary.positive || 0;
+    const negative = summary.negative || 0;
+    const neutral = summary.neutral || 0;
+
+    const positivePct = total ? ((positive / total) * 100).toFixed(1) : '0.0';
+    const negativePct = total ? ((negative / total) * 100).toFixed(1) : '0.0';
+    const neutralPct = total ? ((neutral / total) * 100).toFixed(1) : '0.0';
+
+    statValues[0].textContent = total;
+    statValues[1].innerHTML = `${positive} <span class="stat-badge badge-green">${positivePct}%</span>`;
+    statValues[2].innerHTML = `${negative} <span class="stat-badge badge-red">${negativePct}%</span>`;
+    statValues[3].innerHTML = `${neutral} <span class="stat-badge badge-gray">${neutralPct}%</span>`;
+
+    const piePercentages = document.querySelectorAll('.pie-pct');
+    if (piePercentages.length >= 3) {
+      piePercentages[0].textContent = `${positivePct}%`;
+      piePercentages[1].textContent = `${negativePct}%`;
+      piePercentages[2].textContent = `${neutralPct}%`;
+    }
+
+    reviewsTableBody.innerHTML = '';
+    (reviewsPayload.data || []).forEach((review) => {
+      const tr = document.createElement('tr');
+      const stars = Array.from({ length: 5 }, (_, index) =>
+        `<span class="${index < review.rating ? 'star-filled' : 'star-empty'}">★</span>`
+      ).join('');
+
+      tr.innerHTML = `
+        <td>
+          <div class="td-user">
+            <div class="user-avatar-sm">
+              <img src="https://api.dicebear.com/7.x/adventurer/svg?seed=${escapeHTML(review.username)}" alt="${escapeHTML(review.username)}">
+            </div>
+            ${escapeHTML(review.username)}
+          </div>
+        </td>
+        <td><div class="star-rating">${stars}</div></td>
+        <td style="color:var(--text-mid)">${escapeHTML(review.comment)}</td>
+      `;
+      reviewsTableBody.appendChild(tr);
+    });
+
+    renderDashboardCharts(positive, negative, neutral);
+  } catch (error) {
+    console.error('Error loading dashboard:', error);
+  }
+}
 // Star rating
-document.getElementById('star-rating').addEventListener('click', function(e) {
-  const v = parseInt(e.target.dataset.v);
-  if (!v) return;
-  this.querySelectorAll('span').forEach((s, i) => s.textContent = i < v ? '★' : '☆');
-  this.querySelectorAll('span').forEach((s, i) => s.style.color = i < v ? '#f5a623' : '#ccc');
-});
+const starRating = document.getElementById('star-rating');
+if (starRating) {
+  starRating.addEventListener('click', function(e) {
+    const v = parseInt(e.target.dataset.v);
+    if (!v) return;
+    this.querySelectorAll('span').forEach((s, i) => s.textContent = i < v ? '★' : '☆');
+    this.querySelectorAll('span').forEach((s, i) => s.style.color = i < v ? '#f5a623' : '#ccc');
+  });
+}
 
 // Review tabs
 document.querySelectorAll('.review-tab').forEach(tab => {
@@ -183,6 +378,47 @@ document.querySelectorAll('.filter-option').forEach(opt => {
 });
 
 // Close modal on backdrop
-document.getElementById('review-modal').addEventListener('click', function(e) {
-  if (e.target === this) closeReviewModal();
+const reviewModal = document.getElementById('review-modal');
+if (reviewModal) {
+  reviewModal.addEventListener('click', function(e) {
+    if (e.target === this) closeReviewModal();
+  });
+}
+
+const darkToggle = document.getElementById('dark-toggle');
+if (darkToggle) {
+  darkToggle.addEventListener('click', function() {
+    document.body.classList.toggle('dark');
+  });
+}
+
+const refreshBtn = document.getElementById('refresh-btn');
+if (refreshBtn) {
+  refreshBtn.addEventListener('click', function() {
+    location.reload();
+  });
+}
+
+const notifBtn = document.getElementById('notif-btn');
+if (notifBtn) {
+  notifBtn.addEventListener('click', function() {
+    alert('No new notifications yet.');
+  });
+}
+
+const webBtn = document.getElementById('web-btn');
+if (webBtn) {
+  webBtn.addEventListener('click', function() {
+    window.open('https://example.com', '_blank', 'noopener,noreferrer');
+  });
+}
+
+document.querySelectorAll('.nav-item').forEach(item => {
+  item.addEventListener('click', function() {
+    if (this.style.color === 'rgb(239, 68, 68)') return;
+    document.querySelectorAll('.nav-item').forEach(navItem => navItem.classList.remove('active'));
+    this.classList.add('active');
+  });
 });
+
+loadDashboard();

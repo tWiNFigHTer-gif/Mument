@@ -1,10 +1,23 @@
 from fastapi import APIRouter, Query
-from app.schemas.review_schema import Review
+from app.schemas.review_schema import Review, ReviewAnalysisRequest
 from app.services.json_storage import read_reviews, write_reviews
+from app.services.sentiment_service import analyze_review_text
 import uuid
 from datetime import datetime
 
 router = APIRouter()
+
+
+@router.post("/analyse")
+def analyse_review(payload: ReviewAnalysisRequest):
+    analysis = analyze_review_text(payload.review_text)
+
+    return {
+        "review_text": payload.review_text,
+        "sentiment": analysis["sentiment"],
+        "confidence": analysis["confidence"],
+        "source": analysis["source"],
+    }
 
 # -----------------------------
 # POST - Submit Review

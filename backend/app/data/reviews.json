@@ -4,5 +4,29 @@
         "rating": 5,
         "comment": "Amazing!",
         "sentiment": "positive"
+    },
+    {
+        "id": "e0e52f74-5cf9-4b3c-92a9-1a1fb0c47fb8",
+        "username": "Guest",
+        "rating": 4,
+        "comment": "good car",
+        "sentiment": null,
+        "timestamp": "2026-03-08T09:33:48.984948"
+    },
+    {
+        "id": "382639d2-600b-465f-82c3-4581ab477f93",
+        "username": "Guest",
+        "rating": 4,
+        "comment": "good car",
+        "sentiment": "positive",
+        "timestamp": "2026-03-08T10:40:13.910477"
+    },
+    {
+        "id": "48a5cdcf-f9d8-4eba-a8a8-3190408b1b1e",
+        "username": "Guest",
+        "rating": 4,
+        "comment": "Milan: good car",
+        "sentiment": "positive",
+        "timestamp": "2026-03-08T10:48:35.460494"
     }
 ]

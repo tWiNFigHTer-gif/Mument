@@ -2,9 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta http-equiv="X-Content-Type-Options" content="nosniff">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://cdnjs.cloudflare.com; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; font-src https://fonts.gstatic.com; img-src 'self' https://api.dicebear.com data:; connect-src 'none';">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; font-src https://fonts.gstatic.com; img-src 'self' https://api.dicebear.com data:; connect-src 'self' http://127.0.0.1:8000 http://localhost:8000;">
 <title>AutoReview - Analytics Dashboard</title>
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
@@ -475,143 +473,7 @@
   </div>
 </main>
 
-<script>
-function escapeHTML(str) {
-  return String(str)
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&#39;');
-}
-// ── REVIEWS DATA ──
-const reviews = [
-  { name: 'Danny', seed: 'Danny1', stars: 2, comment: 'The Product was good' },
-  { name: 'Sarah', seed: 'Sarah2', stars: 4, comment: 'Absolutely loved the drive' },
-  { name: 'Mike',  seed: 'Mike3',  stars: 3, comment: 'Average experience overall' },
-  { name: 'Priya', seed: 'Priya4', stars: 5, comment: 'Best car I have ever owned' },
-  { name: 'Kevin', seed: 'Kevin5', stars: 1, comment: 'Maintenance costs are too high' },
-];
+<script src="js/script.js"></script>
 
-const tbody = document.getElementById('reviews-tbody');
-reviews.forEach(r => {
-  const tr = document.createElement('tr');
-  const stars = Array.from({length:5}, (_,i) =>
-    `<span class="${i < r.stars ? 'star-filled' : 'star-empty'}">★</span>`
-  ).join('');
-  tr.innerHTML = `
-    <td>
-      <div class="td-user">
-        <div class="user-avatar-sm">
-          <img src="https://api.dicebear.com/7.x/adventurer/svg?seed=${escapeHTML(r.seed)}" alt="${escapeHTML(r.name)}">
-        </div>
-        ${escapeHTML(r.name)}
-      </div>
-    </td>
-    <td><div class="star-rating">${stars}</div></td>
-    <td style="color:var(--text-mid)">${escapeHTML(r.comment)}</td>
-  `;
-  tbody.appendChild(tr);
-});
-
-// ── LINE CHART ──
-const labels = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-const ctx = document.getElementById('trendsChart').getContext('2d');
-new Chart(ctx, {
-  type: 'line',
-  data: {
-    labels,
-    datasets: [
-      {
-        label: 'Positive',
-        data: [220,250,240,280,260,300,310,290,320,308,330,315],
-        borderColor: '#22c55e', backgroundColor: 'rgba(34,197,94,0.08)',
-        borderWidth: 2.5, tension: 0.45, fill: false, pointRadius: 0, pointHoverRadius: 4
-      },
-      {
-        label: 'Negative',
-        data: [130,150,145,160,140,180,170,155,175,165,185,160],
-        borderColor: '#ef4444', backgroundColor: 'rgba(239,68,68,0.06)',
-        borderWidth: 2.5, tension: 0.45, fill: false, pointRadius: 0, pointHoverRadius: 4
-      },
-      {
-        label: 'Neutral',
-        data: [110,130,120,135,125,145,140,130,148,138,155,142],
-        borderColor: '#6b7280', backgroundColor: 'rgba(107,114,128,0.06)',
-        borderWidth: 2.5, tension: 0.45, fill: false, pointRadius: 0, pointHoverRadius: 4
-      }
-    ]
-  },
-  options: {
-    responsive: true, maintainAspectRatio: true,
-    plugins: { legend: { display: false }, tooltip: { mode: 'index', intersect: false } },
-    scales: {
-      x: { grid: { display: false }, ticks: { font: { size: 11 }, color: '#9ca3af' } },
-      y: {
-        min: 100, max: 400,
-        grid: { color: '#f3f4f6', drawBorder: false },
-        ticks: { font: { size: 11 }, color: '#9ca3af', stepSize: 100 }
-      }
-    }
-  }
-});
-
-// ── PIE CHART ──
-const pieCtx = document.getElementById('pieChart').getContext('2d');
-new Chart(pieCtx, {
-  type: 'doughnut',
-  data: {
-    labels: ['Positive', 'Negative', 'Neutral'],
-    datasets: [{
-      data: [58, 23, 19],
-      backgroundColor: ['#22c55e', '#ef4444', '#6b7280'],
-      borderWidth: 3, borderColor: '#ffffff', hoverOffset: 6
-    }]
-  },
-  options: {
-    cutout: '38%',
-    plugins: { legend: { display: false }, tooltip: { callbacks: { label: ctx => ` ${ctx.label}: ${ctx.parsed}%` } } },
-    responsive: false
-  }
-});
-
-// ── DARK MODE ──
-document.getElementById('dark-toggle').addEventListener('click', function() {
-  document.body.classList.toggle('dark');
-  // icon stays the same; styling via CSS ensures visibility in both themes
-});
-
-// ── SIDEBAR ACTIVE STATE ──
-document.querySelectorAll('.nav-item').forEach(item => {
-  item.addEventListener('click', function(e) {
-    if (this.style.color === 'rgb(239, 68, 68)') return;
-    document.querySelectorAll('.nav-item').forEach(i => i.classList.remove('active'));
-    this.classList.add('active');
-  });
-});
-
-// ── TOPBAR BUTTON ACTIONS ──
-const refreshBtn = document.getElementById('refresh-btn');
-const notifBtn = document.getElementById('notif-btn');
-const webBtn = document.getElementById('web-btn');
-
-if (refreshBtn) {
-  refreshBtn.addEventListener('click', () => {
-    // simple reload behaviour
-    location.reload();
-  });
-}
-if (notifBtn) {
-  notifBtn.addEventListener('click', () => {
-    alert('No new notifications yet.');
-  });
-}
-if (webBtn) {
-  webBtn.addEventListener('click', () => {
-    window.open('https://example.com', '_blank', 'noopener,noreferrer');
-  });
-}
-
-</script>
 </body>
 </html>
