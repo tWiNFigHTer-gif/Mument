@@ -18,3 +18,7 @@ def save_review(review):
 
     with open(FILE_PATH, "w") as file:
         json.dump(reviews, file, indent=4)
+
+def write_reviews(reviews):
+    with open(FILE_PATH, "w") as file:
+        json.dump(reviews, file, indent=4)

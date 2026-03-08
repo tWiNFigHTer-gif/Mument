@@ -1,15 +1,19 @@
 # Reviews routes
 
-from fastapi import APIRouter
+from fastapi import APIRouter, Query
 from pydantic import BaseModel
 from ai.pipeline import analyse
+from backend.app.schemas.review_schema import Review
+from backend.app.services.json_storage import read_reviews, write_reviews
+import uuid
+from datetime import datetime
 
 router = APIRouter()
 
 class ReviewInput(BaseModel):
     text: str
 
-@router.post("/reviews/analyse")
+@router.post("/analyse")
 def analyse_review(review: ReviewInput):
     """
     Accepts review text
@@ -18,13 +22,6 @@ def analyse_review(review: ReviewInput):
     """
     result = analyse(review.text)
     return result
-from fastapi import APIRouter, Query
-from app.schemas.review_schema import Review
-from app.services.json_storage import read_reviews, write_reviews
-import uuid
-from datetime import datetime
-
-router = APIRouter()
 
 
 # -----------------------------
@@ -62,7 +59,7 @@ def get_all_reviews(
     # Sort newest first
     sorted_reviews = sorted(
         reviews,
-        key=lambda r: r["timestamp"],
+        key=lambda r: r.get("timestamp", ""),
         reverse=True
     )
 
@@ -87,7 +84,7 @@ def get_all_reviews(
 def delete_review(review_id: str):
     reviews = read_reviews()
 
-    updated_reviews = [r for r in reviews if r["id"] != review_id]
+    updated_reviews = [r for r in reviews if r.get("id") != review_id]
 
     if len(updated_reviews) == len(reviews):
         return {"message": "Review not found"}
