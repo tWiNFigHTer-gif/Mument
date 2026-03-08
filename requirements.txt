@@ -1,1 +1,18 @@
-# Project dependencies
+# Web framework & server
+fastapi
+uvicorn
+
+# Database ORM
+sqlalchemy
+
+# AI - Supervised (DistilBERT)
+torch
+transformers
+datasets
+
+# AI - Unsupervised (KMeans)
+scikit-learn
+numpy
+
+# Data handling
+pandas

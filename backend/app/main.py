@@ -1,14 +1,10 @@
 from fastapi import FastAPI
-from app.routes import reviews
-from app.routes import analytics
+from backend.app.routes import reviews
 
-# Create FastAPI instance FIRST
 app = FastAPI()
 
-# Include routers AFTER creating app
-app.include_router(reviews.router, prefix="/reviews")
-app.include_router(analytics.router, prefix="/analytics")
+app.include_router(reviews.router)
 
 @app.get("/")
-def root():
-    return {"message": "Mument Backend Running"}
+def read_root():
+    return {"message": "Mument API running"}

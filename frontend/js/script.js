@@ -85,6 +85,8 @@ function showHome() {
 }
 
 function showDetail(carKey) {
+  const car = carData[carKey];
+  if (!car) return;
   if (!Object.prototype.hasOwnProperty.call(carData, carKey)) return;
   const car = carData[carKey];
 

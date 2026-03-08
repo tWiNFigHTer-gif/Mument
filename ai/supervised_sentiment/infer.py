@@ -6,12 +6,14 @@ import torch.nn.functional as F
 
 # Logic: Load the model from your artifact folder onto your RTX GPU
 script_dir = Path(__file__).parent
-MODEL_PATH = str(script_dir / "../../data/artifacts/sentiment_model")
+MODEL_PATH = script_dir.joinpath("../../data/artifacts/sentiment_model").resolve()
 
 # Label mapping for our ternary classifier
 LABEL_MAP = {0: "NEGATIVE", 1: "NEUTRAL", 2: "POSITIVE"}
 
 def load_sentiment_model():
+    if not MODEL_PATH.exists():
+        raise FileNotFoundError(f"Model not found at {MODEL_PATH}. Run train.py first.")
     print("⏳ Loading model to GPU...")
     tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
     model = AutoModelForSequenceClassification.from_pretrained(

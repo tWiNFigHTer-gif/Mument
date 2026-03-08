@@ -1,0 +1,11 @@
+
+data/artifacts/checkpoints/
+
+data/artifacts/sentiment_model/model.safetensors
+
+data/artifacts/
+*.safetensors
+*.pt
+*.pkl
+*.bin
+*.h5
