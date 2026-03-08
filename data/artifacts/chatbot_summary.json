@@ -1,0 +1,30 @@
+{
+  "total_reviews": 1000,
+  "sentiment_distribution": {
+    "neutral": 260,
+    "negative": 353,
+    "positive": 387
+  },
+  "negative_ratio": 0.353,
+  "cluster_distribution": {
+    "3": 530,
+    "1": 122,
+    "2": 161,
+    "4": 126,
+    "0": 61
+  },
+  "worst_cluster_id": 2,
+  "worst_cluster_keywords": [
+    "feels",
+    "car",
+    "car feels",
+    "ev",
+    "feels ecofriendly",
+    "compromising",
+    "ecofriendly compromising",
+    "compromising comfort",
+    "ecofriendly",
+    "comfort"
+  ],
+  "worst_cluster_score": 0.9647180603710883
+}

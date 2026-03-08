@@ -474,6 +474,14 @@
 </main>
 
 <script>
+function escapeHTML(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
 // ── REVIEWS DATA ──
 const reviews = [
   { name: 'Danny', seed: 'Danny1', stars: 2, comment: 'The Product was good' },
@@ -493,13 +501,13 @@ reviews.forEach(r => {
     <td>
       <div class="td-user">
         <div class="user-avatar-sm">
-          <img src="https://api.dicebear.com/7.x/adventurer/svg?seed=${r.seed}" alt="${r.name}">
+          <img src="https://api.dicebear.com/7.x/adventurer/svg?seed=${escapeHTML(r.seed)}" alt="${escapeHTML(r.name)}">
         </div>
-        ${r.name}
+        ${escapeHTML(r.name)}
       </div>
     </td>
     <td><div class="star-rating">${stars}</div></td>
-    <td style="color:var(--text-mid)">${r.comment}</td>
+    <td style="color:var(--text-mid)">${escapeHTML(r.comment)}</td>
   `;
   tbody.appendChild(tr);
 });
@@ -598,7 +606,7 @@ if (notifBtn) {
 }
 if (webBtn) {
   webBtn.addEventListener('click', () => {
-    window.open('https://example.com', '_blank');
+    window.open('https://example.com', '_blank', 'noopener,noreferrer');
   });
 }
 

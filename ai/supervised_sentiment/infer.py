@@ -20,9 +20,8 @@ def load_sentiment_model():
         MODEL_PATH,
         torch_dtype=torch.float16
     ).to('cuda')
-    model.eval()
+    model.eval()  # Set to evaluation mode
     return tokenizer, model
-
 
 def predict_sentiment(text, tokenizer, model):
     """Run inference on a single review"""
