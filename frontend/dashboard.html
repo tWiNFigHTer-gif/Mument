@@ -238,6 +238,59 @@
   .ai-badge-red { background: #fee2e2; color: var(--red); }
   .ai-badge-yellow { background: #fef9c3; color: #b45309; }
 
+  /* Chatbot Styles */
+  .chatbot-card {
+    background: var(--card-bg); border-radius: 16px;
+    padding: 24px; border: 1px solid var(--border);
+    display: flex; flex-direction: column; gap: 14px;
+  }
+  .chatbot-title { font-size: 1.05rem; font-weight: 800; margin-bottom: 4px; }
+  .chat-container {
+    height: 300px; border: 1px solid var(--border);
+    border-radius: 8px; padding: 12px; margin-bottom: 12px;
+    overflow-y: auto; background: #fafafa;
+  }
+  .chat-messages {
+    display: flex; flex-direction: column; gap: 8px;
+  }
+  .chat-message {
+    padding: 8px 12px; border-radius: 8px; max-width: 80%;
+    font-size: 0.9rem; line-height: 1.4;
+  }
+  .chat-message.user {
+    background: var(--accent); color: white; align-self: flex-end;
+  }
+  .chat-message.bot {
+    background: white; color: var(--text-dark); border: 1px solid var(--border);
+    align-self: flex-start;
+  }
+  .chat-input-container {
+    display: flex; gap: 8px;
+  }
+  .chat-input {
+    flex: 1; padding: 10px 12px; border: 1px solid var(--border);
+    border-radius: 8px; font-family: inherit; font-size: 0.9rem;
+  }
+  .send-btn {
+    background: var(--accent); color: white; border: none;
+    border-radius: 8px; padding: 10px 16px; font-family: inherit;
+    font-weight: 600; cursor: pointer; transition: background 0.2s;
+  }
+  .send-btn:hover { background: #5a4fcf; }
+  .send-btn:disabled { background: #ccc; cursor: not-allowed; }
+
+  /* Loading states */
+  .loading {
+    display: inline-block; width: 16px; height: 16px;
+    border: 2px solid #f3f3f3; border-top: 2px solid var(--accent);
+    border-radius: 50%; animation: spin 1s linear infinite;
+    margin-right: 8px;
+  }
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
   /* Dark mode toggle effect */
   body.dark {
     --bg: #0f111a;
@@ -304,6 +357,12 @@
         <polygon points="12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26 12,2"/>
       </svg>
       Customer Review
+    </a>
+    <a class="nav-item" href="chatbot.html">
+      <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+      </svg>
+      AI Chatbot
     </a>
   </nav>
 
@@ -442,32 +501,17 @@
       </table>
     </div>
 
-    <!-- AI Recommendations -->
-    <div class="ai-card">
-      <div class="ai-card-title">AI Recommendations</div>
-      <div class="ai-rec-item">
-        <span class="ai-rec-icon">🤖</span>
-        <div class="ai-rec-text">
-          <strong>Improve Maintenance Support</strong>
-          Multiple users cite high maintenance costs as a concern. Consider offering service packages.
-          <span class="ai-badge ai-badge-red">High Priority</span>
+    <!-- AI Chatbot -->
+    <div class="chatbot-card">
+      <div class="chatbot-title">AI Chatbot</div>
+      <div class="chat-container" id="chat-container">
+        <div class="chat-messages" id="chat-messages">
+          <div class="chat-message bot">Hello! I'm your AI assistant. How can I help you with car reviews and recommendations today?</div>
         </div>
       </div>
-      <div class="ai-rec-item">
-        <span class="ai-rec-icon">📈</span>
-        <div class="ai-rec-text">
-          <strong>Highlight Swift's Performance</strong>
-          81% positive sentiment on Suzuki Swift. Feature it prominently on the homepage.
-          <span class="ai-badge ai-badge-green">Opportunity</span>
-        </div>
-      </div>
-      <div class="ai-rec-item">
-        <span class="ai-rec-icon">💬</span>
-        <div class="ai-rec-text">
-          <strong>Respond to Negative Reviews</strong>
-          23% negative sentiment detected. Engage with users to rebuild trust.
-          <span class="ai-badge ai-badge-yellow">Action Needed</span>
-        </div>
+      <div class="chat-input-container">
+        <input type="text" class="chat-input" id="chat-input" placeholder="Type your message...">
+        <button class="send-btn" id="send-btn">Send</button>
       </div>
     </div>
   </div>
@@ -601,6 +645,55 @@ if (webBtn) {
     window.open('https://example.com', '_blank');
   });
 }
+
+// ── CHATBOT FUNCTIONALITY ──
+const chatInput = document.getElementById('chat-input');
+const sendBtn = document.getElementById('send-btn');
+const chatMessages = document.getElementById('chat-messages');
+const chatContainer = document.getElementById('chat-container');
+
+function addMessage(text, type) {
+  const messageDiv = document.createElement('div');
+  messageDiv.className = `chat-message ${type}`;
+  messageDiv.textContent = text;
+  chatMessages.appendChild(messageDiv);
+  chatContainer.scrollTop = chatContainer.scrollHeight;
+}
+
+async function sendMessage() {
+  const message = chatInput.value.trim();
+  if (!message) return;
+
+  addMessage(message, 'user');
+  chatInput.value = '';
+
+  // Show loading
+  sendBtn.innerHTML = '<div class="loading"></div>';
+  sendBtn.disabled = true;
+
+  try {
+    const response = await fetch('http://localhost:8000/chatbot/ask', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ message })
+    });
+
+    if (!response.ok) throw new Error('Failed to get response');
+
+    const result = await response.json();
+    addMessage(result.response || 'Sorry, I couldn\'t process that.', 'bot');
+  } catch (error) {
+    addMessage('Error: Could not connect to chatbot. Please try again.', 'bot');
+  } finally {
+    sendBtn.innerHTML = 'Send';
+    sendBtn.disabled = false;
+  }
+}
+
+sendBtn.addEventListener('click', sendMessage);
+chatInput.addEventListener('keypress', function(e) {
+  if (e.key === 'Enter') sendMessage();
+});
 
 </script>
 </body>
