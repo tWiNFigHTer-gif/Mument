@@ -1,3 +1,12 @@
+function escapeHTML(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
 const carData = {
   audi: {
     name: 'Audi R8', brand: 'Audi', price: '$275,000', tag: 'Luxury Cars',
@@ -76,8 +85,8 @@ function showHome() {
 }
 
 function showDetail(carKey) {
+  if (!Object.prototype.hasOwnProperty.call(carData, carKey)) return;
   const car = carData[carKey];
-  if (!car) return;
 
   // Update info
   document.getElementById('detail-breadcrumb-name').textContent = car.name;
@@ -94,24 +103,32 @@ function showDetail(carKey) {
   // Gallery
   document.getElementById('gallery-main-img').src = car.img;
   const thumbsEl = document.getElementById('gallery-thumbs');
-  thumbsEl.innerHTML = car.thumbs.map((t, i) => `
-    <div class="thumb ${i===0?'active':''}" onclick="setThumb(this,'${t}')">
-      <img src="${t}" alt="">
-    </div>`).join('');
+  thumbsEl.innerHTML = car.thumbs.map((t, i) => {
+    const safeT = escapeHTML(t);
+    return `
+    <div class="thumb ${i===0?'active':''}" data-src="${safeT}">
+      <img src="${safeT}" alt="">
+    </div>`;
+  }).join('');
+  thumbsEl.querySelectorAll('.thumb').forEach(el => {
+    el.addEventListener('click', function() {
+      setThumb(this, this.dataset.src);
+    });
+  });
 
   // Reviews
   const reviewsEl = document.getElementById('reviews-list');
   reviewsEl.innerHTML = car.reviews.map(r => `
     <div class="review-card">
       <div class="review-card-top">
-        <div class="reviewer-avatar"><img src="https://api.dicebear.com/7.x/adventurer/svg?seed=${r.seed}" alt=""></div>
+        <div class="reviewer-avatar"><img src="https://api.dicebear.com/7.x/adventurer/svg?seed=${escapeHTML(r.seed)}" alt=""></div>
         <div>
-          <div class="reviewer-name">${r.name} <span class="verified-badge">♥ Verified</span></div>
+          <div class="reviewer-name">${escapeHTML(r.name)} <span class="verified-badge">♥ Verified</span></div>
           <div class="review-stars">${'★'.repeat(r.stars)}${'<span class="empty-star">★</span>'.repeat(5-r.stars)}</div>
         </div>
-        <span class="review-date">${r.date}</span>
+        <span class="review-date">${escapeHTML(r.date)}</span>
       </div>
-      <div class="review-text">${r.text}</div>
+      <div class="review-text">${escapeHTML(r.text)}</div>
     </div>`).join('');
 
   document.getElementById('home-page').style.display = 'none';
