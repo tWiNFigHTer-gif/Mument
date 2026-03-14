@@ -18,18 +18,18 @@
   </a>
   <div class="nav-search">
     <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-    <input type="text" placeholder="Search luxury cars...">
+    <input type="text" id="nav-search-input" placeholder="Search luxury cars...">
   </div>
   <div class="nav-links">
     <a href="#" class="active" id="nav-home" onclick="showHome()">Home</a>
     <a href="#" id="nav-cars">Cars</a>
-    <a href="#">Reviews</a>
-    <a href="#">About</a>
+    <a href="#" id="nav-reviews">Reviews</a>
+    <a href="#" id="nav-about">About</a>
   </div>
   <div class="nav-divider"></div>
   <div class="nav-actions">
-    <button title="Wishlist"><img src="images/favourite.png" alt="Wishlist" class="nav-icon"></button>
-    <button title="Notifications"><img src="images/notification.png" alt="Notifications" class="nav-icon"></button>
+    <button title="Wishlist" id="nav-wishlist-btn"><img src="images/favourite.png" alt="Wishlist" class="nav-icon"></button>
+    <button title="Notifications" id="nav-notifications-btn"><img src="images/notification.png" alt="Notifications" class="nav-icon"></button>
   </div>
   <div class="nav-avatar">
     <img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Felix" alt="User">
@@ -44,15 +44,16 @@
       <span>☰ Filters</span>
       <a href="#">Clear All</a>
     </div>
+    <div class="filter-summary" id="filter-summary">Showing all 6 cars</div>
 
     <!-- Categories -->
     <div class="filter-section">
       <div class="filter-title">Categories <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m18 15-6-6-6 6"/></svg></div>
-      <div class="filter-option active"><input type="radio" name="cat" checked> All Cars</div>
-      <div class="filter-option"><input type="radio" name="cat"> SUV</div>
-      <div class="filter-option"><input type="radio" name="cat"> Sedan</div>
-      <div class="filter-option"><input type="radio" name="cat"> Sports</div>
-      <div class="filter-option"><input type="radio" name="cat"> Electric</div>
+      <div class="filter-option active" data-category="all"><input type="radio" name="cat" value="all" checked> All Cars</div>
+      <div class="filter-option" data-category="suv"><input type="radio" name="cat" value="suv"> SUV</div>
+      <div class="filter-option" data-category="sedan"><input type="radio" name="cat" value="sedan"> Sedan</div>
+      <div class="filter-option" data-category="sports"><input type="radio" name="cat" value="sports"> Sports</div>
+      <div class="filter-option" data-category="electric"><input type="radio" name="cat" value="electric"> Electric</div>
     </div>
 
     <!-- Price Range -->
@@ -60,37 +61,39 @@
       <div class="filter-title">Price Range <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m18 15-6-6-6 6"/></svg></div>
       <div class="price-range">
         <div class="price-inputs">
-          <input class="price-input" value="$50,000" type="text">
-          <input class="price-input" value="$500,000" type="text">
+          <input class="price-input" id="price-min-input" value="$50,000" type="text">
+          <input class="price-input" id="price-max-input" value="$500,000" type="text">
         </div>
-        <input type="range" class="range-slider" min="0" max="100" value="40">
+        <input type="range" class="range-slider" id="price-range-slider" min="0" max="100" value="100">
       </div>
     </div>
 
     <!-- Brand -->
     <div class="filter-section">
       <div class="filter-title">Brand <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m18 15-6-6-6 6"/></svg></div>
-      <div class="filter-option"><input type="checkbox" checked> Audi</div>
-      <div class="filter-option"><input type="checkbox" checked> BMW</div>
-      <div class="filter-option"><input type="checkbox"> Mercedes</div>
-      <div class="filter-option"><input type="checkbox"> Porsche</div>
-      <div class="filter-option" style="color:var(--accent);font-size:0.85rem;cursor:pointer;">∨ More</div>
+      <div class="filter-option" data-brand="audi"><input type="checkbox" value="audi" checked> Audi</div>
+      <div class="filter-option" data-brand="bmw"><input type="checkbox" value="bmw" checked> BMW</div>
+      <div class="filter-option filter-option-extra" data-brand="mercedes"><input type="checkbox" value="mercedes"> Mercedes</div>
+      <div class="filter-option filter-option-extra" data-brand="porsche"><input type="checkbox" value="porsche"> Porsche</div>
+      <div class="filter-option filter-option-extra" data-brand="tata"><input type="checkbox" value="tata"> TATA</div>
+      <div class="filter-option filter-option-extra" data-brand="suzuki"><input type="checkbox" value="suzuki"> Suzuki</div>
+      <button class="filter-more-btn" id="brand-more-btn" type="button">More Brands</button>
     </div>
 
     <!-- Review Sentiment -->
     <div class="filter-section">
       <div class="filter-title">Review Sentiment <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m18 15-6-6-6 6"/></svg></div>
-      <div class="sentiment-box green"><div class="sentiment-dot" style="background:var(--green)"></div> Positive 68%+</div>
-      <div class="sentiment-box yellow"><div class="sentiment-dot" style="background:var(--yellow)"></div> Neutral 40% - 67%</div>
-      <div class="sentiment-box red"><div class="sentiment-dot" style="background:var(--red)"></div> Negative &lt; 40%</div>
+      <div class="sentiment-box green" data-sentiment="positive"><div class="sentiment-dot" style="background:var(--green)"></div> Positive 68%+</div>
+      <div class="sentiment-box yellow" data-sentiment="neutral"><div class="sentiment-dot" style="background:var(--yellow)"></div> Neutral 40% - 67%</div>
+      <div class="sentiment-box red" data-sentiment="negative"><div class="sentiment-dot" style="background:var(--red)"></div> Negative &lt; 40%</div>
     </div>
 
     <!-- Rating -->
     <div class="filter-section">
       <div class="filter-title">Rating</div>
       <div class="rating-row">
-        <input type="range" class="range-slider" min="0" max="100" value="60" style="flex:1">
-        <span style="margin-left:10px">⭐ 4.0+</span>
+        <input type="range" class="range-slider" id="rating-range-slider" min="0" max="100" value="60" style="flex:1">
+        <span id="rating-filter-label" style="margin-left:10px">⭐ 3.0+</span>
       </div>
     </div>
 
@@ -120,14 +123,14 @@
     </div>
 
     <!-- Top Cars -->
-    <div class="section-header">
+    <div class="section-header" id="cars-section">
       <h2 class="section-title">Top Cars</h2>
       <button class="view-all">View All</button>
     </div>
 
     <div class="car-grid">
       <!-- Audi R8 -->
-      <div class="car-card" onclick="showDetail('audi')">
+      <div class="car-card" data-car-key="audi" onclick="showDetail('audi')">
         <div class="car-card-img">
           <img src="images/audi_r8.png" alt="Audi R8">
         </div>
@@ -151,14 +154,14 @@
           </div>
           <div class="car-card-footer">
             <span class="car-price">$275,000</span>
-            <button class="wishlist-btn" onclick="event.stopPropagation();this.classList.toggle('active')">♥</button>
+            <button class="wishlist-btn">♥</button>
           </div>
           <button class="view-details-btn" onclick="event.stopPropagation();showDetail('audi')">View Details →</button>
         </div>
       </div>
 
       <!-- Punch -->
-      <div class="car-card" onclick="showDetail('punch')">
+      <div class="car-card" data-car-key="punch" onclick="showDetail('punch')">
         <div class="car-card-img">
           <img src="images/punch.png" alt="Tata Punch">
         </div>
@@ -182,14 +185,14 @@
           </div>
           <div class="car-card-footer">
             <span class="car-price">$115,000</span>
-            <button class="wishlist-btn" onclick="event.stopPropagation();this.classList.toggle('active')">♥</button>
+            <button class="wishlist-btn">♥</button>
           </div>
           <button class="view-details-btn" onclick="event.stopPropagation();showDetail('punch')">View Details →</button>
         </div>
       </div>
 
       <!-- Swift -->
-      <div class="car-card" onclick="showDetail('swift')">
+      <div class="car-card" data-car-key="swift" onclick="showDetail('swift')">
         <div class="car-card-img">
           <img src="images/swift.png" alt="Suzuki Swift">
         </div>
@@ -213,14 +216,14 @@
           </div>
           <div class="car-card-footer">
             <span class="car-price">$90,000</span>
-            <button class="wishlist-btn" onclick="event.stopPropagation();this.classList.toggle('active')">♥</button>
+            <button class="wishlist-btn">♥</button>
           </div>
           <button class="view-details-btn" onclick="event.stopPropagation();showDetail('swift')">View Details →</button>
         </div>
       </div>
 
       <!-- Baleno -->
-      <div class="car-card" onclick="showDetail('baleno')">
+      <div class="car-card" data-car-key="baleno" onclick="showDetail('baleno')">
         <div class="car-card-img">
           <img src="images/baleno.png" alt="Suzuki Baleno">
         </div>
@@ -244,14 +247,14 @@
           </div>
           <div class="car-card-footer">
             <span class="car-price">$75,000</span>
-            <button class="wishlist-btn" onclick="event.stopPropagation();this.classList.toggle('active')">♥</button>
+            <button class="wishlist-btn">♥</button>
           </div>
           <button class="view-details-btn" onclick="event.stopPropagation();showDetail('baleno')">View Details →</button>
         </div>
       </div>
 
       <!-- Mercedes -->
-      <div class="car-card" onclick="showDetail('benz')">
+      <div class="car-card" data-car-key="benz" onclick="showDetail('benz')">
         <div class="car-card-img">
           <img src="images/benz.png" alt="Mercedes C-Class">
         </div>
@@ -275,14 +278,14 @@
           </div>
           <div class="car-card-footer">
             <span class="car-price">$185,000</span>
-            <button class="wishlist-btn" onclick="event.stopPropagation();this.classList.toggle('active')">♥</button>
+            <button class="wishlist-btn">♥</button>
           </div>
           <button class="view-details-btn" onclick="event.stopPropagation();showDetail('benz')">View Details →</button>
         </div>
       </div>
 
       <!-- BMW -->
-      <div class="car-card" onclick="showDetail('bmw')">
+      <div class="car-card" data-car-key="bmw" onclick="showDetail('bmw')">
         <div class="car-card-img">
           <img src="images/bmw.png" alt="BMW 6 Series">
         </div>
@@ -306,11 +309,16 @@
           </div>
           <div class="car-card-footer">
             <span class="car-price">$220,000</span>
-            <button class="wishlist-btn" onclick="event.stopPropagation();this.classList.toggle('active')">♥</button>
+            <button class="wishlist-btn">♥</button>
           </div>
           <button class="view-details-btn" onclick="event.stopPropagation();showDetail('bmw')">View Details →</button>
         </div>
       </div>
+    </div>
+
+    <div class="about-panel" id="about-panel">
+      <h3>About AutoReview</h3>
+      <p>AutoReview helps customers explore cars, submit reviews, and compare feedback in one place. Use filters to narrow the list, open any car for details, and add your own review from the detail page.</p>
     </div>
 
   </main>
@@ -330,7 +338,7 @@
       </div>
       <div class="detail-top-actions">
         <button class="detail-btn">🔀 Compare</button>
-        <button class="detail-btn wishlist">❤️ Add to WishList</button>
+        <button class="detail-btn wishlist" type="button">❤️ Add to WishList</button>
       </div>
     </div>
 
@@ -392,71 +400,45 @@
     <!-- Reviews -->
     <div class="reviews-section">
       <div class="reviews-title">Customer Reviews</div>
-      <div class="reviews-layout">
-        <!-- Overall -->
-        <div class="overall-sentiment">
-          <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;">
-            <h4>Overall Sentiment</h4>
-            <span class="overall-rating-badge">Overall Rating &nbsp;<strong>4.3/5</strong></span>
-          </div>
-          <div class="pie-chart-area">
-            <div class="pie-placeholder"></div>
-            <div class="sentiment-list">
-              <div class="sentiment-item" style="color:var(--green)">75% <span>Positive</span></div>
-              <div class="sentiment-item" style="color:var(--yellow)">20% <span>Neutral</span></div>
-              <div class="sentiment-item" style="color:var(--red)">12% <span>Negative</span></div>
+      <div class="review-tabs">
+        <button class="review-tab active">All</button>
+        <button class="review-tab"><span class="tab-dot" style="background:var(--green)"></span>Positive</button>
+        <button class="review-tab"><span class="tab-dot" style="background:var(--yellow)"></span>Neutral</button>
+        <button class="review-tab"><span class="tab-dot" style="background:var(--red)"></span>Negative</button>
+      </div>
+      <div id="reviews-list">
+        <div class="review-card">
+          <div class="review-card-top">
+            <div class="reviewer-avatar"><img src="https://api.dicebear.com/7.x/adventurer/svg?seed=John" alt=""></div>
+            <div>
+              <div class="reviewer-name">John D <span class="verified-badge">♥ Verified</span></div>
+              <div class="review-stars">★★★★★</div>
             </div>
+            <span class="review-date">Feb 2026</span>
           </div>
-          <div class="overall-bar">
-            <div class="bar-green" style="flex:75"></div>
-            <div class="bar-yellow" style="flex:20"></div>
-            <div class="bar-red" style="flex:12"></div>
-          </div>
+          <div class="review-text">Amazing performance and design</div>
         </div>
-
-        <!-- Review list -->
-        <div>
-          <div class="review-tabs">
-            <button class="review-tab active">All</button>
-            <button class="review-tab"><span class="tab-dot" style="background:var(--green)"></span>Positive</button>
-            <button class="review-tab"><span class="tab-dot" style="background:var(--yellow)"></span>Neutral</button>
-            <button class="review-tab"><span class="tab-dot" style="background:var(--red)"></span>Negative</button>
+        <div class="review-card">
+          <div class="review-card-top">
+            <div class="reviewer-avatar"><img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Jaguar" alt=""></div>
+            <div>
+              <div class="reviewer-name">Jaguar G <span class="verified-badge">♥ Verified</span></div>
+              <div class="review-stars">★★★★<span class="empty-star">★</span></div>
+            </div>
+            <span class="review-date">Jan 2026</span>
           </div>
-          <div id="reviews-list">
-            <div class="review-card">
-              <div class="review-card-top">
-                <div class="reviewer-avatar"><img src="https://api.dicebear.com/7.x/adventurer/svg?seed=John" alt=""></div>
-                <div>
-                  <div class="reviewer-name">John D <span class="verified-badge">♥ Verified</span></div>
-                  <div class="review-stars">★★★★★</div>
-                </div>
-                <span class="review-date">Feb 2026</span>
-              </div>
-              <div class="review-text">Amazing performance and design</div>
+          <div class="review-text">Good but Maintenance is very high</div>
+        </div>
+        <div class="review-card">
+          <div class="review-card-top">
+            <div class="reviewer-avatar"><img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Sarah" alt=""></div>
+            <div>
+              <div class="reviewer-name">Sarah M <span class="verified-badge">♥ Verified</span></div>
+              <div class="review-stars">★★★★★</div>
             </div>
-            <div class="review-card">
-              <div class="review-card-top">
-                <div class="reviewer-avatar"><img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Jaguar" alt=""></div>
-                <div>
-                  <div class="reviewer-name">Jaguar G <span class="verified-badge">♥ Verified</span></div>
-                  <div class="review-stars">★★★★<span class="empty-star">★</span></div>
-                </div>
-                <span class="review-date">Jan 2026</span>
-              </div>
-              <div class="review-text">Good but Maintenance is very high</div>
-            </div>
-            <div class="review-card">
-              <div class="review-card-top">
-                <div class="reviewer-avatar"><img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Sarah" alt=""></div>
-                <div>
-                  <div class="reviewer-name">Sarah M <span class="verified-badge">♥ Verified</span></div>
-                  <div class="review-stars">★★★★★</div>
-                </div>
-                <span class="review-date">Jan 2026</span>
-              </div>
-              <div class="review-text">Absolutely love the handling and the quattro system. Best car I've owned.</div>
-            </div>
+            <span class="review-date">Jan 2026</span>
           </div>
+          <div class="review-text">Absolutely love the handling and the quattro system. Best car I've owned.</div>
         </div>
       </div>
     </div>

@@ -7,6 +7,7 @@ class Review(BaseModel):
     rating: int
     comment: str
     sentiment: Optional[str] = None
+    car_key: str
 
 
 class ReviewAnalysisRequest(BaseModel):
@@ -25,4 +26,5 @@ class ReviewResponse(BaseModel):
     rating: int
     comment: str
     sentiment: Optional[str]
+    car_key: str
     timestamp: datetime

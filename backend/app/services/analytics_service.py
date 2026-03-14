@@ -1,7 +1,8 @@
 from app.services.json_storage import read_reviews
 
 def get_review_statistics():
-    reviews = read_reviews()
+    raw_reviews = read_reviews()
+    reviews = [review for review in raw_reviews if isinstance(review, dict)]
 
     total_reviews = len(reviews)
 
@@ -14,12 +15,22 @@ def get_review_statistics():
             "negative": 0
         }
 
-    total_rating = sum(review["rating"] for review in reviews)
+    def _safe_rating(review: dict) -> int:
+        try:
+            return max(1, min(5, int(review.get("rating", 0))))
+        except (TypeError, ValueError):
+            return 3
+
+    total_rating = sum(_safe_rating(review) for review in reviews)
     average_rating = total_rating / total_reviews
 
-    positive = sum(1 for r in reviews if r.get("sentiment") == "positive")
-    neutral = sum(1 for r in reviews if r.get("sentiment") == "neutral")
-    negative = sum(1 for r in reviews if r.get("sentiment") == "negative")
+    def _sentiment_label(review: dict) -> str:
+        label = review.get("sentiment")
+        return label.lower() if isinstance(label, str) else "neutral"
+
+    positive = sum(1 for r in reviews if _sentiment_label(r) == "positive")
+    neutral = sum(1 for r in reviews if _sentiment_label(r) == "neutral")
+    negative = sum(1 for r in reviews if _sentiment_label(r) == "negative")
 
     return {
         "total_reviews": total_reviews,
