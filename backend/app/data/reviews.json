@@ -28,5 +28,41 @@
         "comment": "Milan: good car",
         "sentiment": "positive",
         "timestamp": "2026-03-08T10:48:35.460494"
+    },
+    {
+        "id": "40e835fd-74ea-4b98-aa11-cd805722a92c",
+        "username": "Guest",
+        "rating": 4,
+        "comment": "jeevan: bad car",
+        "sentiment": "negative",
+        "car_key": "audi",
+        "timestamp": "2026-03-12T11:34:21.262807"
+    },
+    {
+        "id": "23a4bd37-2655-4559-9580-af0d8b57dfef",
+        "username": "LiveTest",
+        "rating": 5,
+        "comment": "excellent car and smooth drive",
+        "sentiment": "positive",
+        "car_key": "audi",
+        "timestamp": "2026-03-14T14:20:09.343578"
+    },
+    {
+        "id": "36d75d77-af07-4475-950c-6c116b1479fe",
+        "username": "Guest",
+        "rating": 2,
+        "comment": "jee: bad car",
+        "sentiment": "negative",
+        "car_key": "audi",
+        "timestamp": "2026-03-14T14:22:13.845581"
+    },
+    {
+        "id": "439f8bf7-d76b-4c8f-b4a8-02193ff44c99",
+        "username": "Guest",
+        "rating": 3,
+        "comment": "milan: decent car",
+        "sentiment": "neutral",
+        "car_key": "audi",
+        "timestamp": "2026-03-14T14:27:34.532852"
     }
 ]
