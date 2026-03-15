@@ -447,8 +447,13 @@ async function submitReview() {
     const submissionMessage = submitResponse.ok
       ? (submitData.message || 'Review submitted successfully.')
       : 'Review saved locally. Start the backend to persist it server-side.';
+    const sentimentText = String(analysis.sentiment || 'neutral');
+    const normalizedConfidence = Number(analysis.confidence);
+    const confidenceText = Number.isFinite(normalizedConfidence)
+      ? ` (${(normalizedConfidence * 100).toFixed(1)}% confidence)`
+      : '';
 
-    alert(submissionMessage);
+    alert(`${submissionMessage}\nSentiment: ${sentimentText}${confidenceText}`);
 
     if (titleInput) {
       titleInput.value = '';
@@ -944,24 +949,34 @@ async function loadDashboard() {
   }
 
   try {
-    const localReviews = readLocalReviews();
-    let apiReviews = [];
+    const [summaryRes, reviewsRes] = await Promise.all([
+      fetch(`${API_BASE}/analytics/summary`),
+      fetch(`${API_BASE}/reviews?page=1&limit=200`)
+    ]);
 
-    try {
-      const reviewsRes = await fetch(`${API_BASE}/reviews/?page=1&limit=200`);
-      const reviewsPayload = await reviewsRes.json();
-      if (reviewsRes.ok) {
-        apiReviews = reviewsPayload.data || [];
-      }
-    } catch (error) {
-      console.error('Error loading API reviews for dashboard:', error);
+    const summaryPayload = await summaryRes.json().catch(() => ({}));
+    const reviewsPayload = await reviewsRes.json().catch(() => ({}));
+
+    let total = Number(summaryPayload.total_reviews) || 0;
+    let positive = Number(summaryPayload.positive) || 0;
+    let negative = Number(summaryPayload.negative) || 0;
+    let neutral = Number(summaryPayload.neutral) || 0;
+
+    if (!summaryRes.ok) {
+      console.error('Error loading analytics summary:', summaryPayload);
+      total = 0;
+      positive = 0;
+      negative = 0;
+      neutral = 0;
     }
 
-    const allReviews = mergeReviews(apiReviews, localReviews);
-    const total = allReviews.length;
-    const positive = allReviews.filter((review) => review.sentiment === 'positive').length;
-    const negative = allReviews.filter((review) => review.sentiment === 'negative').length;
-    const neutral = allReviews.filter((review) => (review.sentiment || 'neutral') === 'neutral').length;
+    const apiReviews = reviewsRes.ok && Array.isArray(reviewsPayload.data)
+      ? reviewsPayload.data.map(normalizeReview)
+      : [];
+
+    if (!reviewsRes.ok) {
+      console.error('Error loading reviews for dashboard table:', reviewsPayload);
+    }
 
     const positivePct = total ? ((positive / total) * 100).toFixed(1) : '0.0';
     const negativePct = total ? ((negative / total) * 100).toFixed(1) : '0.0';
@@ -980,7 +995,7 @@ async function loadDashboard() {
     }
 
     reviewsTableBody.innerHTML = '';
-    allReviews.slice(0, 5).forEach((review) => {
+    apiReviews.slice(0, 5).forEach((review) => {
       const tr = document.createElement('tr');
       const stars = Array.from({ length: 5 }, (_, index) =>
         `<span class="${index < review.rating ? 'star-filled' : 'star-empty'}">★</span>`
@@ -1000,6 +1015,12 @@ async function loadDashboard() {
       `;
       reviewsTableBody.appendChild(tr);
     });
+
+    if (!apiReviews.length) {
+      const emptyRow = document.createElement('tr');
+      emptyRow.innerHTML = '<td colspan="3" style="color:var(--text-mid)">No reviews available from the backend.</td>';
+      reviewsTableBody.appendChild(emptyRow);
+    }
 
     renderDashboardCharts(positive, negative, neutral);
   } catch (error) {
